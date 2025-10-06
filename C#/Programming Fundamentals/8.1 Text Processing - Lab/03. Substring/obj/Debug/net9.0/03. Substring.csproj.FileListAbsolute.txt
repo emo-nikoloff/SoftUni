@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\bin\Debug\net9.0\03. Substring.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\bin\Debug\net9.0\03. Substring.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\bin\Debug\net9.0\03. Substring.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\bin\Debug\net9.0\03. Substring.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\bin\Debug\net9.0\03. Substring.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\refint\03. Substring.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\03. Substring.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.1 Text Processing - Lab\03. Substring\obj\Debug\net9.0\ref\03. Substring.dll

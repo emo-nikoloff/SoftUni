@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net9.0\04. Caesar Cipher.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net9.0\04. Caesar Cipher.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net9.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net9.0\04. Caesar Cipher.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net9.0\04. Caesar Cipher.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\refint\04. Caesar Cipher.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net9.0\ref\04. Caesar Cipher.dll

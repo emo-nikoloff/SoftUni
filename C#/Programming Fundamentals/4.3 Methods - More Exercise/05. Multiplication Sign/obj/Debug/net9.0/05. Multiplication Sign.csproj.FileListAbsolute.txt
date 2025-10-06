@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\bin\Debug\net9.0\05. Multiplication Sign.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\bin\Debug\net9.0\05. Multiplication Sign.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\bin\Debug\net9.0\05. Multiplication Sign.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\bin\Debug\net9.0\05. Multiplication Sign.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\bin\Debug\net9.0\05. Multiplication Sign.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\refint\05. Multiplication Sign.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\05. Multiplication Sign.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.3 Methods - More Exercise\05. Multiplication Sign\obj\Debug\net9.0\ref\05. Multiplication Sign.dll

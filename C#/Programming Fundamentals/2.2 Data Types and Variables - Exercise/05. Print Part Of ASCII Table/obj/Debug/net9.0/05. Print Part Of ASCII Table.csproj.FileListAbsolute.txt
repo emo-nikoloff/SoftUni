@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net9.0\05. Print Part Of ASCII Table.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net9.0\05. Print Part Of ASCII Table.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net9.0\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net9.0\05. Print Part Of ASCII Table.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net9.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\refint\05. Print Part Of ASCII Table.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\05. Print Part Of ASCII Table.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.2 Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net9.0\ref\05. Print Part Of ASCII Table.dll

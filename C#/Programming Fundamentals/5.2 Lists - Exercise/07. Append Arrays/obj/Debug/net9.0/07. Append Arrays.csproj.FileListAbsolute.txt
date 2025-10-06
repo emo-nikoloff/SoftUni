@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\bin\Debug\net9.0\07. Append Arrays.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\bin\Debug\net9.0\07. Append Arrays.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\bin\Debug\net9.0\07. Append Arrays.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\bin\Debug\net9.0\07. Append Arrays.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\bin\Debug\net9.0\07. Append Arrays.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\refint\07. Append Arrays.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\07. Append Arrays.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\07. Append Arrays\obj\Debug\net9.0\ref\07. Append Arrays.dll

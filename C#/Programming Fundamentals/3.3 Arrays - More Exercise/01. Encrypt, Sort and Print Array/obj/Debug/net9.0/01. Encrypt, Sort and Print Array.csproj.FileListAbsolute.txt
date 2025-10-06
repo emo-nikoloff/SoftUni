@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net9.0\01. Encrypt, Sort and Print Array.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net9.0\01. Encrypt, Sort and Print Array.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net9.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net9.0\01. Encrypt, Sort and Print Array.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\net9.0\01. Encrypt, Sort and Print Array.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\refint\01. Encrypt, Sort and Print Array.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\net9.0\ref\01. Encrypt, Sort and Print Array.dll

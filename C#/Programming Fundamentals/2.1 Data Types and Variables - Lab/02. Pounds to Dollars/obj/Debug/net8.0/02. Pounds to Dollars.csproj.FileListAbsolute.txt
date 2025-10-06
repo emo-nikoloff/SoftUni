@@ -1,0 +1,14 @@
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.exe
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.deps.json
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.dll
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.pdb
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.dll
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\refint\02. Pounds to Dollars.dll
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.pdb
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\emobg\Desktop\Проекти\C#\VS Code\SoftUni\SoftUni - Programming Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\ref\02. Pounds to Dollars.dll

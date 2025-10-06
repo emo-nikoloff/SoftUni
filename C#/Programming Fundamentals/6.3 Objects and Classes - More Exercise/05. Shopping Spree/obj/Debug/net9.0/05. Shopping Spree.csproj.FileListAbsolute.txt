@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net9.0\05. Shopping Spree.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net9.0\05. Shopping Spree.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net9.0\05. Shopping Spree.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net9.0\05. Shopping Spree.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\net9.0\05. Shopping Spree.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\refint\05. Shopping Spree.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\05. Shopping Spree.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.3 Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\net9.0\ref\05. Shopping Spree.dll

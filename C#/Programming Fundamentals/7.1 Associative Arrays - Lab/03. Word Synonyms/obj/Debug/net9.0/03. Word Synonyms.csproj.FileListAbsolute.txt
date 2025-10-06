@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net9.0\03. Word Synonyms.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net9.0\03. Word Synonyms.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net9.0\03. Word Synonyms.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net9.0\03. Word Synonyms.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net9.0\03. Word Synonyms.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\refint\03. Word Synonyms.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\03. Word Synonyms.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net9.0\ref\03. Word Synonyms.dll

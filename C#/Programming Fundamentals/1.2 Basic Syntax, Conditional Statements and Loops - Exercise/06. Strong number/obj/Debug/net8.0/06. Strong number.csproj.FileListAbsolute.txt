@@ -1,0 +1,14 @@
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net8.0\06. Strong number.exe
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net8.0\06. Strong number.deps.json
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net8.0\06. Strong number.runtimeconfig.json
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net8.0\06. Strong number.dll
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net8.0\06. Strong number.pdb
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.AssemblyInfo.cs
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.dll
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\refint\06. Strong number.dll
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.pdb
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\06. Strong number.genruntimeconfig.cache
+C:\Users\emobg\Desktop\Проекти\C#\Rider\SoftUni\SoftUni - Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net8.0\ref\06. Strong number.dll

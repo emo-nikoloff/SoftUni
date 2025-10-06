@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net9.0\05. Multiply Big Number.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net9.0\05. Multiply Big Number.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net9.0\05. Multiply Big Number.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net9.0\05. Multiply Big Number.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net9.0\05. Multiply Big Number.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\refint\05. Multiply Big Number.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\05. Multiply Big Number.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.2 Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net9.0\ref\05. Multiply Big Number.dll

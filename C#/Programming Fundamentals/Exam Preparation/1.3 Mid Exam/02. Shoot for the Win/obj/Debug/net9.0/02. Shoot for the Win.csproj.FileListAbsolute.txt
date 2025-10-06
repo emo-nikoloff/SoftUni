@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\bin\Debug\net9.0\02. Shoot for the Win.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\bin\Debug\net9.0\02. Shoot for the Win.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\bin\Debug\net9.0\02. Shoot for the Win.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\bin\Debug\net9.0\02. Shoot for the Win.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\bin\Debug\net9.0\02. Shoot for the Win.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\refint\02. Shoot for the Win.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\02. Shoot for the Win.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\1.3 Mid Exam\02. Shoot for the Win\obj\Debug\net9.0\ref\02. Shoot for the Win.dll

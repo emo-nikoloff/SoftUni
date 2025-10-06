@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\bin\Debug\net9.0\02. Fancy Barcodes.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\bin\Debug\net9.0\02. Fancy Barcodes.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\bin\Debug\net9.0\02. Fancy Barcodes.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\bin\Debug\net9.0\02. Fancy Barcodes.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\bin\Debug\net9.0\02. Fancy Barcodes.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\refint\02. Fancy Barcodes.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\02. Fancy Barcodes.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.4 Final Exam\02. Fancy Barcodes\obj\Debug\net9.0\ref\02. Fancy Barcodes.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net9.0\10. SoftUni Course Planning.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net9.0\10. SoftUni Course Planning.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net9.0\10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net9.0\10. SoftUni Course Planning.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net9.0\10. SoftUni Course Planning.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\refint\10. SoftUni Course Planning.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\10. SoftUni Course Planning.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net9.0\ref\10. SoftUni Course Planning.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\bin\Debug\net9.0\04. List of Products.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\bin\Debug\net9.0\04. List of Products.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\bin\Debug\net9.0\04. List of Products.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\bin\Debug\net9.0\04. List of Products.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\bin\Debug\net9.0\04. List of Products.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\refint\04. List of Products.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\04. List of Products.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\04. List of Products\obj\Debug\net9.0\ref\04. List of Products.dll

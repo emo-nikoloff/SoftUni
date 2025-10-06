@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net9.0\05. Remove Negatives and Reverse.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net9.0\05. Remove Negatives and Reverse.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net9.0\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net9.0\05. Remove Negatives and Reverse.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net9.0\05. Remove Negatives and Reverse.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\refint\05. Remove Negatives and Reverse.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\05. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net9.0\ref\05. Remove Negatives and Reverse.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\bin\Debug\net9.0\09. Palindrome Integers.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\bin\Debug\net9.0\09. Palindrome Integers.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\bin\Debug\net9.0\09. Palindrome Integers.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\bin\Debug\net9.0\09. Palindrome Integers.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\bin\Debug\net9.0\09. Palindrome Integers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\refint\09. Palindrome Integers.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\09. Palindrome Integers.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\4.2 Methods - Exercise\09. Palindrome Integers\obj\Debug\net9.0\ref\09. Palindrome Integers.dll

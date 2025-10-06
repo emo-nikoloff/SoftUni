@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net9.0\01. Sum Adjacent Equal Numbers.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net9.0\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net9.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net9.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net9.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\refint\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.1 Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net9.0\ref\01. Sum Adjacent Equal Numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\bin\Debug\net9.0\01. Train.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\bin\Debug\net9.0\01. Train.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\bin\Debug\net9.0\01. Train.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\bin\Debug\net9.0\01. Train.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\bin\Debug\net9.0\01. Train.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\refint\01. Train.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\01. Train.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\01. Train\obj\Debug\net9.0\ref\01. Train.dll

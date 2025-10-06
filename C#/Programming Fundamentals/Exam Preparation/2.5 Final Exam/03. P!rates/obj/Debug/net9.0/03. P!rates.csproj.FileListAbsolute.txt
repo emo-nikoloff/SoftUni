@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\bin\Debug\net9.0\03. P!rates.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\bin\Debug\net9.0\03. P!rates.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\bin\Debug\net9.0\03. P!rates.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\bin\Debug\net9.0\03. P!rates.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\bin\Debug\net9.0\03. P!rates.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\refint\03. P!rates.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\03. P!rates.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\2.5 Final Exam\03. P!rates\obj\Debug\net9.0\ref\03. P!rates.dll

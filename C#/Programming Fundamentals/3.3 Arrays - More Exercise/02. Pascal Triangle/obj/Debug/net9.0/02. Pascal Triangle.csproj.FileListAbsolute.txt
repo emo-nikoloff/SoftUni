@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net9.0\02. Pascal Triangle.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net9.0\02. Pascal Triangle.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net9.0\02. Pascal Triangle.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net9.0\02. Pascal Triangle.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\bin\Debug\net9.0\02. Pascal Triangle.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\refint\02. Pascal Triangle.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\02. Pascal Triangle.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.3 Arrays - More Exercise\02. Pascal Triangle\obj\Debug\net9.0\ref\02. Pascal Triangle.dll

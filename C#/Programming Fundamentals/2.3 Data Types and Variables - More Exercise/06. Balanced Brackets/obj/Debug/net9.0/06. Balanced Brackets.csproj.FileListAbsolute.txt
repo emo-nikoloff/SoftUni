@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net9.0\06. Balanced Brackets.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net9.0\06. Balanced Brackets.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net9.0\06. Balanced Brackets.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net9.0\06. Balanced Brackets.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net9.0\06. Balanced Brackets.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\refint\06. Balanced Brackets.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\06. Balanced Brackets.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\2.3 Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net9.0\ref\06. Balanced Brackets.dll

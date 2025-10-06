@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net9.0\09. Pokemon Don't Go.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net9.0\09. Pokemon Don't Go.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net9.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net9.0\09. Pokemon Don't Go.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net9.0\09. Pokemon Don't Go.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\refint\09. Pokemon Don't Go.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\09. Pokemon Don't Go.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net9.0\ref\09. Pokemon Don't Go.dll

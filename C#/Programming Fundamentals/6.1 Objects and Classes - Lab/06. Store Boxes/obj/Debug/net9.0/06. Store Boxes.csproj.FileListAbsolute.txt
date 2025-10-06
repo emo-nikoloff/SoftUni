@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\bin\Debug\net9.0\06. Store Boxes.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\bin\Debug\net9.0\06. Store Boxes.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\bin\Debug\net9.0\06. Store Boxes.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\bin\Debug\net9.0\06. Store Boxes.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\bin\Debug\net9.0\06. Store Boxes.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\refint\06. Store Boxes.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\06. Store Boxes.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\6.1 Objects and Classes - Lab\06. Store Boxes\obj\Debug\net9.0\ref\06. Store Boxes.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net9.0\04. Reverse Array of Strings.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net9.0\04. Reverse Array of Strings.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net9.0\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net9.0\04. Reverse Array of Strings.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net9.0\04. Reverse Array of Strings.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\refint\04. Reverse Array of Strings.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\04. Reverse Array of Strings.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.1 Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net9.0\ref\04. Reverse Array of Strings.dll

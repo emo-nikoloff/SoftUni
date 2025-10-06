@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\bin\Debug\net9.0\06. Equal Sum.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\bin\Debug\net9.0\06. Equal Sum.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\bin\Debug\net9.0\06. Equal Sum.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\bin\Debug\net9.0\06. Equal Sum.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\bin\Debug\net9.0\06. Equal Sum.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\refint\06. Equal Sum.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\06. Equal Sum.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\3.2 Arrays - Exercise\06. Equal Sum\obj\Debug\net9.0\ref\06. Equal Sum.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\bin\Debug\net9.0\06. Student Academy.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\bin\Debug\net9.0\06. Student Academy.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\bin\Debug\net9.0\06. Student Academy.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\bin\Debug\net9.0\06. Student Academy.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\bin\Debug\net9.0\06. Student Academy.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\refint\06. Student Academy.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\06. Student Academy.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\06. Student Academy\obj\Debug\net9.0\ref\06. Student Academy.dll

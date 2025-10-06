@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net9.0\04. Star Enigma.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net9.0\04. Star Enigma.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net9.0\04. Star Enigma.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net9.0\04. Star Enigma.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net9.0\04. Star Enigma.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\refint\04. Star Enigma.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\04. Star Enigma.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\10.2 Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net9.0\ref\04. Star Enigma.dll

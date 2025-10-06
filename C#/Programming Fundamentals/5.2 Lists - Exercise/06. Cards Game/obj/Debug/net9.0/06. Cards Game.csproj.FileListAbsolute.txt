@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\bin\Debug\net9.0\06. Cards Game.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\bin\Debug\net9.0\06. Cards Game.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\bin\Debug\net9.0\06. Cards Game.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\bin\Debug\net9.0\06. Cards Game.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\bin\Debug\net9.0\06. Cards Game.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\refint\06. Cards Game.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\06. Cards Game.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\5.2 Lists - Exercise\06. Cards Game\obj\Debug\net9.0\ref\06. Cards Game.dll

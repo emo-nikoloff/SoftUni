@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net9.0\04. Morse Code Translator.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net9.0\04. Morse Code Translator.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net9.0\04. Morse Code Translator.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net9.0\04. Morse Code Translator.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net9.0\04. Morse Code Translator.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\refint\04. Morse Code Translator.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\04. Morse Code Translator.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net9.0\ref\04. Morse Code Translator.dll

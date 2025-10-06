@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\bin\Debug\net9.0\01. Guinea Pig.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\bin\Debug\net9.0\01. Guinea Pig.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\bin\Debug\net9.0\01. Guinea Pig.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\bin\Debug\net9.0\01. Guinea Pig.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\bin\Debug\net9.0\01. Guinea Pig.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\refint\01. Guinea Pig.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\01. Guinea Pig.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\Exam Preparation\Exam 1\01. Guinea Pig\obj\Debug\net9.0\ref\01. Guinea Pig.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\bin\Debug\net9.0\03. Orders.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\bin\Debug\net9.0\03. Orders.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\bin\Debug\net9.0\03. Orders.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\bin\Debug\net9.0\03. Orders.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\bin\Debug\net9.0\03. Orders.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\refint\03. Orders.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\03. Orders.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.2 Associative Arrays - Exercise\03. Orders\obj\Debug\net9.0\ref\03. Orders.dll

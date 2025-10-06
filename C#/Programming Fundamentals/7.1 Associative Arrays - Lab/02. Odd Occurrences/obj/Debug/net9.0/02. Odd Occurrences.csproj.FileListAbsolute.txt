@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net9.0\02. Odd Occurrences.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net9.0\02. Odd Occurrences.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net9.0\02. Odd Occurrences.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net9.0\02. Odd Occurrences.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net9.0\02. Odd Occurrences.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\refint\02. Odd Occurrences.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\02. Odd Occurrences.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\7.1 Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net9.0\ref\02. Odd Occurrences.dll

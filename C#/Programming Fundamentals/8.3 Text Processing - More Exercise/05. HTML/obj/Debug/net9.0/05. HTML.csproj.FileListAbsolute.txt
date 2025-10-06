@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\bin\Debug\net9.0\05. HTML.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\bin\Debug\net9.0\05. HTML.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\bin\Debug\net9.0\05. HTML.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\bin\Debug\net9.0\05. HTML.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\bin\Debug\net9.0\05. HTML.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\refint\05. HTML.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\05. HTML.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\8.3 Text Processing - More Exercise\05. HTML\obj\Debug\net9.0\ref\05. HTML.dll

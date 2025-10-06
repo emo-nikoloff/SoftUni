@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\bin\Debug\net9.0\01. Day of Week.exe
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\bin\Debug\net9.0\01. Day of Week.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\bin\Debug\net9.0\01. Day of Week.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\bin\Debug\net9.0\01. Day of Week.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\bin\Debug\net9.0\01. Day of Week.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\refint\01. Day of Week.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.pdb
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\01. Day of Week.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\Csharp\Programming Fundamentals\3.1 Arrays - Lab\01. Day of Week\obj\Debug\net9.0\ref\01. Day of Week.dll
