@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\refint\03. New House.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\ref\03. New House.dll

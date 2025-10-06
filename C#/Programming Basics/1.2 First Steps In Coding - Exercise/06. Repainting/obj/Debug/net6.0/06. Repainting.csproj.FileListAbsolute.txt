@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\bin\Debug\net6.0\06. Repainting.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\bin\Debug\net6.0\06. Repainting.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\bin\Debug\net6.0\06. Repainting.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\bin\Debug\net6.0\06. Repainting.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\bin\Debug\net6.0\06. Repainting.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\refint\06. Repainting.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\06. Repainting.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\06. Repainting\obj\Debug\net6.0\ref\06. Repainting.dll

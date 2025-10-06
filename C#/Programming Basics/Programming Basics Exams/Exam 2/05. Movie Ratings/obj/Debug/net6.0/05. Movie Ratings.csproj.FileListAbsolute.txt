@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\bin\Debug\net6.0\05. Movie Ratings.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\bin\Debug\net6.0\05. Movie Ratings.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\bin\Debug\net6.0\05. Movie Ratings.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\bin\Debug\net6.0\05. Movie Ratings.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\bin\Debug\net6.0\05. Movie Ratings.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\refint\05. Movie Ratings.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\05. Movie Ratings.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\05. Movie Ratings\obj\Debug\net6.0\ref\05. Movie Ratings.dll

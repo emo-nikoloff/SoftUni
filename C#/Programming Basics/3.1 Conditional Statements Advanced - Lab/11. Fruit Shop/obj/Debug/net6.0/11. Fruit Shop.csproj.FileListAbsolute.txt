@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\net6.0\11. Fruit Shop.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\refint\11. Fruit Shop.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\11. Fruit Shop.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.1 Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\net6.0\ref\11. Fruit Shop.dll

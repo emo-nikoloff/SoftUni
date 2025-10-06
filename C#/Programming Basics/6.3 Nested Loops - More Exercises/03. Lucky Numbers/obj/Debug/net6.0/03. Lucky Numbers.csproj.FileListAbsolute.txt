@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\bin\Debug\net6.0\03. Lucky Numbers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\refint\03. Lucky Numbers.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\03. Lucky Numbers.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\03. Lucky Numbers\obj\Debug\net6.0\ref\03. Lucky Numbers.dll

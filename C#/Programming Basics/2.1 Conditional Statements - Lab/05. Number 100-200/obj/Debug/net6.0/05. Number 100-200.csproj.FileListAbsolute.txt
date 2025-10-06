@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\bin\Debug\net6.0\05. Number 100-200.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\bin\Debug\net6.0\05. Number 100-200.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\bin\Debug\net6.0\05. Number 100-200.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\bin\Debug\net6.0\05. Number 100-200.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\bin\Debug\net6.0\05. Number 100-200.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\refint\05. Number 100-200.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\05. Number 100-200.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.1 Conditional Statements - Lab\05. Number 100-200\obj\Debug\net6.0\ref\05. Number 100-200.dll

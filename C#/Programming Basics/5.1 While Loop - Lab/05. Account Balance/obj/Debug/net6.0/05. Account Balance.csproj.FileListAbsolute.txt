@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\bin\Debug\net6.0\05. Account Balance.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\bin\Debug\net6.0\05. Account Balance.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\bin\Debug\net6.0\05. Account Balance.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\bin\Debug\net6.0\05. Account Balance.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\bin\Debug\net6.0\05. Account Balance.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\refint\05. Account Balance.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\05. Account Balance.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.1 While Loop - Lab\05. Account Balance\obj\Debug\net6.0\ref\05. Account Balance.dll

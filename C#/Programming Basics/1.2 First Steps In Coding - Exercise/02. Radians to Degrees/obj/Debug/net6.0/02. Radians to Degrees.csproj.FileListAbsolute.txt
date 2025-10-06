@@ -1,0 +1,28 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\refint\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\ref\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\net6.0\02. Radians to Degrees.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\refint\02. Radians to Degrees.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\02. Radians to Degrees.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\net6.0\ref\02. Radians to Degrees.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net6.0\01. Hello SoftUni.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net6.0\01. Hello SoftUni.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net6.0\01. Hello SoftUni.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net6.0\01. Hello SoftUni.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\net6.0\01. Hello SoftUni.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\refint\01. Hello SoftUni.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\01. Hello SoftUni.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\net6.0\ref\01. Hello SoftUni.dll

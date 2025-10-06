@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\bin\Debug\net6.0\02. Safari.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\bin\Debug\net6.0\02. Safari.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\bin\Debug\net6.0\02. Safari.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\bin\Debug\net6.0\02. Safari.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\bin\Debug\net6.0\02. Safari.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\refint\02. Safari.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\02. Safari.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\02. Safari\obj\Debug\net6.0\ref\02. Safari.dll

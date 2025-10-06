@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\bin\Debug\net6.0\01. Oscars ceremony.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\refint\01. Oscars ceremony.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\01. Oscars ceremony.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\01. Oscars ceremony\obj\Debug\net6.0\ref\01. Oscars ceremony.dll

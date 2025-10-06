@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\bin\Debug\net6.0\04. Balls.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\bin\Debug\net6.0\04. Balls.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\bin\Debug\net6.0\04. Balls.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\bin\Debug\net6.0\04. Balls.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\bin\Debug\net6.0\04. Balls.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\refint\04. Balls.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\04. Balls.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 7\04. Balls\obj\Debug\net6.0\ref\04. Balls.dll

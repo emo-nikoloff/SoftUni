@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\bin\Debug\net6.0\06. Bills.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\refint\06. Bills.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\06. Bills.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\06. Bills\obj\Debug\net6.0\ref\06. Bills.dll

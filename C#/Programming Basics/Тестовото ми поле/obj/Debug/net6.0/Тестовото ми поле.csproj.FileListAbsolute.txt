@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\bin\Debug\net6.0\Тестовото ми поле.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\bin\Debug\net6.0\Тестовото ми поле.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\bin\Debug\net6.0\Тестовото ми поле.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\bin\Debug\net6.0\Тестовото ми поле.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\bin\Debug\net6.0\Тестовото ми поле.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\refint\Тестовото ми поле.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\Тестовото ми поле.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Тестовото ми поле\obj\Debug\net6.0\ref\Тестовото ми поле.dll

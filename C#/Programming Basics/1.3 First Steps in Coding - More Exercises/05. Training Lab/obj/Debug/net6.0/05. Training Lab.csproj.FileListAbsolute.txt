@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\refint\05. Training Lab.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\ref\05. Training Lab.dll

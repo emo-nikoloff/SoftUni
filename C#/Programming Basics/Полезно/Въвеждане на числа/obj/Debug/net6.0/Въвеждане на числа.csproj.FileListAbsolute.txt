@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\bin\Debug\net6.0\Въвеждане на числа.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\bin\Debug\net6.0\Въвеждане на числа.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\bin\Debug\net6.0\Въвеждане на числа.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\bin\Debug\net6.0\Въвеждане на числа.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\bin\Debug\net6.0\Въвеждане на числа.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\refint\Въвеждане на числа.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\Въвеждане на числа.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Полезно\Въвеждане на числа\obj\Debug\net6.0\ref\Въвеждане на числа.dll

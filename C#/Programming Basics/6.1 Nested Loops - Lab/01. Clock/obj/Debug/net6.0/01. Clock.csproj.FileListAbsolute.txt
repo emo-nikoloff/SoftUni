@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\bin\Debug\net6.0\01. Clock.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\bin\Debug\net6.0\01. Clock.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\bin\Debug\net6.0\01. Clock.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\bin\Debug\net6.0\01. Clock.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\bin\Debug\net6.0\01. Clock.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\refint\01. Clock.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\01. Clock.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\01. Clock\obj\Debug\net6.0\ref\01. Clock.dll

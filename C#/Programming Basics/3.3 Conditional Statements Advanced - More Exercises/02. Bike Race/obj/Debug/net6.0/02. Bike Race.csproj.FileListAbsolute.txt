@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net6.0\02. Bike Race.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\refint\02. Bike Race.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\02. Bike Race.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net6.0\ref\02. Bike Race.dll

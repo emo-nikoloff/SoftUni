@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\net6.0\11. HappyCat Parking.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\refint\11. HappyCat Parking.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\11. HappyCat Parking.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\net6.0\ref\11. HappyCat Parking.dll

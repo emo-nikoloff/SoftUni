@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\net6.0\01. Pipes In Pool.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\refint\01. Pipes In Pool.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\01. Pipes In Pool.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\net6.0\ref\01. Pipes In Pool.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\bin\Debug\net6.0\01. Back To The Past.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\bin\Debug\net6.0\01. Back To The Past.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\bin\Debug\net6.0\01. Back To The Past.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\bin\Debug\net6.0\01. Back To The Past.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\bin\Debug\net6.0\01. Back To The Past.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\refint\01. Back To The Past.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\01. Back To The Past.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.3 For Loop - More Exercises\01. Back To The Past\obj\Debug\net6.0\ref\01. Back To The Past.dll

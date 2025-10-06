@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\net6.0\03. Deposit Calculator.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\refint\03. Deposit Calculator.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\03. Deposit Calculator.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\net6.0\ref\03. Deposit Calculator.dll

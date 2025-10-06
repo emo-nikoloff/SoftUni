@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. Rectangle Area.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\refint\03. Rectangle Area.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. Rectangle Area.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.1 First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\ref\03. Rectangle Area.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\refint\04. Vegetable Market.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.3 First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\ref\04. Vegetable Market.dll

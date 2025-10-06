@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\bin\Debug\net6.0\04. Car To Go.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\refint\04. Car To Go.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\04. Car To Go.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\04. Car To Go\obj\Debug\net6.0\ref\04. Car To Go.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\bin\Debug\net6.0\01. Fruit Market.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\refint\01. Fruit Market.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\01. Fruit Market.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\01. Fruit Market\obj\Debug\net6.0\ref\01. Fruit Market.dll

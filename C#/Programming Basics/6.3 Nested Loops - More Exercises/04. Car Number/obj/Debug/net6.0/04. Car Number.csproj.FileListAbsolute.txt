@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\bin\Debug\net6.0\04. Car Number.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\refint\04. Car Number.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\04. Car Number.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.3 Nested Loops - More Exercises\04. Car Number\obj\Debug\net6.0\ref\04. Car Number.dll

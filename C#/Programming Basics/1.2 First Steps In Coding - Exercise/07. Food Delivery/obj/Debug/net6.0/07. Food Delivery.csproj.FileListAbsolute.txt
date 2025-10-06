@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\bin\Debug\net6.0\07. Food Delivery.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\refint\07. Food Delivery.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\07. Food Delivery.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\1.2 First Steps In Coding - Exercise\07. Food Delivery\obj\Debug\net6.0\ref\07. Food Delivery.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\bin\Debug\net6.0\03. Mobile operator.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\refint\03. Mobile operator.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\03. Mobile operator.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 8\03. Mobile operator\obj\Debug\net6.0\ref\03. Mobile operator.dll

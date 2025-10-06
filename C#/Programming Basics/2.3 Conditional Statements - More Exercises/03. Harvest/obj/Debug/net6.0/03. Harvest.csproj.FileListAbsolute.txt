@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\bin\Debug\net6.0\03. Harvest.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\refint\03. Harvest.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\03. Harvest.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.3 Conditional Statements - More Exercises\03. Harvest\obj\Debug\net6.0\ref\03. Harvest.dll

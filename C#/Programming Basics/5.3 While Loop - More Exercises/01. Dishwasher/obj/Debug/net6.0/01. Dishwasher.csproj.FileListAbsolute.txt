@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\bin\Debug\net6.0\01. Dishwasher.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\bin\Debug\net6.0\01. Dishwasher.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\bin\Debug\net6.0\01. Dishwasher.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\bin\Debug\net6.0\01. Dishwasher.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\bin\Debug\net6.0\01. Dishwasher.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\refint\01. Dishwasher.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\01. Dishwasher.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\01. Dishwasher\obj\Debug\net6.0\ref\01. Dishwasher.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\bin\Debug\net6.0\03. Oscars week in cinema.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\refint\03. Oscars week in cinema.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\03. Oscars week in cinema.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\Programming Basics Exams\Exam 2\03. Oscars week in cinema\obj\Debug\net6.0\ref\03. Oscars week in cinema.dll

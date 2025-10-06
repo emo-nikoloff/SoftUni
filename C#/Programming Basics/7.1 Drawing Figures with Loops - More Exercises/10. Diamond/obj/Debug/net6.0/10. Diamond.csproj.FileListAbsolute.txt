@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\bin\Debug\net6.0\10. Diamond.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\bin\Debug\net6.0\10. Diamond.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\bin\Debug\net6.0\10. Diamond.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\bin\Debug\net6.0\10. Diamond.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\bin\Debug\net6.0\10. Diamond.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\refint\10. Diamond.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\10. Diamond.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\10. Diamond\obj\Debug\net6.0\ref\10. Diamond.dll

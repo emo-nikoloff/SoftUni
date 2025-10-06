@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\net6.0\08. Point on Rectangle Border.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\net6.0\08. Point on Rectangle Border.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\net6.0\08. Point on Rectangle Border.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\net6.0\08. Point on Rectangle Border.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\net6.0\08. Point on Rectangle Border.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\refint\08. Point on Rectangle Border.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\08. Point on Rectangle Border.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\net6.0\ref\08. Point on Rectangle Border.dll

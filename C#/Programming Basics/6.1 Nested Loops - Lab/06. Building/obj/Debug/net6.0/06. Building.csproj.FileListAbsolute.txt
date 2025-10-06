@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\bin\Debug\net6.0\06. Building.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\refint\06. Building.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\06. Building.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.1 Nested Loops - Lab\06. Building\obj\Debug\net6.0\ref\06. Building.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\bin\Debug\net6.0\09. House.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\bin\Debug\net6.0\09. House.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\bin\Debug\net6.0\09. House.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\bin\Debug\net6.0\09. House.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\bin\Debug\net6.0\09. House.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\refint\09. House.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\09. House.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\7.1 Drawing Figures with Loops - More Exercises\09. House\obj\Debug\net6.0\ref\09. House.dll

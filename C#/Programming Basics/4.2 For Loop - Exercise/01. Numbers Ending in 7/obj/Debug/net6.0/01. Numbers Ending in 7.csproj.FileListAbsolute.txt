@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net6.0\01. Numbers Ending in 7.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\refint\01. Numbers Ending in 7.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\01. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net6.0\ref\01. Numbers Ending in 7.dll

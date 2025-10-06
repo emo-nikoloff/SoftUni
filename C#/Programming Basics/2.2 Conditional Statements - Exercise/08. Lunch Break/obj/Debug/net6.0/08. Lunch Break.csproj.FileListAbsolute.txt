@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net6.0\08. Lunch Break.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net6.0\08. Lunch Break.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net6.0\08. Lunch Break.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net6.0\08. Lunch Break.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net6.0\08. Lunch Break.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\refint\08. Lunch Break.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\08. Lunch Break.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net6.0\ref\08. Lunch Break.dll

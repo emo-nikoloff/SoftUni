@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\refint\01. Cinema.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.2 Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\ref\01. Cinema.dll

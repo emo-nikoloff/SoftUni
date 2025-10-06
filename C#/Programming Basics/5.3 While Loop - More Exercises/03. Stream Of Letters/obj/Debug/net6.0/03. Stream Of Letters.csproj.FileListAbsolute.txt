@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\bin\Debug\net6.0\03. Stream Of Letters.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\refint\03. Stream Of Letters.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\03. Stream Of Letters.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.3 While Loop - More Exercises\03. Stream Of Letters\obj\Debug\net6.0\ref\03. Stream Of Letters.dll

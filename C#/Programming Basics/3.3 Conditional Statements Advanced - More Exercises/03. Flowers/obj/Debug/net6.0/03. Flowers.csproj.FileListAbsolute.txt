@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\net6.0\03. Flowers.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\net6.0\03. Flowers.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\net6.0\03. Flowers.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\net6.0\03. Flowers.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\bin\Debug\net6.0\03. Flowers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\refint\03. Flowers.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\03. Flowers.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\3.3 Conditional Statements Advanced - More Exercises\03. Flowers\obj\Debug\net6.0\ref\03. Flowers.dll

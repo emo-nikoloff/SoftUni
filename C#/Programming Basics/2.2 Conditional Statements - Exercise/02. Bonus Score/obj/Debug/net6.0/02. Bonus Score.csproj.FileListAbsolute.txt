@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\refint\02. Bonus Score.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\ref\02. Bonus Score.dll

@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\bin\Debug\net6.0\05. Salary.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\bin\Debug\net6.0\05. Salary.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\bin\Debug\net6.0\05. Salary.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\bin\Debug\net6.0\05. Salary.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\bin\Debug\net6.0\05. Salary.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\refint\05. Salary.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\05. Salary.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.2 For Loop - Exercise\05. Salary\obj\Debug\net6.0\ref\05. Salary.dll

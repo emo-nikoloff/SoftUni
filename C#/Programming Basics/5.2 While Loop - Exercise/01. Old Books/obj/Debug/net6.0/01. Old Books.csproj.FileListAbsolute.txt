@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\bin\Debug\net6.0\01. Old Books.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\refint\01. Old Books.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\01. Old Books.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\5.2 While Loop - Exercise\01. Old Books\obj\Debug\net6.0\ref\01. Old Books.dll

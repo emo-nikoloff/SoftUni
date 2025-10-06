@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\refint\05. Character Sequence.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\4.1 For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\ref\05. Character Sequence.dll

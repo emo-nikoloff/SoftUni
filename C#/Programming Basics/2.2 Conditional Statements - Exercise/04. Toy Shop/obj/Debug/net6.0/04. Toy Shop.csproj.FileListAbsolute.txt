@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\refint\04. Toy Shop.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\2.2 Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\ref\04. Toy Shop.dll

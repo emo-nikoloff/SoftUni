@@ -1,0 +1,14 @@
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net6.0\02. Equal Sums Even Odd Position.exe
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net6.0\02. Equal Sums Even Odd Position.deps.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net6.0\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net6.0\02. Equal Sums Even Odd Position.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\bin\Debug\net6.0\02. Equal Sums Even Odd Position.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\refint\02. Equal Sums Even Odd Position.dll
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.pdb
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\02. Equal Sums Even Odd Position.genruntimeconfig.cache
+C:\Users\Емо Николов\Desktop\Проекти\C#\Visual Studio\SoftUni - C#\6.2 Nested Loops - Exercise\02. Equal Sums Even Odd Position\obj\Debug\net6.0\ref\02. Equal Sums Even Odd Position.dll
