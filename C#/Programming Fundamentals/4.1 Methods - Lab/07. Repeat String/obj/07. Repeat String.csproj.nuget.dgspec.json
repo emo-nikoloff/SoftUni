@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj",
         "projectName": "07. Repeat String",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\07. Repeat String.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\07. Repeat String\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

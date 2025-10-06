@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\03. Floating Equality\\03. Floating Equality.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\03. Floating Equality\\03. Floating Equality.csproj",
       "projectName": "03. Floating Equality",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\03. Floating Equality\\03. Floating Equality.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\03. Floating Equality\\03. Floating Equality.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\03. Floating Equality\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\03. Floating Equality\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

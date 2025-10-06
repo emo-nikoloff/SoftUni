@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj",
         "projectName": "02. Judge",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\02. Judge.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\7.3 Associative Arrays - More Exercise\\02. Judge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
         "projectName": "04. Star Enigma",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\04. Star Enigma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
       "projectName": "02. Pounds to Dollars",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\02. Pounds to Dollars\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\02. Pounds to Dollars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

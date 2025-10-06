@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj",
         "projectName": "03. Longer Line",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\03. Longer Line.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.3 Methods - More Exercise\\03. Longer Line\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

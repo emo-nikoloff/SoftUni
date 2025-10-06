@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj",
         "projectName": "11. Array Manipulator",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\11. Array Manipulator.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.2 Methods - Exercise\\11. Array Manipulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

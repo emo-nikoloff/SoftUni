@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
         "projectName": "09. Sum of Odd Numbers",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

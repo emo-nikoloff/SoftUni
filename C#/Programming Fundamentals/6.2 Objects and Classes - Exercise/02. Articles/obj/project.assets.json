@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\02. Articles\\02. Articles.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\02. Articles\\02. Articles.csproj",
       "projectName": "02. Articles",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\02. Articles\\02. Articles.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\02. Articles\\02. Articles.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\02. Articles\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\02. Articles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

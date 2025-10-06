@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\03. House Party\\03. House Party.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\03. House Party\\03. House Party.csproj",
       "projectName": "03. House Party",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\03. House Party\\03. House Party.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\03. House Party\\03. House Party.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\03. House Party\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\03. House Party\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

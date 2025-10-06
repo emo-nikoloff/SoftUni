@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\02. Grades\\02. Grades.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\02. Grades\\02. Grades.csproj",
       "projectName": "02. Grades",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\02. Grades\\02. Grades.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\02. Grades\\02. Grades.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\4.1 Methods - Lab\\02. Grades\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\4.1 Methods - Lab\\02. Grades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
         "projectName": "08. Triangle of Numbers",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

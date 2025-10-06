@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj",
         "projectName": "05. Teamwork Projects",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\05. Teamwork Projects.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\05. Teamwork Projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

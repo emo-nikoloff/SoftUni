@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj",
       "projectName": "13. Holidays Between Two Dates",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

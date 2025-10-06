@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj",
         "projectName": "08. Beer Kegs",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\08. Beer Kegs.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\08. Beer Kegs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

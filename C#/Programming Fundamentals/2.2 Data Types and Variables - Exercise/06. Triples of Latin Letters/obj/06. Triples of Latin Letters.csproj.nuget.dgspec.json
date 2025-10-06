@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
         "projectName": "06. Triples of Latin Letters",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\06. Triples of Latin Letters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

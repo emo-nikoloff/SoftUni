@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj",
         "projectName": "05. Login",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\05. Login.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

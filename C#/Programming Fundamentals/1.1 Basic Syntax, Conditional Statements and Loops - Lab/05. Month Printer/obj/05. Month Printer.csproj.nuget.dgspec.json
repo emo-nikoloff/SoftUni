@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj",
         "projectName": "05. Month Printer",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\05. Month Printer.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

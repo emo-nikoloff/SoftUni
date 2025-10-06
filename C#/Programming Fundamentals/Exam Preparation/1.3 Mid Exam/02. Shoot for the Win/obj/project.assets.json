@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.3 Mid Exam\\02. Shoot for the Win\\02. Shoot for the Win.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.3 Mid Exam\\02. Shoot for the Win\\02. Shoot for the Win.csproj",
       "projectName": "02. Shoot for the Win",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.3 Mid Exam\\02. Shoot for the Win\\02. Shoot for the Win.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.3 Mid Exam\\02. Shoot for the Win\\02. Shoot for the Win.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.3 Mid Exam\\02. Shoot for the Win\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.3 Mid Exam\\02. Shoot for the Win\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

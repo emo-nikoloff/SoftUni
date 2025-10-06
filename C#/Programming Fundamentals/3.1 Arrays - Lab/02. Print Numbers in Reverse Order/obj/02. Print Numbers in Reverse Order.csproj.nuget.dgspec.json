@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj",
         "projectName": "02. Print Numbers in Reverse Order",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\02. Print Numbers in Reverse Order.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.1 Arrays - Lab\\02. Print Numbers in Reverse Order\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

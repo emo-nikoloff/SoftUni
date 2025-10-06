@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj",
         "projectName": "07. Theatre Promotion",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\07. Theatre Promotion.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

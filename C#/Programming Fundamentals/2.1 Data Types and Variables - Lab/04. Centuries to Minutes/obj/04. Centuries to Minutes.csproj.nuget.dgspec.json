@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
         "projectName": "04. Centuries to Minutes",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\04. Centuries to Minutes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
         "projectName": "09. Padawan Equipment",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

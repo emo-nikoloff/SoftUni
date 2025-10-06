@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
       "projectName": "06. Replace Repeating Chars",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\06. Replace Repeating Chars\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\06. Replace Repeating Chars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

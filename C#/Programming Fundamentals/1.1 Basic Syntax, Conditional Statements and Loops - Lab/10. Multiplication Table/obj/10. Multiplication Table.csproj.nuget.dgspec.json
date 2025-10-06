@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj",
         "projectName": "10. Multiplication Table",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\10. Multiplication Table.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10. Multiplication Table\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

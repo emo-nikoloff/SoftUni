@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
         "projectName": "03. SoftUni Bar Income",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\10.2 Regular Expressions - Exercise\\03. SoftUni Bar Income\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

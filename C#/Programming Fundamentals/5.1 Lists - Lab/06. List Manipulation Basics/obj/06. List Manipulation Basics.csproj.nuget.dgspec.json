@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
         "projectName": "06. List Manipulation Basics",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.1 Lists - Lab\\06. List Manipulation Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

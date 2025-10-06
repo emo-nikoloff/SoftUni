@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
         "projectName": "01. Valid Usernames",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\01. Valid Usernames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

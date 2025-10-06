@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.2 Arrays - Exercise\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.2 Arrays - Exercise\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
       "projectName": "07. Max Sequence of Equal Elements",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.2 Arrays - Exercise\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.2 Arrays - Exercise\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\3.2 Arrays - Exercise\\07. Max Sequence of Equal Elements\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\3.2 Arrays - Exercise\\07. Max Sequence of Equal Elements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

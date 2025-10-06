@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
         "projectName": "09. Spice Must Flow",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.2 Data Types and Variables - Exercise\\09. Spice Must Flow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

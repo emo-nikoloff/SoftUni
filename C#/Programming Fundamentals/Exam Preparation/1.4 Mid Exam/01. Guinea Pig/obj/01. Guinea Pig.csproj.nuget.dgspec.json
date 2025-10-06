@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj",
         "projectName": "01. Guinea Pig",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\01. Guinea Pig.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\01. Guinea Pig\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

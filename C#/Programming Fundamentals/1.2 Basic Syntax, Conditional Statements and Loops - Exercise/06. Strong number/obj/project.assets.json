@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\06. Strong number.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\06. Strong number.csproj",
       "projectName": "06. Strong number",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\06. Strong number.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\06. Strong number.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

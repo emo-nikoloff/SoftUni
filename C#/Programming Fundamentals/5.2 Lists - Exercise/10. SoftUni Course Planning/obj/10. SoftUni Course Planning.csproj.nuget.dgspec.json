@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
         "projectName": "10. SoftUni Course Planning",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.2 Lists - Exercise\\10. SoftUni Course Planning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

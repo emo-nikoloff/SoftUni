@@ -12,3 +12,4 @@ C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fun
 C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\General\Test Field\obj\Debug\net8.0\Test Field.pdb
 C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\General\Test Field\obj\Debug\net8.0\Test Field.genruntimeconfig.cache
 C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\General\Test Field\obj\Debug\net8.0\ref\Test Field.dll
+C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\Programming Fundamentals\General\Test Field\obj\Debug\net8.0\Test Field.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj",
         "projectName": "03. Heart Delivery",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\03. Heart Delivery.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\1.4 Mid Exam\\03. Heart Delivery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

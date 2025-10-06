@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\2.5 Final Exam\\02. Emoji Detector\\02. Emoji Detector.csproj",
+      "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\2.5 Final Exam\\02. Emoji Detector\\02. Emoji Detector.csproj",
       "projectName": "02. Emoji Detector",
-      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\2.5 Final Exam\\02. Emoji Detector\\02. Emoji Detector.csproj",
+      "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\2.5 Final Exam\\02. Emoji Detector\\02. Emoji Detector.csproj",
       "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\Exam Preparation\\2.5 Final Exam\\02. Emoji Detector\\obj\\",
+      "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\Exam Preparation\\2.5 Final Exam\\02. Emoji Detector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

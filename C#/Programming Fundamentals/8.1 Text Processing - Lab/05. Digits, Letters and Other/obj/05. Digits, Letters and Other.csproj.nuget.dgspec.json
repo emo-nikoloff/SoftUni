@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj",
         "projectName": "05. Digits, Letters and Other",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.1 Text Processing - Lab\\05. Digits, Letters and Other\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

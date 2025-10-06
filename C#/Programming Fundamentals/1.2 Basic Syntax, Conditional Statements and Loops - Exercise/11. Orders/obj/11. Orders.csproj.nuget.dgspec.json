@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj",
         "projectName": "11. Orders",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\11. Orders.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\1.2 Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
         "projectName": "03. Exact Sum of Real Numbers",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.1 Data Types and Variables - Lab\\03. Exact Sum of Real Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

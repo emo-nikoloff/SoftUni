@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06. List Manipulation Basics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94d88069db07b883c22cace2349f7d393ad775f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1f78960be64afec1ddb8b442d611f2dca1bb0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("06. List Manipulation Basics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06. List Manipulation Basics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

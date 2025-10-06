@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
         "projectName": "08. Letters Change Numbers",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\8.2 Text Processing - Exercise\\08. Letters Change Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

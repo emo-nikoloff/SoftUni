@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj",
         "projectName": "03. Take-Skip Rope",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\03. Take-Skip Rope.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\5.3 Lists - More Exercise\\03. Take-Skip Rope\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

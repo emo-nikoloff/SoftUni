@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj",
         "projectName": "01. Data Type Finder",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\01. Data Type Finder.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\2.3 Data Types and Variables - More Exercise\\01. Data Type Finder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"

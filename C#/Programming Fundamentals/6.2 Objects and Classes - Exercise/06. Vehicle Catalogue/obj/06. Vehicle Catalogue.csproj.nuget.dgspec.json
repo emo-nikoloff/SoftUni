@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj": {}
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj": {
+    "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+        "projectUniqueName": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
         "projectName": "06. Vehicle Catalogue",
-        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+        "projectPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
         "packagesPath": "C:\\Users\\Емо Николов\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\Csharp\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\obj\\",
+        "outputPath": "C:\\Users\\Емо Николов\\Desktop\\Проекти\\SoftUni\\C#\\Programming Fundamentals\\6.2 Objects and Classes - Exercise\\06. Vehicle Catalogue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Емо Николов\\AppData\\Roaming\\NuGet\\NuGet.Config"
