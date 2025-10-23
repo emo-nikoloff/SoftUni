@@ -5,6 +5,7 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 ### Programming Basics
 - ***Covers the foundational concepts of C# programming***:
+
 1. First Steps in Programming
 2. Conditional Statements
 3. Conditional Statements Advanced
@@ -15,6 +16,7 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 ### Programming Fundamentals
 - ***Focuses on more advanced concepts and practical applications***:
+
 1. Basic Syntax, Conditional Statements and Loops
 2. Data Types and Variables
 3. Arrays
