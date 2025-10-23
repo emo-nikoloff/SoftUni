@@ -1,1 +1,1 @@
-# 🕸️ Abandoned 🕷️![alt text](image.png)
+# 🕸️ Abandoned 🕷️
