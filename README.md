@@ -1,2 +1,3 @@
 # SoftUni
-All the projects given to me from SoftUni throughout the years
+This repository contains all the projects assigned to me by **SoftUni** throughout the years.  
+It serves as a portfolio of exercises, assignments, and practical projects across different courses and programming languages.
