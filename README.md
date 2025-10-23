@@ -1,12 +1,12 @@
 # SoftUni
-This repository contains programming exercises and solutions from **SoftUni**. The exercises are organized by programming language into separate folders.
+This repository contains programming exercises and solutions from **SoftUni**.
 
 ## Folder Structure
 - **C#/** - Contains exercises and projects solved using **C#**.
 - **Python/** - Contains exercises and projects solved using **Python**.
 
 ### Notes
-- The **Python/** folder is abandoned.
+- The **Python/** folder is abandoned!
 
 ## Purpose
 The goal of this repository is to practice and improve programming skills by solving a variety of tasks, ranging from basic syntax and algorithms to more advanced problem-solving exercises.
