@@ -1,6 +1,5 @@
 # SoftUni
 
-# Overview
 This repository contains programming exercises and solutions from **SoftUni**.
 
 ## Repository Structure
