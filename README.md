@@ -5,7 +5,7 @@ This repository contains programming exercises and solutions from **SoftUni**. T
 - **C#/** - Contains exercises and projects solved using **C#**.
 - **Python/** - Contains exercises and projects solved using **Python**.
 
-### Notes
+### **IMPORTANT!!!**
 - The **Python/** folder is abandoned.
 
 ## Purpose
