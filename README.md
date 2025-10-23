@@ -8,7 +8,7 @@ The repository is organized into folders by programming language:
 - `Python/` - Projects written in **Python**
 
 ### Notes
-- The `Python/` folder is abandoned!
+- The `Python/` folder is no longer maintained!
 
 ## Purpose
 The goal of this repository is to practice and improve my programming skills by solving a variety of tasks, ranging from basic syntax and algorithms to more advanced problem-solving exercises.
