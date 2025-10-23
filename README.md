@@ -1,7 +1,7 @@
 # SoftUni
 This repository contains programming exercises and solutions from **SoftUni**.
 
-## Folder Structure
+## Repository Structure
 - `C#/` - Contains exercises and projects solved using **C#**.
 - `Python/` - Contains exercises and projects solved using **Python**.
 
