@@ -1,3 +1,11 @@
 # SoftUni
-This repository contains all the projects assigned to me by **SoftUni** throughout the years.  
-It serves as a portfolio of exercises, assignments, and practical projects across different courses and programming languages.
+This repository contains programming exercises and solutions from **SoftUni**. The exercises are organized by programming language into separate folders.
+
+## Folder Structure
+
+- **C#/** - Contains exercises and projects solved using **C#**.
+- **Python/** - Contains exercises and projects solved using **Python**.
+
+## Purpose
+
+The goal of this repository is to practice and improve programming skills by solving a variety of tasks, ranging from basic syntax and algorithms to more advanced problem-solving exercises.
