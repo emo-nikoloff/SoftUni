@@ -1,4 +1,4 @@
-## Overview
+# Overview
 This folder contains all the lessons and exercises I have completed as part of my C# programming journey.
 
 ## Folder Structure
