@@ -19,5 +19,21 @@ class Program
         {
             Console.WriteLine(stack.Pop()); // взима елемента на върха
         }
+
+        Console.WriteLine("---Опашка---");
+        Queue<int> queue = new(); // FIFO => First in - Firs out -> елементите се нареждат един след друг, а не един до друг; последният влязъл елемент е и последният излязъл
+
+        for (int i = 1; i <= 5; i++)
+        {
+            queue.Enqueue(i); // вкарва елемент в опашката
+        }
+
+        Console.WriteLine($"Първият елемент в опашката: {queue.Peek()}"); // връща първия елемент в опашката
+
+        Console.WriteLine("Елементите в опашката:");
+        while (queue.Count > 0)
+        {
+            Console.WriteLine(queue.Dequeue()); // взима първия елемент
+        }
     }
 }
