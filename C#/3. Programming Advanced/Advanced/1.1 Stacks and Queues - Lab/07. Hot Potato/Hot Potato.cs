@@ -13,7 +13,12 @@ class Program
 
         while (circle.Count > 1)
         {
-
+            for (int i = 1; i < tosses; i++)
+            {
+                circle.Enqueue(circle.Dequeue());
+            }
+            Console.WriteLine($"Removed {circle.Dequeue()}");
         }
+        Console.WriteLine($"Last is {circle.Dequeue()}");
     }
 }
