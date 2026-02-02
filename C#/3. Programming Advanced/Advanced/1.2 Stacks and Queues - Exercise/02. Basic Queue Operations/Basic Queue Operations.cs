@@ -1,4 +1,4 @@
-﻿namespace _01._Basic_Stack_Operations;
+﻿namespace _02._Basic_Queue_Operations;
 
 class Program
 {
@@ -9,19 +9,19 @@ class Program
 
         int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-        Stack<int> stack = new();
+        Queue<int> queue = new();
 
         for (int i = 0; i < n; i++)
         {
-            stack.Push(numbers[i]);
+            queue.Enqueue(numbers[i]);
         }
 
         for (int i = 0; i < s; i++)
         {
-            stack.Pop();
+            queue.Dequeue();
         }
 
-        if (stack.Count == 0)
+        if (queue.Count == 0)
         {
             Console.WriteLine(0);
         }
@@ -29,9 +29,9 @@ class Program
         {
             int min = int.MaxValue;
             bool isFound = false;
-            while (stack.Count > 0)
+            while (queue.Count > 0)
             {
-                int number = stack.Pop();
+                int number = queue.Dequeue();
                 if (!isFound && number == x) isFound = true;
 
                 min = Math.Min(min, number);
