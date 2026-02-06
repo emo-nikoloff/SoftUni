@@ -35,5 +35,11 @@ class Program
         {
             Console.WriteLine(queue.Dequeue()); // взима първия елемент
         }
+
+        // въртене на елементите в опашка...
+
+        Console.WriteLine("---Многомерни масиви---");
+        Console.WriteLine("---Назъбени масиви---");
+        Console.WriteLine("---Сетове---");
     }
 }
