@@ -49,7 +49,7 @@ class Program
 
         Console.WriteLine("--------lambda функции--------");
 
-        // lambda(анонимни) функции: методи на един ред
+        // lambda(анонимни) функции: методи на един ред; съкратен запис на функция
         List<int> numbers = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
         List<int> evenNumbers = numbers.FindAll(x => x % 2 == 0); // lambda израз в скобите на FindAll; параметър => резултат
 
