@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("--------Стек--------");
+        Console.WriteLine("<--------Стек-------->");
         Stack<int> stack = new(); // LIFO => Last in - First out -> елементите се нареждат един върху друг, а не един до друг; последният влязъл елемент е и първият излязъл
 
         for (int i = 1; i <= 5; i++)
@@ -20,7 +20,7 @@ class Program
             Console.WriteLine(stack.Pop()); // взима елемента на върха
         }
 
-        Console.WriteLine("--------Опашка--------");
+        Console.WriteLine("<--------Опашка-------->");
         Queue<int> queue = new(); // FIFO => First in - Firs out -> елементите се нареждат един след друг, а не един до друг; последният влязъл елемент е и последният излязъл
 
         for (int i = 1; i <= 5; i++)
@@ -44,7 +44,7 @@ class Program
         names.Enqueue(names.Dequeue()); // махаме първия елемент и след това го добавяме отново => отива най-отзад
         Console.WriteLine($"John минава от реда си и отива най-отзад => {string.Join(", ", names)}");
 
-        Console.WriteLine("--------Многомерни масиви--------");
+        Console.WriteLine("<--------Многомерни масиви-------->");
         Console.WriteLine("---> Матрица:"); // първото измерение - редове, а второто - колони
         int[,] matrix = {
             { 5, 7, 2, 4 }, // стойностите на ред 0
@@ -95,7 +95,7 @@ class Program
             Console.WriteLine();
         }
 
-        Console.WriteLine("--------Сетове--------");
+        Console.WriteLine("<--------Сетове-------->");
         HashSet<string> hashSet = new(); // сета пази уникални елементи; хеш-сета пази елемементите в хеш-таблица
         hashSet.Add("John");
         hashSet.Add("John"); // няма да се добави, защото вече съществува
@@ -106,7 +106,7 @@ class Program
             Console.WriteLine(name);
         }
 
-        Console.WriteLine("--------Файлове--------");
+        Console.WriteLine("<--------Файлове-------->");
         string inputFilePath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\General\Files\input.txt";
         string outputFilePath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\General\Files\output.txt";
 
@@ -126,7 +126,8 @@ class Program
             }
         }
 
-        Console.WriteLine("--------Функции--------");
+        Console.WriteLine("<--------Функции-------->");
+        Console.WriteLine("------Първичен клас------"); // функциите могат да се пазят в прометливи или да бъдат подавани като аргументи
         Console.WriteLine("---> Делегат:"); // променлива, която пази метод
         MyDelegate firstDelegate = new(PrintHelloEmo);
         firstDelegate(); // извикване на делегата; ако не е от тип void, ще трябва да се присвои към променлива от съответния тип
@@ -172,6 +173,19 @@ class Program
 
         List<int> negativeNumbers = numbers.FindAll(isNegative);
         Console.WriteLine($"Всички отрицателни числа в списъка: {string.Join(", ", negativeNumbers)}");
+        Console.WriteLine("------По-висок клас------"); // функциите могат да бъдат параметри на методи или да се връщат като резултат
+        int number = 5;
+        int firstOperation = Operation(number, n => n * 5);
+        int secondOperation = Operation(number, n => n - 3);
+        int thirdOperation = Operation(number, n => n % 2);
+        Console.WriteLine($"Число: {number}\nОперация 1=> {firstOperation}\nОперация 2=> {secondOperation}\nОперация 3=> {thirdOperation}");
+
+        Console.WriteLine("----------------");
+
+        long firstAggregation = Aggregate(1, 10, (a, b) => a + b);
+        long secondAggregation = Aggregate(1, 10, (a, b) => a * b);
+        long thirdAggregation = Aggregate(1, 10, (a, b) => long.Parse("" + a + b));
+        Console.WriteLine($"Агрегиране 1: {firstAggregation}\nАгрегиране 2: {secondAggregation}\nАгрегиране 3: {thirdAggregation}");
     }
 
     // Функции:
@@ -193,4 +207,19 @@ class Program
     }
 
     delegate int Combine(int x, int y);
+
+    static int Operation(int number, Func<int, int> operation)
+    {
+        return operation(number);
+    }
+
+    static long Aggregate(int start, int end, Func<long, long, long> operation)
+    {
+        long result = start;
+        for (int i = start + 1; i <= end; i++)
+        {
+            result = operation(result, i);
+        }
+        return result;
+    }
 }
