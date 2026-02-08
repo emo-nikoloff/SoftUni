@@ -1,4 +1,6 @@
-﻿namespace Plan;
+﻿using System.Text;
+
+namespace Plan;
 
 class Program
 {
@@ -107,24 +109,65 @@ class Program
         }
 
         Console.WriteLine("<--------Файлове-------->");
-        string inputFilePath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\General\Files\input.txt";
+        Console.WriteLine("------Stream потоци------"); // може да се работи с потоци и файлове; информацията се пренася на байтове
+        string inputFilePath = @"..\..\..\..\Files\input.txt"; // файловете се запазват автоматично в bin\Debug\net9.0; 
+                                                               // ако използваме директния път на файла, може да не се отвори на друг компютър, 
+                                                               // затова използваме относителен път; "." - текуща папка, ".." - родителска папка;
+                                                               // колкото повече слагаме "..", толкова повече се връщаме назад; 
+                                                               // => върни се 4 папки назад, след това влез във Files и отвори файла
         string outputFilePath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\General\Files\output.txt";
 
         StreamReader reader = new(inputFilePath); // чете от файл/поток
         using (reader) // затваря потока правилно накрая
         {
-            string line = reader.ReadLine();
+            string line = reader.ReadLine(); // чете от файл; мести позицията на следващия ред
 
             StreamWriter writer = new(outputFilePath); // записва във файл/поток
             using (writer)
             {
                 while (line != null)
                 {
-                    writer.WriteLine(line);
+                    writer.WriteLine(line); // записва във файл
+                    Console.WriteLine(line);
                     line = reader.ReadLine();
                 }
             }
         }
+        Console.WriteLine("------Основни потоци------"); // потоци на по-ниско ниво; информацията се пренася на байтове; работи се само в бинарен формат
+        MemoryStream memory = new();
+        string text = "Emiliyan Nikolov";
+        byte[] textBytes = Encoding.UTF8.GetBytes(text);
+        memory.Write(textBytes, 0, textBytes.Length); // записва в съответния поток(ако е възможно) до зададената позиция
+        memory.Flush(); // изпраща всичко записано до този момент към съответния поток
+        memory.Seek(0, SeekOrigin.Begin); // местим позицията на съответното място и броим до съответното условие
+        byte[] result = new byte[memory.Length];
+        memory.Read(result, 0, result.Length); // чете от последната достигната позиция на съответния поток
+        Console.WriteLine(Encoding.UTF8.GetString(result, 0, result.Length));
+        memory.Close(); // затваря потока; вика автоматично Flush()
+        Console.WriteLine("------Файлови потоци------"); // по-голям контрол; информацията се пренася на байтове; работи се само в бинарен формат
+        using (FileStream fileCreate = new(@"..\..\..\..\Files\file.bin", FileMode.Create)) // друг начин за използване на using; не ни позволява да използваме fileCreate, когато излезем от using-a
+        {
+            byte[] bufferCreate = Encoding.UTF8.GetBytes("C# Advanced");
+
+            fileCreate.Write(bufferCreate, 0, bufferCreate.Length);
+            fileCreate.Close();
+        }
+
+        using FileStream fileOpen = new(@"..\..\..\..\Files\file.bin", FileMode.Open); // друг начин за използване на using; работи до съответния обхват {}; подходящ, когато се използва във функции
+
+        string resultText = string.Empty;
+        while (true) // за да избегнем грешно прочитане на данни
+        {
+            byte[] bufferOpen = new byte[4]; // ще четем по 4 парчета - позицията ще се движи винаги с +4
+            int read = fileOpen.Read(bufferOpen);
+            if (read == 0)
+            {
+                break;
+            }
+            string currentBuffer = Encoding.UTF8.GetString(bufferOpen);
+            resultText += currentBuffer;
+        }
+        Console.WriteLine(resultText);
 
         Console.WriteLine("<--------Функции-------->");
         Console.WriteLine("------Първичен клас------"); // функциите могат да се пазят в прометливи или да бъдат подавани като аргументи
