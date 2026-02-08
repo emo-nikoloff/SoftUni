@@ -168,6 +168,32 @@ class Program
             resultText += currentBuffer;
         }
         Console.WriteLine(resultText);
+        Console.WriteLine("------Директории------");
+        Directory.CreateDirectory("My Directory");
+
+        Console.WriteLine($"Текуща директория: {Directory.GetCurrentDirectory()}");
+
+        Console.WriteLine("----------------");
+
+        string directory = Directory.GetCurrentDirectory();
+        string[] files = Directory.GetFiles(directory);
+
+        Console.WriteLine("Файлове в директорията:");
+        foreach (string file in files)
+        {
+            FileInfo fileInfo = new(file);
+            Console.WriteLine(fileInfo.Name);
+        }
+
+        Console.WriteLine("----------------");
+
+        string[] directories = Directory.GetDirectories(directory);
+        Console.WriteLine("Директории в директорията:");
+        foreach (string dir in directories)
+        {
+            DirectoryInfo dirInfo = new(dir);
+            Console.WriteLine(dirInfo.Name);
+        }
 
         Console.WriteLine("<--------Функции-------->");
         Console.WriteLine("------Първичен клас------"); // функциите могат да се пазят в прометливи или да бъдат подавани като аргументи
