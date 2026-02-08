@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        string wordPath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\03. Word Count\Files\words.txt";
-        string textPath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\03. Word Count\Files\text.txt";
-        string outputPath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\03. Word Count\Files\output.txt";
+        string wordPath = @"..\..\..\Files\words.txt";
+        string textPath = @"..\..\..\Files\text.txt";
+        string outputPath = @"..\..\..\Files\output.txt";
 
         CalculateWordCounts(wordPath, textPath, outputPath);
     }
@@ -44,7 +44,7 @@ class Program
                 {
                     foreach ((string word, int count) in occurences.OrderByDescending(x => x.Value))
                     {
-                        Console.WriteLine($"{word} - {count}");
+                        writer.WriteLine($"{word} - {count}");
                     }
                 }
             }

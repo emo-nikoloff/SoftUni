@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string inputFilePath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\01. Odd Lines\Files\input.txt";
-        string outputFilePath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\01. Odd Lines\Files\output.txt";
+        string inputFilePath = @"..\..\..\Files\input.txt";
+        string outputFilePath = @"..\..\..\Files\output.txt";
         ExtractOddLines(inputFilePath, outputFilePath);
     }
     public static void ExtractOddLines(string inputFilePath, string outputFilePath)

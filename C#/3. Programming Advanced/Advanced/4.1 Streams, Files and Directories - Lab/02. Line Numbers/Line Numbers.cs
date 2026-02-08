@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string inputPath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\02. Line Numbers\Files\input.txt";
-        string outputPath = @"C:\Users\Емо Николов\Desktop\Проекти\SoftUni\C#\3. Programming Advanced\Advanced\4.1 Streams, Files and Directories - Lab\02. Line Numbers\Files\output.txt";
+        string inputPath = @"..\..\..\Files\input.txt";
+        string outputPath = @"..\..\..\Files\output.txt";
 
         RewriteFileWithLineNumbers(inputPath, outputPath);
     }
