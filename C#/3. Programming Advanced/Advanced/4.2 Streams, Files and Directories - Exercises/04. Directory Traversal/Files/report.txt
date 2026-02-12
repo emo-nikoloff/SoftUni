@@ -1,0 +1,2 @@
+.sln
+--SoftUni - Advanced.sln - 106kb
