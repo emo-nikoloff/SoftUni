@@ -1,0 +1,13 @@
+namespace _07._Raw_Data;
+
+public class Engine
+{
+    public Engine(int speed, int power)
+    {
+        Speed = speed;
+        Power = power;
+    }
+
+    public int Speed { get; }
+    public int Power { get; }
+}
