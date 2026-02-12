@@ -255,6 +255,26 @@ class Program
         long secondAggregation = Aggregate(1, 10, (a, b) => a * b);
         long thirdAggregation = Aggregate(1, 10, (a, b) => long.Parse("" + a + b));
         Console.WriteLine($"Агрегиране 1: {firstAggregation}\nАгрегиране 2: {secondAggregation}\nАгрегиране 3: {thirdAggregation}");
+
+        Console.WriteLine("<--------Класове-------->");
+        Console.WriteLine("<--------Дженерици-------->");
+        // класове, методи и др., които работят с различни типове данни, без да се пише отделен код за тях; шаблон за типове данни
+        MyGenericClass<int> customGeneric = new(42);
+        int customValue = customGeneric.GetValue();
+        customGeneric.PrintValue();
+
+        Console.WriteLine("----------------");
+
+        LimitedList<string> limitedStrings = new();
+        limitedStrings.Add("Rojda");
+        limitedStrings.Add("Emiliyan");
+        Console.WriteLine(limitedStrings.Get(0));
+        Console.WriteLine(limitedStrings.Get(1));
+
+        Console.WriteLine("----------------");
+
+        List<int> customList = CreateList<int>(new int[] { 5, 6, 7 });
+        Console.WriteLine(customList.Count);
     }
 
     // Функции:
@@ -290,5 +310,72 @@ class Program
             result = operation(result, i);
         }
         return result;
+    }
+
+    // Дженерици:
+    //=> Методи
+    public static List<T> CreateList<T>(T[] initialValues)
+    {
+        List<T> list = new();
+        for (int i = 0; i < initialValues.Length; i++)
+        {
+            list.Add(initialValues[i]);
+        }
+        return list;
+    }
+}
+
+// Класове:
+
+// Дженерици:
+//=> Класове
+class MyGenericClass<T>
+{
+    private T value;
+
+    public MyGenericClass(T value)
+    {
+        this.value = value;
+    }
+
+    public T GetValue()
+    {
+        return value;
+    }
+
+    public void PrintValue()
+    {
+        Console.WriteLine(value);
+    }
+}
+
+class LimitedList<T>
+{
+    private T[] items;
+    private int index;
+
+    public LimitedList()
+    {
+        items = new T[4];
+        index = 0;
+    }
+
+    public void Add(T item)
+    {
+        if (index >= items.Length)
+        {
+            return;
+        }
+        items[index] = item;
+        index++;
+    }
+
+    public T Get(int index)
+    {
+        if (index < 0 || index >= items.Length)
+        {
+            throw new Exception("Index is out of range. It should be between 0 and 3.");
+        }
+        return items[index];
     }
 }
