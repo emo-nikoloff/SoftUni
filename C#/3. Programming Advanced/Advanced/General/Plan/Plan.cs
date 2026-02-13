@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Collections;
+using System.Text;
 
 namespace Plan;
 
@@ -275,6 +276,30 @@ class Program
 
         List<int> customList = CreateList<int>(new int[] { 5, 6, 7 });
         Console.WriteLine(customList.Count);
+
+        Console.WriteLine("<--------Итератори и компаратори-------->");
+        Console.WriteLine("------Итератори------");
+        Cat firstCat = new() { Name = "Petar" };
+        Cat secondCat = new() { Name = "Stoil" };
+
+        CatCollection cats = new() { firstCat, secondCat }; // ако класът не имплементира IEnumerable, не можем да задаваме колекцията по този
+                                                            // начин - трябва по отделно да ги добавим
+
+        foreach (Cat cat in cats) // ако класът не имплементира IEnumerable, не знаем как да обхождаме колекцията
+        {
+            Console.WriteLine(cat.Name);
+        }
+
+        Console.WriteLine("----------------");
+
+        cats.Add(new("Mincho"), new("Kircho"), new("Yordanka")); // благодарение на ключовата думичка params при извикването на метода, можем да
+                                                                 // добавяме колкото си искаме на брой елементи
+        foreach (Cat cat in cats)
+        {
+            Console.WriteLine(cat.Name);
+        }
+
+        Console.WriteLine("------Компаратори------");
     }
 
     // Функции:
@@ -377,5 +402,96 @@ class LimitedList<T>
             throw new Exception("Index is out of range. It should be between 0 and 3.");
         }
         return items[index];
+    }
+}
+
+// Итератори и компаратори
+class Cat
+{
+    public Cat() { }
+
+    public Cat(string name)
+    {
+        Name = name;
+    }
+
+    public string Name { get; set; }
+}
+
+class CatCollection : IEnumerable<Cat> // задължително трябва да имплементираме всичко от интерфейса
+{
+    private List<Cat> cats;
+
+    public CatCollection()
+    {
+        cats = new();
+    }
+
+    public void Add(Cat cat)
+    {
+        cats.Add(cat);
+    }
+
+    public void Add(params Cat[] cats) // param декларациите могат да се срещат само един път за всеки метод; винаги стоят накрая
+    {
+        foreach (Cat cat in cats)
+        {
+            this.cats.Add(cat);
+        }
+    }
+
+    public IEnumerator<Cat> GetEnumerator() // вместо да създаваме нов клас, който да имплементира IEnumerator, можем да използваме: 
+    {
+        return new CatEnumerator(cats); // foreach (Cat cat in cats)
+                                        // {
+                                        //     yield return cat; // създава итератор директно
+                                        // }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator() // използва се в по-старите версии на .NET; оставяме го така
+    {
+        return GetEnumerator();
+    }
+}
+
+class CatEnumerator : IEnumerator<Cat>
+{
+    private List<Cat> cats;
+    private int index;
+
+    public CatEnumerator(List<Cat> cats)
+    {
+        this.cats = cats;
+        Reset();
+    }
+
+    public Cat Current
+    {
+        get
+        {
+            return cats[index];
+        }
+    }
+
+    object IEnumerator.Current => Current;
+
+    public void Dispose()
+    {
+
+    }
+
+    public bool MoveNext()
+    {
+        index++;
+        if (index >= cats.Count)
+        {
+            return false;
+        }
+        return true;
+    }
+
+    public void Reset()
+    {
+        index = -1;
     }
 }

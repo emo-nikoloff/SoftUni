@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(6 % 7);
+        int number = 5;
+        number += 'a';
+        Console.WriteLine(number);
     }
 }
