@@ -9,12 +9,27 @@ class Program
 
         string carNumber = Console.ReadLine();
 
+        (int row, int col) firstTunnel = (-1, -1);
+        (int row, int col) secondTunnel = (-1, -1);
+
         for (int row = 0; row < matrix.GetLength(0); row++)
         {
             string[] input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             for (int col = 0; col < matrix.GetLength(1); col++)
             {
                 matrix[row, col] = input[col];
+
+                if (matrix[row, col] == "T")
+                {
+                    if (firstTunnel.row == -1)
+                    {
+                        firstTunnel = (row, col);
+                    }
+                    else
+                    {
+                        secondTunnel = (row, col);
+                    }
+                }
             }
         }
 
@@ -47,25 +62,51 @@ class Program
             else if (matrix[carRow, carCol] == "T")
             {
                 distanceTravelled += 30;
-                matrix[carRow, carCol] = ".";
 
-                for (int i = carRow; i < matrix.GetLength(0); i++)
+                if (carRow == firstTunnel.row && carCol == firstTunnel.col)
                 {
-                    for (int j = carCol + 1; j < matrix.GetLength(1); j++)
-                    {
-                        if (matrix[carRow, carCol] == "T")
-                        {
-                            matrix[carRow, carCol] = ".";
-                        }
-                    }
+                    matrix[firstTunnel.row, firstTunnel.col] = ".";
+                    matrix[secondTunnel.row, secondTunnel.col] = ".";
+                    carRow = secondTunnel.row;
+                    carCol = secondTunnel.col;
+                }
+                else
+                {
+                    matrix[firstTunnel.row, firstTunnel.col] = ".";
+                    matrix[secondTunnel.row, secondTunnel.col] = ".";
+                    carRow = firstTunnel.row;
+                    carCol = firstTunnel.col;
                 }
             }
+
             else if (matrix[carRow, carCol] == "F")
             {
                 distanceTravelled += 10;
                 finished = true;
                 break;
             }
+        }
+
+        if (finished)
+        {
+            Console.WriteLine($"Racing car {carNumber} finished the stage!");
+        }
+        else
+        {
+            Console.WriteLine($"Racing car {carNumber} DNF.");
+        }
+
+        Console.WriteLine($"Distance covered {distanceTravelled} km.");
+
+        matrix[carRow, carCol] = "C";
+
+        for (int row = 0; row < matrix.GetLength(0); row++)
+        {
+            for (int col = 0; col < matrix.GetLength(1); col++)
+            {
+                Console.Write(matrix[row, col]);
+            }
+            Console.WriteLine();
         }
     }
 }
