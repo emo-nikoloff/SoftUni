@@ -1,71 +1,8 @@
-﻿namespace _02._Rally_Racing;
+﻿namespace Test_Field;
 
 class Program
 {
     static void Main(string[] args)
     {
-        int size = int.Parse(Console.ReadLine());
-        string[,] matrix = new string[size, size];
-
-        string carNumber = Console.ReadLine();
-
-        for (int row = 0; row < matrix.GetLength(0); row++)
-        {
-            string[] input = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            for (int col = 0; col < matrix.GetLength(1); col++)
-            {
-                matrix[row, col] = input[col];
-            }
-        }
-
-        string direction = string.Empty;
-
-        int distanceTravelled = 0, carRow = 0, carCol = 0;
-        bool finished = false;
-        while ((direction = Console.ReadLine()) != "End")
-        {
-            switch (direction)
-            {
-                case "up":
-                    carRow--;
-                    break;
-                case "down":
-                    carRow++;
-                    break;
-                case "left":
-                    carCol--;
-                    break;
-                case "right":
-                    carCol++;
-                    break;
-            }
-
-            if (matrix[carRow, carCol] == ".")
-            {
-                distanceTravelled += 10;
-            }
-            else if (matrix[carRow, carCol] == "T")
-            {
-                distanceTravelled += 30;
-                matrix[carRow, carCol] = ".";
-
-                for (int i = carRow; i < matrix.GetLength(0); i++)
-                {
-                    for (int j = carCol + 1; j < matrix.GetLength(1); j++)
-                    {
-                        if (matrix[carRow, carCol] == "T")
-                        {
-                            matrix[carRow, carCol] = ".";
-                        }
-                    }
-                }
-            }
-            else if (matrix[carRow, carCol] == "F")
-            {
-                distanceTravelled += 10;
-                finished = true;
-                break;
-            }
-        }
     }
 }
