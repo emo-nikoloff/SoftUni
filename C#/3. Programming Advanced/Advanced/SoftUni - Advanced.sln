@@ -227,6 +227,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.1 Iterators and Comparato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "8.1 Iterators and Comparators - Lab\IteratorsAndComparators\IteratorsAndComparators.csproj", "{DDBD8CAE-5B53-47DF-876A-EB271E92FF9B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.2 Iterators and Comparators - Exercise", "8.2 Iterators and Comparators - Exercise", "{10231F3C-D176-F78A-DC6E-C0D6B27D02CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "8.2 Iterators and Comparators - Exercise\01. ListyIterator\ListyIterator.csproj", "{A274D23F-1793-4E4E-B674-7657EAA1B223}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1389,6 +1393,18 @@ Global
 		{DDBD8CAE-5B53-47DF-876A-EB271E92FF9B}.Release|x64.Build.0 = Release|Any CPU
 		{DDBD8CAE-5B53-47DF-876A-EB271E92FF9B}.Release|x86.ActiveCfg = Release|Any CPU
 		{DDBD8CAE-5B53-47DF-876A-EB271E92FF9B}.Release|x86.Build.0 = Release|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Debug|x64.Build.0 = Debug|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Debug|x86.Build.0 = Debug|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Release|x64.ActiveCfg = Release|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Release|x64.Build.0 = Release|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Release|x86.ActiveCfg = Release|Any CPU
+		{A274D23F-1793-4E4E-B674-7657EAA1B223}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1490,5 +1506,6 @@ Global
 		{A9FF9E36-C735-4551-B119-E030F921FCB5} = {44793137-2CCE-C610-15DF-38443D22C211}
 		{C91B4E83-6C7D-4870-8C58-29A8F3B6E525} = {44793137-2CCE-C610-15DF-38443D22C211}
 		{DDBD8CAE-5B53-47DF-876A-EB271E92FF9B} = {89BEB4E0-1D52-8820-25F2-26DDD02DBFB8}
+		{A274D23F-1793-4E4E-B674-7657EAA1B223} = {10231F3C-D176-F78A-DC6E-C0D6B27D02CA}
 	EndGlobalSection
 EndGlobal
