@@ -6,7 +6,7 @@ This folder contains all the lessons and exercises I have completed as part of m
 ## 📂 Folder Structure
 
 ### 🟢 Programming Basics
-***Focus: Building fundamental programming logic and problem-solving skills.***
+***Focus: Building fundamental programming logic and problem-solving skills***
 
 1. First Steps in Programming
 2. Conditional Statements
@@ -18,7 +18,7 @@ This folder contains all the lessons and exercises I have completed as part of m
 ---
 
 ### 🔵 Programming Fundamentals
-***Focus: Core C# language features and practical programming techniques.***:
+***Focus: Core C# language features and practical programming techniques***:
 
 1. Basic Syntax, Conditional Statements and Loops
 2. Data Types and Variables
@@ -33,7 +33,7 @@ This folder contains all the lessons and exercises I have completed as part of m
 ---
 
 ### 🟣 C# Advanced
-***Focus: Advanced data structures, memory management, functional programming, and performance-oriented coding.***:
+***Focus: Advanced data structures, memory management, functional programming, and performance-oriented coding***:
 
 #### C# Advanced
 1. Stack and Queues
