@@ -1,10 +1,12 @@
 # Overview
 This folder contains all the lessons and exercises I have completed as part of my C# programming journey.
 
-## Folder Structure
+---
 
-### Programming Basics
-- ***Covers the foundational concepts of C# programming***:
+## 📂 Folder Structure
+
+### 🟢 Programming Basics
+***Focus: Building fundamental programming logic and problem-solving skills.***
 
 1. First Steps in Programming
 2. Conditional Statements
@@ -13,8 +15,10 @@ This folder contains all the lessons and exercises I have completed as part of m
 5. While Loop
 6. Nested Loops
 
-### Programming Fundamentals
-- ***Focuses on more advanced concepts and practical applications***:
+---
+
+### 🔵 Programming Fundamentals
+***Focus: Core C# language features and practical programming techniques.***:
 
 1. Basic Syntax, Conditional Statements and Loops
 2. Data Types and Variables
@@ -26,8 +30,10 @@ This folder contains all the lessons and exercises I have completed as part of m
 8. Text Processing
 9. Regular Expressions
 
-### C# Advanced
-- ***Covers advanced data structures, memory handling, and modern C# features***:
+---
+
+### 🟣 C# Advanced
+***Focus: Advanced data structures, memory management, functional programming, and performance-oriented coding.***:
 
 #### C# Advanced
 1. Stack and Queues
@@ -41,4 +47,6 @@ This folder contains all the lessons and exercises I have completed as part of m
 9. Algorithms Introduction
 
 #### C# OOP
-- *Coming soon*
+*Focus: Object-Oriented Programming principles and design patterns.*
+
+> ⏳ Coming soon
