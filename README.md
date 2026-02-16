@@ -30,6 +30,7 @@ The repository is organized into folders by programming language:
 
 ## 🎯 Purpose
 The main goal of this repository is to:
+
 - Improve my programming skills  
 - Practice writing clean and readable code  
 - Solve real programming problems  
