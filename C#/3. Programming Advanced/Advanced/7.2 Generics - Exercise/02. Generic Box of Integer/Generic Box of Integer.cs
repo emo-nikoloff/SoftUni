@@ -1,4 +1,5 @@
-﻿namespace GenericBoxofInteger;
+﻿/*Use the description of the previous problem but now, test your generic box with Integers.*/
+namespace GenericBoxofInteger;
 
 public class Program
 {

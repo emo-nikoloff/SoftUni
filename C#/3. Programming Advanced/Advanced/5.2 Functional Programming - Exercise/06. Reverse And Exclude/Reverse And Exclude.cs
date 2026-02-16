@@ -1,4 +1,5 @@
-﻿namespace _06._Reverse_And_Exclude;
+﻿/*Create a program that reverses a collection and removes elements that are divisible by a given integer n. Use predicates / functions.*/
+namespace _06._Reverse_And_Exclude;
 
 class Program
 {

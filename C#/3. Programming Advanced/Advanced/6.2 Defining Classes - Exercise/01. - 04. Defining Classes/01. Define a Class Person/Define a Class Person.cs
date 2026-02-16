@@ -1,5 +1,4 @@
-using System;
-
+/*Define a class Person with private fields for name and age and public properties Name and Age.*/
 namespace DefiningClasses;
 
 public class DefineClassPerson

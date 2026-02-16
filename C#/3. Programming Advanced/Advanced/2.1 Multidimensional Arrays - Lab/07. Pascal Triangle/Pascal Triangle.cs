@@ -1,4 +1,6 @@
-﻿namespace _07._Pascal_Triangle;
+﻿/*The Pascal’s triangle may be constructed in the following manner: in row 0 (the topmost row), there is a unique nonzero entry 1. Each entry of each subsequent row is constructed by adding the
+number above and to the left with the number above and to the right, treating blank entries as 0. Write a program to print the Pascal’s triangle of given size n.*/
+namespace _07._Pascal_Triangle;
 
 class Program
 {

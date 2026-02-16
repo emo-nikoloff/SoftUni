@@ -1,4 +1,6 @@
-﻿namespace _07._Folder_Size;
+﻿/*You are given a folder in the file system (e. g. TestFolder). Calculate the size of all files in the folder and its subfolders. The result should be written to another text (e. g. оutput.txt)
+file in kilobytes.*/
+namespace _07._Folder_Size;
 
 class Program
 {

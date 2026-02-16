@@ -1,4 +1,5 @@
-﻿namespace _02._Squares_in_Matrix;
+﻿/*Find the count of 2 x 2 squares of equal chars in a matrix.*/
+namespace _02._Squares_in_Matrix;
 
 class Program
 {

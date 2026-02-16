@@ -1,4 +1,5 @@
-﻿namespace _06._Record_Unique_Names;
+﻿/*Create a program, which will take a list of names and print only the unique names in the list.*/
+namespace _06._Record_Unique_Names;
 
 class Program
 {

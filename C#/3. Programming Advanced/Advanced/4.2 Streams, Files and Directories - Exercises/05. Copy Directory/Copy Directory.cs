@@ -1,4 +1,6 @@
-﻿namespace _05._Copy_Directory;
+﻿/*Write a method, which copies a directory with files (without its subdirectories) to another directory. The input folder and the output folder should be given as parameters from the console.
+If the output folder already exists, first delete it (together with all its content).*/
+namespace _05._Copy_Directory;
 
 class Program
 {

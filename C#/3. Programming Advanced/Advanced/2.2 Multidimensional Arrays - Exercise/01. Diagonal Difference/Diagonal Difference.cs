@@ -1,4 +1,5 @@
-﻿namespace _01._Diagonal_Difference;
+﻿/*Create a program that finds the difference between the sums of the square matrix diagonals (absolute value).*/
+namespace _01._Diagonal_Difference;
 
 class Program
 {
