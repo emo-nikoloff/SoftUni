@@ -6,10 +6,10 @@ public class RandomList : List<string>
     {
         Random random = new();
 
-        string removedString = this[random.Next(0, Count)];
+        string stringToRemove = this[random.Next(0, Count)];
 
-        Remove(removedString);
+        Remove(stringToRemove);
 
-        return removedString;
+        return stringToRemove;
     }
 }

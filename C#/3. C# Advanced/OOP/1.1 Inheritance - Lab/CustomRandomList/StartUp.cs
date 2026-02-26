@@ -4,6 +4,7 @@ public class StartUp
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        RandomList randomList = new() { "Yordan", "Kaloyan", "Yosif", "Naum" };
+        Console.WriteLine(randomList.RandomString());
     }
 }

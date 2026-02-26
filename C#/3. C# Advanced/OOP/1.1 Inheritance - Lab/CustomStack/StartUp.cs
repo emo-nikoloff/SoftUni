@@ -4,6 +4,12 @@ public class StartUp
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        StackOfStrings stackStrings = new();
+        Console.WriteLine(stackStrings.IsEmpty());
+
+        stackStrings.Push("Silviya");
+        Console.WriteLine(stackStrings.IsEmpty());
+
+        stackStrings.AddRange(new List<string>() { "Ismail", "Halapenyo", "Kiril" });
     }
 }
