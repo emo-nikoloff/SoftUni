@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Restaurant</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Products" />
+    <Folder Include="Products\Beverages\" />
+    <Folder Include="Products\Beverages\HotBeverages\" />
+    <Folder Include="Products\Foods\" />
+    <Folder Include="Products\Foods\Desserts\" />
+    <Folder Include="Products\Foods\MainDishes\" />
+    <Folder Include="Products\Foods\Starters\" />
+  </ItemGroup>
+
+</Project>

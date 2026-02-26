@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>PlayersAndMonsters</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Heroes\" />
+    <Folder Include="Heroes\Elfs\" />
+    <Folder Include="Heroes\Wizards\" />
+    <Folder Include="Heroes\Wizards\DarkWizards\" />
+    <Folder Include="Heroes\Knights\" />
+    <Folder Include="Heroes\Knights\DarkKnights\" />
+  </ItemGroup>
+
+</Project>
