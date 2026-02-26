@@ -1,4 +1,4 @@
-namespace _01._Person;
+namespace Person;
 
 public class Child : Person
 {

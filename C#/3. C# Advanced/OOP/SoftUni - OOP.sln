@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 Inheritance - Exercise", "1.2 Inheritance - Exercise", "{DD5C345E-E1AC-4880-1FC0-21B4B9070DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Person", "1.2 Inheritance - Exercise\01. Person\01. Person.csproj", "{B51C3E3F-2F6C-4C49-A975-1F1B25B7127B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "1.2 Inheritance - Exercise\01. Person\Person.csproj", "{B51C3E3F-2F6C-4C49-A975-1F1B25B7127B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 Inheritance - Lab", "1.1 Inheritance - Lab", "{8A6B2106-0286-13FB-2F28-CAB4F2D812B0}"
 EndProject

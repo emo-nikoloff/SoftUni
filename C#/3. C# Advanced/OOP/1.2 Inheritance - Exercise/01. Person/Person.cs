@@ -1,6 +1,4 @@
-using System.Text;
-
-namespace _01._Person;
+namespace Person;
 
 public class Person
 {
@@ -38,6 +36,6 @@ public class Person
 
     public override string ToString()
     {
-        return $"{GetType().Name} -> Name: {Name} Age: {Age}";
+        return $"{GetType().Name} -> Name: {Name}, Age: {Age}";
     }
 }
