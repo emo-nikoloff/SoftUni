@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Person person = new("Ime", 96);
+        Console.WriteLine(person);
+
+        Child child = new("BezIme", 69);
+        Console.WriteLine(child);
     }
 }

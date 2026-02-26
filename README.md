@@ -23,7 +23,7 @@ The repository is organized into folders by programming language:
 
 ---
 
-### Notes
+### 📌 Notes
 - The `Python/` folder is no longer maintained!
 
 ---
