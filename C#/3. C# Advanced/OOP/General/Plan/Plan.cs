@@ -11,7 +11,7 @@ class Plan
         people.Add(person);
 
         Employee employee = new("Страхил", "Сърбогъзи", "SAP");
-        people.Add(employee); // позволява ми да добавя обекта от съответния клас, защото е наследник на Person
+        people.Add(employee); // позволява да се добави обекта от съответния клас, защото е наследник на Person
 
         Manager manager = new("Рожда", "Джебел", "Технополис", "компютри");
         people.Add(manager);
@@ -48,10 +48,37 @@ class Plan
 
         cat.BornKid("Hasan");
 
-        Console.WriteLine($"Децата на {cat.Name}");
+        Console.WriteLine($"Децата на {cat.Name}:");
         foreach (string kid in cat.Kids)
         {
             Console.WriteLine(kid);
+        }
+
+        Console.WriteLine("<--------Интерфейси и абстракция-------->"); // абстракция - да вземем от даден обект тези свойства, качества и функции, които са релевантни за проекта, който
+                                                                        // разработваме, и да игнорираме останалите, които не са релевантни; позволява ни да се фокусираме върху това какво обектът
+                                                                        // прави, а не как го прави - какви неща има дадения обект, които са релевантни за нашия проект, но не се интересува от
+                                                                        // конкретната дефиниция;
+                                                                        // Пример: Имаме стол. Ако го продаваме в магазин за мебели, ще имаме качества на стола, които ни вълнуват за мебел -
+                                                                        // цвят, материал, цена, снимка(ако е онлайн магазин), промоция, описание, производител. Ако имаме стол в завод за мебели,
+                                                                        // ще имаме отделните части, схема на сглобяване, пакетиране, дали е в кашон, какъв материал е, цена на производство, цена
+                                                                        // за труд. Ако имаме стол в ресторант, ще имаме локация, на коя маса е, чист ли е, свободен ли е
+                                                                        // интерфейс - дефинирам какво съдържа класът, но не казвам как се имплементира
+        List<IVehicle> vehicles = new() { new Car("BMW", 480), new Bicycle("VITUS", 120) };
+
+        foreach (IVehicle vehicle in vehicles)
+        {
+            vehicle.Move();
+            vehicle.Stop();
+        }
+
+        Console.WriteLine("----------------");
+
+        List<Shape> shapes = new() { new Rectangle("Правоъгълник", 5, 4), new Circle("Кръг", 3) };
+
+        foreach (Shape shape in shapes)
+        {
+            shape.ShowName();
+            Console.WriteLine($"Лице = {shape.GetArea()}");
         }
     }
 }
@@ -75,7 +102,7 @@ internal class Person // superclass - родител - предава всичк
     }
 }
 
-class Employee : Person // subclass - дете - наследява всички членове от родителския клас; може да достъпи само public и protected членовете
+class Employee : Person // subclass - дете - наследява всички членове от родителския клас; може да достъпи само public и protected членовете; може да наследява само един клас
 {
     public Employee(string name, string address, string company)
         : base(name, address) // конструктора вика базовия конструктор и му подава нужните параметри
@@ -179,7 +206,7 @@ class Cat : Animal
         {
             if (!validColors.Contains(value))
             {
-                throw new ArgumentException($"Invalid cat color! Valid colors are: {string.Join(", ", validColors)}");
+                throw new ArgumentException($"Грешен цвят за котка! Валидните цветове са: {string.Join(", ", validColors)}");
             }
 
             color = value;
@@ -206,5 +233,111 @@ class Cat : Animal
     public override string ToString()
     {
         return $"{base.ToString()} is {Color}";
+    }
+}
+
+// Интерфейси и абстракция:
+interface IVehicle // прието е имената на интерфейсите да започват с I; дефинира какво искаме да имаме; описва какво може да прави един клас - няма логика; клас може да имплементира по няколко
+                   // интерфейса; интерфейс може да наследява по няколко интерфейса
+{
+    string Name { get; }
+    int Speed { get; }
+
+    void Move();
+    void Stop();
+}
+
+class Car : IVehicle
+{
+    public Car(string name, int speed)
+    {
+        Name = name;
+        Speed = speed;
+    }
+
+    public string Name { get; }
+    public int Speed { get; }
+
+    public void Move()
+    {
+        Console.WriteLine($"{Name} кара със скорост {Speed}km/h.");
+    }
+
+    public void Stop()
+    {
+        Console.WriteLine($"{Name} спря.");
+    }
+}
+
+class Bicycle : IVehicle
+{
+    public Bicycle(string name, int speed)
+    {
+        Name = name;
+        Speed = speed;
+    }
+
+    public string Name { get; }
+    public int Speed { get; }
+
+    public void Move()
+    {
+        Console.WriteLine($"{Name} кара със скорост {Speed}km/h.");
+    }
+
+    public void Stop()
+    {
+        Console.WriteLine($"{Name} спря.");
+    }
+}
+
+abstract class Shape // може да има конкретики; описва какво представлява един клас
+{
+    protected Shape(string name)
+    {
+        Name = name;
+    }
+
+    public string Name { get; set; }
+
+    public abstract double GetArea(); // абстрактен метод
+
+    public void ShowName() // обикновен метод
+    {
+        Console.WriteLine($"Фигура: {Name}");
+    }
+}
+
+class Rectangle : Shape
+{
+    public Rectangle(string name, double width, double height)
+        : base(name)
+    {
+        Width = width;
+        Height = height;
+    }
+
+    public double Width { get; }
+    public double Height { get; }
+
+    public override double GetArea()
+    {
+        return Width * Height;
+    }
+}
+
+class Circle : Shape
+{
+    public Circle(string name, double radius)
+        : base(name)
+    {
+        Radius = radius;
+    }
+
+    public double Radius { get; }
+
+    public override double GetArea()
+    {
+        return Math.PI * Radius * Radius;
     }
 }
