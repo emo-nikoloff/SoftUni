@@ -23,12 +23,42 @@ class Plan
         {
             Console.WriteLine(human.Info());
         }
+        Console.WriteLine("<--------Енкапсулация-------->"); // дава възможност да заобиколим цялостната имплементация, логика и данни в един малък елемент или клас, който ни дава всичко нужно,
+                                                             // за да го ползваме <=> дава възможност да скрием всякакъв вид логика, която не смятаме, че външния свят има нужда да гледа; дава
+                                                             // възможност да сме гъвкави и кода да бъде по изчистен - намаля сложността на кода(става по-четим); можем да променяме вътрешността
+                                                             // на класа без да променяме останалия код; дава възможност да валидираме данните, което дава гаранция, че класът винаги ще бъде в
+                                                             // правилно състояние
+        List<Animal> animals = new();
+
+        Cat cat = null;
+        try
+        {
+            cat = new("Yamal", "Black");
+            animals.Add(cat);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
+        foreach (Animal animal in animals)
+        {
+            Console.WriteLine(animal);
+        }
+
+        cat.BornKid("Hasan");
+
+        Console.WriteLine($"Децата на {cat.Name}");
+        foreach (string kid in cat.Kids)
+        {
+            Console.WriteLine(kid);
+        }
     }
 }
 
 // Наследяване:
 internal class Person // superclass - родител - предава всичките си членове на наследника; ключовата дума internal означава, че класът работи само в съответния проект; може да се използва и при 
-                      // обозначаване на методи
+                      // обозначаване на методи - класовете по подразбиране са internal
 {
     public Person(string name, string address) // когато конструктора е с параметри, задължително се използва
     {
@@ -91,5 +121,90 @@ class Student : Person
     public override string Info()
     {
         return $"{base.Info()} Уча в {School}.";
+    }
+}
+
+// Енкапсулация:
+
+class Animal
+{
+    private string name; // поле - винаги private
+
+    public Animal(string name)
+    {
+        Name = name;
+    }
+
+    public string Name // пропърти - винаги public - служат за достъпване на полетата
+    {
+        get
+        {
+            return name;
+        }
+        private set
+        {
+            if (string.IsNullOrWhiteSpace(value))
+            {
+                throw new ArgumentException("Invalid name!");
+            }
+            name = value;
+        }
+    }
+
+    public override string ToString()
+    {
+        return $"{GetType().Name} - {Name}";
+    }
+}
+
+class Cat : Animal
+{
+    private string[] validColors = { "Black", "White", "Gray", "Mixed" };
+    private string color;
+    private List<string> kids;
+
+    public Cat(string name, string color) : base(name)
+    {
+        Color = color;
+        kids = new();
+    }
+
+    public string Color
+    {
+        get
+        {
+            return color;
+        }
+        private set
+        {
+            if (!validColors.Contains(value))
+            {
+                throw new ArgumentException($"Invalid cat color! Valid colors are: {string.Join(", ", validColors)}");
+            }
+
+            color = value;
+        }
+    }
+
+    public IReadOnlyCollection<string> Kids // понеже колекцията е mutable тя не е енкапсулирана напълно - не мога да променям Kids, но мога да достъпвам обектите в
+                                            // колекцията;
+                                            // mutable = changeable - използват същата памет (Примери: StringBuilder, List);
+                                            // immutable = unchangeable (read-only) - създават нова памет всеки път, когато бъдат модифицирани (Примери: string, Tuples)
+                                            // => в такъв случай се използва IReadOnlyCollection
+    {
+        get
+        {
+            return kids;
+        }
+    }
+
+    public void BornKid(string name)
+    {
+        kids.Add(name);
+    }
+
+    public override string ToString()
+    {
+        return $"{base.ToString()} is {Color}";
     }
 }
