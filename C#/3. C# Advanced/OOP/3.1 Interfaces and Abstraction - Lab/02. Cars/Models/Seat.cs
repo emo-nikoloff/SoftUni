@@ -1,4 +1,4 @@
-namespace Cars;
+namespace Cars.Models;
 
 public class Seat : Car
 {

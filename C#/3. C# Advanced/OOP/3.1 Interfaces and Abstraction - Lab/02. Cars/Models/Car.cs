@@ -1,4 +1,6 @@
-namespace Cars;
+using Cars.Interfaces;
+
+namespace Cars.Models;
 
 public abstract class Car : ICar
 {

@@ -1,4 +1,6 @@
-namespace Cars;
+using Cars.Interfaces;
+
+namespace Cars.Models;
 
 public class Tesla : Car, IElectricCar
 {

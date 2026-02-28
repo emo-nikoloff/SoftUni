@@ -1,4 +1,7 @@
-﻿namespace Cars;
+﻿using Cars.Interfaces;
+using Cars.Models;
+
+namespace Cars;
 
 public class StartUp
 {

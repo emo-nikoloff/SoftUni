@@ -1,4 +1,4 @@
-namespace Shapes;
+namespace Shapes.Interfaces;
 
 public interface IDrawable
 {

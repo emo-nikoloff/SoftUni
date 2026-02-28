@@ -1,4 +1,7 @@
-﻿namespace Shapes;
+﻿using Shapes.Interfaces;
+using Shapes.Models;
+
+namespace Shapes;
 
 public class StartUp
 {

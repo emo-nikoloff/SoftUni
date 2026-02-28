@@ -1,4 +1,6 @@
-namespace Shapes;
+using Shapes.Interfaces;
+
+namespace Shapes.Models;
 
 public class Rectangle : IDrawable
 {
