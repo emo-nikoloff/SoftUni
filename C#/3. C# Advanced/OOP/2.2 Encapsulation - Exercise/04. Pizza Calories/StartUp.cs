@@ -13,9 +13,9 @@ public class StartUp
             Pizza pizza = new(pizzaName);
 
             string[] doughInfo = Console.ReadLine().Split(' ').Skip(1).ToArray();
-            string flourType = doughInfo[1];
-            string bakingTechnique = doughInfo[2];
-            double doughWeight = double.Parse(doughInfo[3]);
+            string flourType = doughInfo[0];
+            string bakingTechnique = doughInfo[1];
+            double doughWeight = double.Parse(doughInfo[2]);
             Dough dough = new(flourType, bakingTechnique, doughWeight);
 
             pizza.Dough = dough;
