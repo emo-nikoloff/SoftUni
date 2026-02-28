@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "2.2 Encaps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "2.2 Encapsulation - Exercise\04. Pizza Calories\PizzaCalories.csproj", "{85C69850-4DB5-47A7-A345-21280E1F0D82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "2.2 Encapsulation - Exercise\05. Football Team Generator\FootballTeamGenerator.csproj", "{4A24477B-E37F-498D-B5D5-3DB00ACDA067}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -263,6 +265,18 @@ Global
 		{85C69850-4DB5-47A7-A345-21280E1F0D82}.Release|x64.Build.0 = Release|Any CPU
 		{85C69850-4DB5-47A7-A345-21280E1F0D82}.Release|x86.ActiveCfg = Release|Any CPU
 		{85C69850-4DB5-47A7-A345-21280E1F0D82}.Release|x86.Build.0 = Release|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Debug|x64.Build.0 = Debug|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Debug|x86.Build.0 = Debug|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Release|x64.ActiveCfg = Release|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Release|x64.Build.0 = Release|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Release|x86.ActiveCfg = Release|Any CPU
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -285,5 +299,6 @@ Global
 		{98DFA047-481F-4013-B799-57E50BB3817D} = {C526808F-8375-EB7D-C556-F45CEE76BE98}
 		{74E8CB55-4C0C-4753-B584-5C4B7E560B3B} = {C526808F-8375-EB7D-C556-F45CEE76BE98}
 		{85C69850-4DB5-47A7-A345-21280E1F0D82} = {C526808F-8375-EB7D-C556-F45CEE76BE98}
+		{4A24477B-E37F-498D-B5D5-3DB00ACDA067} = {C526808F-8375-EB7D-C556-F45CEE76BE98}
 	EndGlobalSection
 EndGlobal
