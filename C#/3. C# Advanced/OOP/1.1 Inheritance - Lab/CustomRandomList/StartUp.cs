@@ -1,4 +1,6 @@
-﻿namespace CustomRandomList;
+﻿using CustomRandomList.Models;
+
+namespace CustomRandomList;
 
 public class StartUp
 {

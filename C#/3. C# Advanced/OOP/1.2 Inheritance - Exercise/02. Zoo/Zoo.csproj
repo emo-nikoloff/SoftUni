@@ -7,10 +7,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Animals\" />
-    <Folder Include="Animals\Reptiles\" />
-    <Folder Include="Animals\Mammals\" />
-  </ItemGroup>
-
 </Project>

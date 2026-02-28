@@ -1,5 +1,6 @@
-﻿using Animals.Animals;
-using Animals.Animals.Cats;
+﻿using Animals.Models;
+using Animals.Models.Animals;
+using Animals.Models.Animals.Cats;
 
 namespace Animals;
 

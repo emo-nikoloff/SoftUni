@@ -1,4 +1,6 @@
-﻿namespace Farm;
+﻿using Farm.Models;
+
+namespace Farm;
 
 public class StartUp
 {

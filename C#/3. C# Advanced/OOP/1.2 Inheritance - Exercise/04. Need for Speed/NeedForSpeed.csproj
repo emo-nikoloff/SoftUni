@@ -7,10 +7,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Vehicles\" />
-    <Folder Include="Vehicles\Motorcycles\" />
-    <Folder Include="Vehicles\Cars\" />
-  </ItemGroup>
-
 </Project>

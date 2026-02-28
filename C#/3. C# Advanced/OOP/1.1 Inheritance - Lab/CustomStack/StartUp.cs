@@ -1,4 +1,6 @@
-﻿namespace CustomStack;
+﻿using CustomStack.Models;
+
+namespace CustomStack;
 
 public class StartUp
 {

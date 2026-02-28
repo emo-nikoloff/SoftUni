@@ -7,14 +7,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Products" />
-    <Folder Include="Products\Beverages\" />
-    <Folder Include="Products\Beverages\HotBeverages\" />
-    <Folder Include="Products\Foods\" />
-    <Folder Include="Products\Foods\Desserts\" />
-    <Folder Include="Products\Foods\MainDishes\" />
-    <Folder Include="Products\Foods\Starters\" />
-  </ItemGroup>
-
 </Project>
