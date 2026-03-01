@@ -1,4 +1,4 @@
-namespace Telephony.Interfaces;
+namespace Telephony.Models.Interfaces;
 
 public interface IBrowsable
 {

@@ -1,4 +1,4 @@
-using Telephony.Interfaces;
+using Telephony.Models.Interfaces;
 
 namespace Telephony.Models;
 

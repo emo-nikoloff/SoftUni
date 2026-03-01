@@ -1,4 +1,4 @@
-namespace PersonInfo.Interfaces;
+namespace PersonInfo.Models.Interfaces;
 
 public interface IBirthable
 {

@@ -1,4 +1,4 @@
-using PersonInfo.Interfaces;
+using PersonInfo.Models.Interfaces;
 
 namespace PersonInfo.Models;
 

@@ -1,4 +1,4 @@
-using Shapes.Interfaces;
+using Shapes.Models.Interfaces;
 
 namespace Shapes.Models;
 

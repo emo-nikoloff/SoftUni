@@ -1,4 +1,4 @@
-using Cars.Interfaces;
+using Cars.Models.Interfaces;
 
 namespace Cars.Models;
 

@@ -1,4 +1,4 @@
-using BorderControl.Interfaces;
+using BorderControl.Models.Interfaces;
 
 namespace BorderControl.Models;
 

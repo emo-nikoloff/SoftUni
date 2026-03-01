@@ -1,4 +1,4 @@
-namespace BorderControl.Interfaces;
+namespace PersonInfo.Models.Interfaces;
 
 public interface IIdentifiable
 {

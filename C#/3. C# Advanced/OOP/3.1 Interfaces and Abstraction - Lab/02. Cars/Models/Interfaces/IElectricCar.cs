@@ -1,4 +1,4 @@
-namespace Cars.Interfaces;
+namespace Cars.Models.Interfaces;
 
 public interface IElectricCar
 {
