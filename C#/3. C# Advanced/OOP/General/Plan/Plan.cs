@@ -1,4 +1,6 @@
-﻿namespace Plan;
+﻿using System.Collections;
+
+namespace Plan;
 
 class Plan
 {
@@ -80,7 +82,64 @@ class Plan
             shape.ShowName();
             Console.WriteLine($"Лице = {shape.GetArea()}");
         }
+
+        Console.WriteLine("<--------Полиморфизъм-------->"); // много форми - различно поведение, различен вид действие в зависимост от контекста
+        Payment firstPayment = new CreditCardPayment(); // променливата е Payment, но обекта е различен, затова се изпълнява различна версия на Pay() - (Тип данни на променливата) ... =
+                                                        // = new(Тип данни, който се използва) - Runtime полиморфизъм - method overriding
+        Payment secondPayment = new CashPayment();
+        Payment thirdPayment = new PayPalPayment();
+
+        firstPayment.Pay(100);
+        secondPayment.Pay(50);
+        thirdPayment.Pay(75);
+
+        Console.WriteLine("----------------");
+
+        if (firstPayment is CreditCardPayment cardPayment) // ключовата дума is проверява дали даден обект е инстанция на специфичен клас
+        {
+            cardPayment.ValidateCard();
+        }
+
+        for (int i = 1; i <= 7; i++)
+        {
+            if (i is 6 or 7) // is играе ролята на ==
+            {
+                Console.Write($"{i} ");
+            }
+        }
+
+        Console.WriteLine("\n----------------");
+
+        IEnumerable<int> numbers = Enumerable.Range(10, 40);
+        Console.WriteLine($"Колекция: {string.Join(", ", numbers)}");
+
+        IEnumerable<int> filtered = numbers.Where(x => x % 7 is var remainder && remainder >= 2 && remainder <= 4); // присвояваме резултата в променливата remainder и извършваме желаните
+                                                                                                                    // операции с нея
+        Console.WriteLine($"Числата, които се делят на 7 с остатък [2..4]: {string.Join(", ", filtered)}");
+
+        Console.WriteLine("----------------");
+
+        PayPalPayment paypal = thirdPayment as PayPalPayment; // превърни ми(cast) променливата в PayPalPayment
+
+        if (paypal != null)
+        {
+            paypal.SendConfirmationEmail();
+        }
+        else
+        {
+            Console.WriteLine("Обектът не е PayPalPayment.");
+        }
+
+        Console.WriteLine("----------------");
+
+        int firstResult = Multiply(3, 4);
+        double secondResult = Multiply(2.5, 3.5);
     }
+
+    // Compile-time полиморфизъм - method overloading
+    static int Multiply(int a, int b) => a * b;
+
+    static double Multiply(double a, double b) => a * b;
 }
 
 // Наследяване:
@@ -339,5 +398,45 @@ class Circle : Shape
     public override double GetArea()
     {
         return Math.PI * Radius * Radius;
+    }
+}
+
+// Полиморфизъм:
+abstract class Payment
+{
+    public abstract void Pay(decimal amount);
+}
+
+class CreditCardPayment : Payment
+{
+    public void ValidateCard()
+    {
+        Console.WriteLine("Картата е валидирана успешно.");
+    }
+
+    public override void Pay(decimal amount)
+    {
+        Console.WriteLine($"Платени {amount} евро с кредитна карта.");
+    }
+}
+
+class CashPayment : Payment
+{
+    public override void Pay(decimal amount)
+    {
+        Console.WriteLine($"Платени {amount} евро в брой.");
+    }
+}
+
+class PayPalPayment : Payment
+{
+    public void SendConfirmationEmail()
+    {
+        Console.WriteLine("Изпратен е имейл за потвърждение на плащането.");
+    }
+
+    public override void Pay(decimal amount)
+    {
+        Console.WriteLine($"Платени {amount} евро чрез PayPal.");
     }
 }
