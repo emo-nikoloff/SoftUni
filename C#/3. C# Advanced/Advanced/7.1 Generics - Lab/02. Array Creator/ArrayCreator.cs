@@ -1,5 +1,3 @@
-using System;
-
 namespace GenericArrayCreator;
 
 public class ArrayCreator

@@ -1,5 +1,3 @@
-using System;
-
 namespace DefiningClasses;
 
 public class Person

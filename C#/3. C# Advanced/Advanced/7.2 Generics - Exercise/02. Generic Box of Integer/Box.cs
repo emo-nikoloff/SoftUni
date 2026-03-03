@@ -1,5 +1,3 @@
-using System;
-
 namespace GenericBoxofInteger;
 
 public class Box<T>

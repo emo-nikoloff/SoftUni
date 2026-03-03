@@ -1,6 +1,4 @@
-﻿/*Create a simple calculator that can evaluate simple expressions with only addition and subtraction. There will not be any parentheses. Numbers and operations are space-separated. Solve the
-problem using a Stack.*/
-namespace _03._Simple_Calculator;
+﻿namespace _03._Simple_Calculator;
 
 class Program
 {

@@ -1,5 +1,3 @@
-using System;
-
 namespace GenericBoxOfString;
 
 public class Box<T>

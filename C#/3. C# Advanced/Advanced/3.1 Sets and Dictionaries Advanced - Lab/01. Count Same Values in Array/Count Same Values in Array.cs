@@ -1,5 +1,4 @@
-﻿/*Create a program that counts in a given array of double values the number of occurrences of each value.*/
-namespace _01._Count_Same_Values_in_Array;
+﻿namespace _01._Count_Same_Values_in_Array;
 
 class Program
 {

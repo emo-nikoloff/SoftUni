@@ -1,5 +1,4 @@
-﻿/*Create a program that finds the sum of elements from the matrix’s primary diagonal.*/
-namespace _03._Primary_Diagonal;
+﻿namespace _03._Primary_Diagonal;
 
 class Program
 {

@@ -1,5 +1,4 @@
-﻿/*Create a program that reads continents, countries and their cities put them in a nested dictionary and prints them.*/
-namespace _05._Cities_by_Continent_and_Country;
+﻿namespace _05._Cities_by_Continent_and_Country;
 
 class Program
 {

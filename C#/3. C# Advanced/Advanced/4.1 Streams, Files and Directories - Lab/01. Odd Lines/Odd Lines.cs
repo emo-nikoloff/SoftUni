@@ -1,5 +1,4 @@
-﻿/*Write a program that reads a text file (e. g. input.txt) and writes every odd line in another file. Line numbers start from 0.*/
-namespace _01._Odd_Lines;
+﻿namespace _01._Odd_Lines;
 
 class Program
 {

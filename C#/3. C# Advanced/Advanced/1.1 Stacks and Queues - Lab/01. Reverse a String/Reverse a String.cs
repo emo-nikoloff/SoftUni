@@ -1,8 +1,4 @@
-﻿/*Create a program that:
-· Reads an input string
-· Reverses it backwards (letter by letter, from the last to the first) using a Stack<T>
-· Prints the result back at the console*/
-namespace _01._Reverse_a_String;
+﻿namespace _01._Reverse_a_String;
 
 class Program
 {

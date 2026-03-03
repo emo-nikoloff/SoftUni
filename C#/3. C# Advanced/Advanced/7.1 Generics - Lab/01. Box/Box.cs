@@ -1,5 +1,3 @@
-using System;
-
 namespace BoxOfT;
 
 public class Box<T>

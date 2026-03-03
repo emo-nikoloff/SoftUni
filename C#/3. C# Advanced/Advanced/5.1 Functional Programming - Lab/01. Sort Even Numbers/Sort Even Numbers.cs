@@ -1,5 +1,4 @@
-﻿/*Create a program that reads one line of integers separated by ", ". Then prints the even numbers of that sequence sorted in increasing order.*/
-namespace _01._Sort_Even_Numbers;
+﻿namespace _01._Sort_Even_Numbers;
 
 class Program
 {

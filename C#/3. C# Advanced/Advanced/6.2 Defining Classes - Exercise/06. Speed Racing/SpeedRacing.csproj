@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_06._Speed_Racing</RootNamespace>
+    <RootNamespace>SpeedRacing</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 

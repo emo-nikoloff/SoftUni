@@ -1,7 +1,6 @@
-/*Using the Person class, write a program that reads from the console N lines of personal information and then prints all people, whose age is more than 30 years, sorted in alphabetical order.*/
 namespace DefiningClasses;
 
-public class OpinionPoll
+public class StartUp
 {
     static void Main(string[] args)
     {
@@ -17,6 +16,8 @@ public class OpinionPoll
             Person person = new(name, age);
             family.AddMember(person);
         }
+
+        // Console.WriteLine(family.GetOldestMember());
 
         foreach (Person member in family.Members.Where(m => m.Age > 30).OrderBy(m => m.Name))
         {

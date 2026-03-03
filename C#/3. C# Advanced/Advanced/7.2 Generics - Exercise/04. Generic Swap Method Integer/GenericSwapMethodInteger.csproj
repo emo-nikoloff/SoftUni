@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_04._Generic_Swap_Method_Integer</RootNamespace>
+    <RootNamespace>GenericSwapMethodInteger</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 

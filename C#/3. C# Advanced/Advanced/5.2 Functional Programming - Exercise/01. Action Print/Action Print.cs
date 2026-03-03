@@ -1,5 +1,4 @@
-﻿/*Create a program that reads a collection of strings from the console and then prints them onto the console. Each name should be printed on a new line. Use Action<T>.*/
-namespace _01._Action_Print;
+﻿namespace _01._Action_Print;
 
 class Program
 {

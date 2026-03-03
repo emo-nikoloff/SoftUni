@@ -1,5 +1,4 @@
-﻿/*Create a generic method that receives a list, containing any type of data and swaps the elements at two given indexes.*/
-namespace GenericSwapMethodString;
+﻿namespace GenericSwapMethodString;
 
 public class Program
 {
