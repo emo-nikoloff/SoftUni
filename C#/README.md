@@ -15,6 +15,10 @@ This folder contains all the lessons and exercises I have completed as part of m
 5. While Loop
 6. Nested Loops
 
+#### 🔗 Task Conditions & Judge System
+- https://alpha.judge.softuni.org/contests/by-category/csharp-introduction/245
+- https://alpha.judge.softuni.org/contests/by-category/pb-more-exercises/193
+
 ---
 
 ### 🔵 Programming Fundamentals
@@ -29,6 +33,9 @@ This folder contains all the lessons and exercises I have completed as part of m
 7. Associative Arrays
 8. Text Processing
 9. Regular Expressions
+
+#### 🔗 Task Conditions & Judge System
+- https://alpha.judge.softuni.org/contests/by-category/csharp-fundamentals/149
 
 ---
 
@@ -46,7 +53,13 @@ This folder contains all the lessons and exercises I have completed as part of m
 8. Iterators and Comparators
 9. Algorithms Introduction
 
+#### 🔗 Task Conditions & Judge System (C# Advanced)
+- https://alpha.judge.softuni.org/contests/by-category/csharp-advanced-exercises/182?page=1
+
 #### C# OOP
 ***Focus: Object-Oriented Programming principles and design patterns:***
 
 > ⏳ Coming soon
+
+#### 🔗 Task Conditions & Judge System (C# OOP)
+- https://alpha.judge.softuni.org/contests/by-category/csharp-oop-exercises/184
