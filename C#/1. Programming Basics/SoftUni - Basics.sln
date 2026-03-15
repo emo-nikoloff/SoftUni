@@ -383,7 +383,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "План", "Полезно\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Въвеждане на числа", "Полезно\Въвеждане на числа\Въвеждане на числа.csproj", "{36000BB0-606D-4805-9290-654E4D0C916C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming Basics Exams", "Programming Basics Exams", "{6AAFD34D-1244-4FFC-9D24-B56F964A0F67}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam Preparation", "Exam Preparation", "{6AAFD34D-1244-4FFC-9D24-B56F964A0F67}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam 2", "Exam 2", "{9F81FF17-6C5D-4D0A-AAAF-7A1AE8E0770E}"
 EndProject
@@ -401,53 +401,53 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam 7", "Exam 7", "{C3D06E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam 8", "Exam 8", "{2501A22F-E4F5-4F1B-BA80-205F36CE506D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Oscars ceremony", "Programming Basics Exams\Exam 2\01. Oscars ceremony\01. Oscars ceremony.csproj", "{0DE3F6BC-EEF4-4FE7-BC85-3D90879B54C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Oscars ceremony", "Exam Preparation\Exam 2\01. Oscars ceremony\01. Oscars ceremony.csproj", "{0DE3F6BC-EEF4-4FE7-BC85-3D90879B54C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Godzilla vs. Kong", "Programming Basics Exams\Exam 2\02. Godzilla vs. Kong\02. Godzilla vs. Kong.csproj", "{3BF425AA-5659-4D23-B046-85178B529B65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Godzilla vs. Kong", "Exam Preparation\Exam 2\02. Godzilla vs. Kong\02. Godzilla vs. Kong.csproj", "{3BF425AA-5659-4D23-B046-85178B529B65}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oscars week in cinema", "Programming Basics Exams\Exam 2\03. Oscars week in cinema\03. Oscars week in cinema.csproj", "{A7600527-5FCF-4A23-A06B-B8DE31BDA0CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oscars week in cinema", "Exam Preparation\Exam 2\03. Oscars week in cinema\03. Oscars week in cinema.csproj", "{A7600527-5FCF-4A23-A06B-B8DE31BDA0CB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Cinema Voucher", "Programming Basics Exams\Exam 2\04. Cinema Voucher\04. Cinema Voucher.csproj", "{14EA44C7-05C3-4A34-B9F0-2022DCE526D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Cinema Voucher", "Exam Preparation\Exam 2\04. Cinema Voucher\04. Cinema Voucher.csproj", "{14EA44C7-05C3-4A34-B9F0-2022DCE526D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Movie Ratings", "Programming Basics Exams\Exam 2\05. Movie Ratings\05. Movie Ratings.csproj", "{9C1F1019-67FA-4F4C-88BE-0570EBFC79BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Movie Ratings", "Exam Preparation\Exam 2\05. Movie Ratings\05. Movie Ratings.csproj", "{9C1F1019-67FA-4F4C-88BE-0570EBFC79BB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Cinema Tickets", "Programming Basics Exams\Exam 2\06. Cinema Tickets\06. Cinema Tickets.csproj", "{70E0B19B-D5D8-419A-BC15-E282FA5E1604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Cinema Tickets", "Exam Preparation\Exam 2\06. Cinema Tickets\06. Cinema Tickets.csproj", "{70E0B19B-D5D8-419A-BC15-E282FA5E1604}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Agency Profit", "Programming Basics Exams\Exam 7\01. Agency Profit\01. Agency Profit.csproj", "{B7F01CD6-A3F0-46DF-A446-3B68AF77E11C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Agency Profit", "Exam Preparation\Exam 7\01. Agency Profit\01. Agency Profit.csproj", "{B7F01CD6-A3F0-46DF-A446-3B68AF77E11C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Add Bags", "Programming Basics Exams\Exam 7\02. Add Bags\02. Add Bags.csproj", "{5AF9C53F-A115-4DFC-B9B9-A2C22BB95A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Add Bags", "Exam Preparation\Exam 7\02. Add Bags\02. Add Bags.csproj", "{5AF9C53F-A115-4DFC-B9B9-A2C22BB95A70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Aluminum Joinery", "Programming Basics Exams\Exam 7\03. Aluminum Joinery\03. Aluminum Joinery.csproj", "{61A7154A-3AAC-4B33-B709-1DAB87273BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Aluminum Joinery", "Exam Preparation\Exam 7\03. Aluminum Joinery\03. Aluminum Joinery.csproj", "{61A7154A-3AAC-4B33-B709-1DAB87273BD4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Barcode Generator", "Programming Basics Exams\Exam 7\06. Barcode Generator\06. Barcode Generator.csproj", "{73AFC0C1-04AF-481D-9B4B-88B70002E649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Barcode Generator", "Exam Preparation\Exam 7\06. Barcode Generator\06. Barcode Generator.csproj", "{73AFC0C1-04AF-481D-9B4B-88B70002E649}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Fruit Market", "Programming Basics Exams\Exam 8\01. Fruit Market\01. Fruit Market.csproj", "{851FCD20-B361-4D03-A1AA-9E7E1B15AD50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Fruit Market", "Exam Preparation\Exam 8\01. Fruit Market\01. Fruit Market.csproj", "{851FCD20-B361-4D03-A1AA-9E7E1B15AD50}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Safari", "Programming Basics Exams\Exam 8\02. Safari\02. Safari.csproj", "{EA0C5A24-8DEE-43B0-A1BF-FA5A24419403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Safari", "Exam Preparation\Exam 8\02. Safari\02. Safari.csproj", "{EA0C5A24-8DEE-43B0-A1BF-FA5A24419403}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Mobile operator", "Programming Basics Exams\Exam 8\03. Mobile operator\03. Mobile operator.csproj", "{546F6C7E-DD57-45C9-8A90-73FB70092D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Mobile operator", "Exam Preparation\Exam 8\03. Mobile operator\03. Mobile operator.csproj", "{546F6C7E-DD57-45C9-8A90-73FB70092D6F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Tourist Shop", "Programming Basics Exams\Exam 8\04. Tourist Shop\04. Tourist Shop.csproj", "{7039F4D6-0A7F-4F92-B65F-4C184499E2AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Tourist Shop", "Exam Preparation\Exam 8\04. Tourist Shop\04. Tourist Shop.csproj", "{7039F4D6-0A7F-4F92-B65F-4C184499E2AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Vet Parking", "Programming Basics Exams\Exam 8\05. Vet Parking\05. Vet Parking.csproj", "{9967B8FF-9B28-4A2F-9879-AB57441539B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Vet Parking", "Exam Preparation\Exam 8\05. Vet Parking\05. Vet Parking.csproj", "{9967B8FF-9B28-4A2F-9879-AB57441539B5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online Exam", "Online Exam", "{13ED6FCD-9FF9-410A-BF56-93CC471AE22B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Cat Diet", "Programming Basics Exams\Online Exam\01. Cat Diet\01. Cat Diet.csproj", "{5A519960-D4A4-4047-BA55-9820104E0853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Cat Diet", "Exam Preparation\Online Exam\01. Cat Diet\01. Cat Diet.csproj", "{5A519960-D4A4-4047-BA55-9820104E0853}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Deer of Santa", "Programming Basics Exams\Online Exam\02. Deer of Santa\02. Deer of Santa.csproj", "{C23365EE-F110-4E92-904E-B5510F60617C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Deer of Santa", "Exam Preparation\Online Exam\02. Deer of Santa\02. Deer of Santa.csproj", "{C23365EE-F110-4E92-904E-B5510F60617C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Excursion Calculator", "Programming Basics Exams\Online Exam\03. Excursion Calculator\03. Excursion Calculator.csproj", "{0EA521C7-1335-4BDB-970F-FA617E689FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Excursion Calculator", "Exam Preparation\Online Exam\03. Excursion Calculator\03. Excursion Calculator.csproj", "{0EA521C7-1335-4BDB-970F-FA617E689FF2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Grandpa Stavri", "Programming Basics Exams\Online Exam\04. Grandpa Stavri\04. Grandpa Stavri.csproj", "{CC6D88FC-A443-47FF-9D84-FAFE87F74183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Grandpa Stavri", "Exam Preparation\Online Exam\04. Grandpa Stavri\04. Grandpa Stavri.csproj", "{CC6D88FC-A443-47FF-9D84-FAFE87F74183}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Hair Salon", "Programming Basics Exams\Online Exam\05. Hair Salon\05. Hair Salon.csproj", "{6B21543A-0AB9-4D6F-8778-345884C90ED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Hair Salon", "Exam Preparation\Online Exam\05. Hair Salon\05. Hair Salon.csproj", "{6B21543A-0AB9-4D6F-8778-345884C90ED1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Substitute", "Programming Basics Exams\Online Exam\06. Substitute\06. Substitute.csproj", "{5B942CB7-7FCE-4523-80C6-84FCE72A9422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Substitute", "Exam Preparation\Online Exam\06. Substitute\06. Substitute.csproj", "{5B942CB7-7FCE-4523-80C6-84FCE72A9422}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Balls", "Programming Basics Exams\Exam 7\04. Balls\04. Balls.csproj", "{71D66D8C-5E76-405D-B0BA-8C3115AA0AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Balls", "Exam Preparation\Exam 7\04. Balls\04. Balls.csproj", "{71D66D8C-5E76-405D-B0BA-8C3115AA0AD3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Best Player", "Programming Basics Exams\Exam 7\05. Best Player\05. Best Player.csproj", "{F5D835D5-A99C-4F6E-A4C4-5E07EDED4AE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Best Player", "Exam Preparation\Exam 7\05. Best Player\05. Best Player.csproj", "{F5D835D5-A99C-4F6E-A4C4-5E07EDED4AE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
