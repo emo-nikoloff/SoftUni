@@ -1,4 +1,6 @@
-﻿namespace ClassBoxData;
+﻿using ClassBoxData.Models;
+
+namespace ClassBoxData;
 
 public class StartUp
 {

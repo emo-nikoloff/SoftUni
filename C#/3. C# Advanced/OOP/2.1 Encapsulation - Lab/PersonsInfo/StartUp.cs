@@ -1,3 +1,5 @@
+using PersonsInfo.Models;
+
 namespace PersonsInfo;
 
 public class StartUp

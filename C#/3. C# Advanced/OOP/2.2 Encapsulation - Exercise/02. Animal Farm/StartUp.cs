@@ -1,4 +1,6 @@
-﻿namespace AnimalFarm;
+﻿using AnimalFarm.Models;
+
+namespace AnimalFarm;
 
 public class StartUp
 {
