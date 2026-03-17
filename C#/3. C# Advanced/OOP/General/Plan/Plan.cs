@@ -48,7 +48,7 @@ class Plan
             Console.WriteLine(animal);
         }
 
-        cat.BornKid("Hasan");
+        cat.BirthKid("Hasan");
 
         Console.WriteLine($"Децата на {cat.Name}:");
         foreach (string kid in cat.Kids)
@@ -134,11 +134,52 @@ class Plan
 
         int firstResult = Multiply(3, 4);
         double secondResult = Multiply(2.5, 3.5);
+
+        Console.WriteLine("<--------SOLID принципи-------->");
+        Console.WriteLine("------Single Responsibility------");
+        // -> Всеки клас, метод, променлива и други да имат една единствена отговорност и една единствена причина да се променят; Strong Cohesion - функционалностите са много навързани един към
+        // друг; Coupling - колко е навързан даден клас или метод с друг клас или метод. Колкото по-навързани са нещата, толкова по-голям е проблема да се развържат. => Loose Coupling - стремим
+        // се да не сме толкова навързани и отделните класове или методи да са по-разкачени - по-добро четене на кода, по-добър системен дизайн; За да постигнем Strong Cohesion и Loose Coupling -
+        // 1. инстанцираме малко на брой класове и променливи в даден клас, 2. всеки метод на даден клас да манипулира най-малка част от тези променливи, 3. два отделни модула с класове си
+        // споделят възможно най-малко информация - така са по-разкачени и има по-голяма възможност за промяна, 4. да използваме абстракция, 5. максимално много reusability
+
+        Console.WriteLine("------Open/Closed------");
+        // -> Всички парчета от кода - класове, модули, функции трябва да бъдат отворени за разширяване, но затворени за модификация - добавянето на нова функционалност или логика да не изисква
+        // промени върху съществуващ код. Ще можем да преизползваме парчета от нашата система, защото ще имаме по-голяма модулярност; За да постигнем всичко това - 1. използваме параметри, за да
+        // променяме функционалността, 2. да разчитаме на абстракция, а не на конкретни класове - можем лесно да вмъкнем друг вид имплементация, 3. Strategy Pattern - вършим работа без да
+        // променяме текущия код, променяме само какво подаваме на класа - Plug in model - даваме нова имплементация чрез интерфейс, 4. Template Method Pattern - един абстрактен клас, който
+        // дефинира стъпките какво да се случва и след това наследниците определят как да се случват нещата; Кога да приложим - на база опита на проекта(колко често се променя) - когато бизнесът
+        // или проблемът, който се решава от приложението, има голям шанс да прави промяна -> ако не сме сигурни, че ще се променя често - имплементираме възможно най-елементарния начин
+        // (да стане бързо и да работи) и в последствие започнат да се променят нещата често, тогава рефакторираме да се спазва Open/Closed и правим тест дали все още логиката работи както трябва
+        // -> TANSTAAFL(There Ain't No Such Thing As A Free Lunch) - добавя неизбежна комплексност към кода и дизайна на системата
+        // *Няма как да имаме система затворена на 100% за промени*
+
+        Console.WriteLine("------Liskov Substitution------");
+        // -> Наследниците трябва да могат да заместват базовите класове - наследникът не трябва да променя функционалност на базовия клас, а само да добавя
+
+        Console.WriteLine("------Interface Segregation------");
+        // -> Да не правим твърде големи интерфейси - да ги намаляме, колкото се може повече - да бъдат малки и с ясна цел; "Дебелите" интерфейси се "раздробяват"
+
+        Console.WriteLine("------Dependency Inversion------");
+        // -> Всяко приложение съдържа класове, модули, методи и др., а те съдържат депендънсита(зависимости) - всякакви външни компоненти, които системата използва. Видове Dependency Inversion -
+        // Constructor Injection: **най-препоръчително**
+        // + класът не може да бъде създаден без да има валидните неща, които да му подадем - има нужда от абстракциите, за да работи
+        // + не трябва да се занимава с валидация дали всички депендънсита са дадени
+        // - твърде много депендънсита и параметри
+        // - част от депендънситата са ненужни
+        // Property Injection:
+        // + функционалността може да бъде променена по всяко време
+        // + прави кода по-гъвкав
+        // - пропъртито може да е невалидно
+        // - сам се досещаш какво трябва да правиш
+        // Parameter Injection:
+        // + методът казва от какво има нужда
+        // - твърде много параметри
+        // - методът вместо да разчита на данни - разчита на депендънсита
     }
 
     // Compile-time полиморфизъм - method overloading
     static int Multiply(int a, int b) => a * b;
-
     static double Multiply(double a, double b) => a * b;
 }
 
@@ -211,7 +252,6 @@ class Student : Person
 }
 
 // Енкапсулация:
-
 class Animal
 {
     private string name; // поле - винаги private
@@ -284,7 +324,7 @@ class Cat : Animal
         }
     }
 
-    public void BornKid(string name)
+    public void BirthKid(string name)
     {
         kids.Add(name);
     }
@@ -438,5 +478,274 @@ class PayPalPayment : Payment
     public override void Pay(decimal amount)
     {
         Console.WriteLine($"Платени {amount} евро чрез PayPal.");
+    }
+}
+
+// SOLID принципи:
+// -> Single Responsibility
+class Engine
+{
+    // public static void DoEverything()
+    // {
+    //     var report = GenerateReport();
+    //     PrintReport(report);
+    //     SendReport(report, "mc@emo.com");
+    // }
+
+    // public static object GenerateReport()
+    // {
+    //     throw new NotImplementedException();
+    // }                                                            => не покрива Single Responsibility - класът изпълнява много неща - Spaghetti Code
+
+    // public static void PrintReport(object report)
+    // {
+    //     throw new NotImplementedException();
+    // }
+
+    // public static void SendReport(object report, string email)
+    // {
+    //     throw new NotImplementedException();
+    // }
+
+    static void CompleteReport() // така класът служи като координатор на другите класове - всяко отделно парче си има собствена функционалност
+    {
+        var generator = new ReportGenerator();
+        var printer = new Printer();
+        var mailSender = new MailSender();
+
+        var report = generator.GenerateReport();
+        printer.PrintReport(report);
+        mailSender.SendReport(report, "mc@emo.com");
+    }
+}
+
+class ReportGenerator
+{
+    public object GenerateReport()
+    {
+        throw new NotImplementedException();
+    }
+}
+
+class Printer
+{
+    public void PrintReport(object report)
+    {
+        throw new NotImplementedException();
+    }
+}
+
+class MailSender
+{
+    public void SendReport(object report, string email)
+    {
+        throw new NotImplementedException();
+    }
+}
+
+// -> Open/Closed
+// => Strategy Pattern
+interface IPromotion
+{
+    double GetDiscount();
+}
+
+class FreeShippingPromotion : IPromotion
+{
+    public double GetDiscount()
+    {
+        return 10.00;
+    }
+}
+
+class TwentyPercentOffPromotion : IPromotion
+{
+    private double totalProductPrice;
+
+    public TwentyPercentOffPromotion(double totalProductPrice)
+    {
+        this.totalProductPrice = totalProductPrice;
+    }
+
+    public double GetDiscount()
+    {
+        return totalProductPrice * 0.2;
+    }
+}
+
+class PromotionHandler
+{
+    public void HandlePromotions()
+    {
+        FreeShippingPromotion freeShippingPromotion = new();
+        ShoppingCart shoppingCart = new(freeShippingPromotion);
+    }
+}
+
+class ShoppingCart
+{
+    private IPromotion promotion;
+
+    public ShoppingCart(IPromotion promotion) // Strategy Pattern - дава стратегии с различни класове
+    {
+        this.promotion = promotion;
+    }
+
+    public double CalculateFinalPrice()
+    {
+        // Sum of all products
+        double totalSumOfProducts = 125.67;
+
+        // Add shipping
+        double shipping = 10.00;
+
+        // Calculate promotions
+
+        // string promoCode = "20OFF";
+
+        // if (totalSumOfProducts > 100)
+        // {
+        //     shipping = 0;
+        // }
+        // else if (promoCode == "20OFF")       => не покрива Open/Closed - отворен е за разширение, но е отворен и за модификация(при всяко едно разширение модифицираме)
+        // {
+        //     totalSumOfProducts *= 0.8;
+        // }
+        // else if (promoCode == "50OFF")
+        // {
+        //     totalSumOfProducts *= 0.5;
+        // }
+
+        double discount = promotion.GetDiscount();
+
+        return totalSumOfProducts + shipping - discount;
+    }
+}
+
+// => Template Method Pattern
+public abstract class CoffeeBrewer
+{
+    protected int CupSize { get; set; }
+    protected int CoffeeShots { get; set; }
+    protected int Sugar { get; set; }
+    protected int Milk { get; set; }
+
+    public void Brew()
+    {
+        PrepareMachine();
+        GetCup();
+        BrewCoffee();
+        AddAdditionalProducts();
+    }
+
+    protected abstract void PrepareMachine();
+    protected abstract void GetCup();
+    protected abstract void BrewCoffee();
+    protected abstract void AddAdditionalProducts();
+}
+
+class EspressoBrewer : CoffeeBrewer
+{
+    protected override void PrepareMachine()
+    { }
+
+    protected override void GetCup()
+    {
+        CupSize = 50;
+    }
+
+    protected override void BrewCoffee()
+    {
+        CoffeeShots = 1;
+    }
+
+    protected override void AddAdditionalProducts()
+    {
+        Sugar = 0;
+    }
+}
+
+class CapuccinoBrewer : CoffeeBrewer
+{
+    protected override void PrepareMachine()
+    { }
+
+    protected override void GetCup()
+    {
+        CupSize = 100;
+    }
+
+    protected override void BrewCoffee()
+    {
+        CoffeeShots = 1;
+    }
+
+    protected override void AddAdditionalProducts()
+    {
+        Milk = 100;
+    }
+}
+
+// Dependency Inversion
+interface ICurrentTime
+{
+    DateTime Now { get; }
+}
+
+class CurrentTime : ICurrentTime
+{
+    public DateTime Now
+    {
+        get
+        {
+            return DateTime.Now;
+        }
+    }
+}
+
+class FakeCurrentTime : ICurrentTime
+{
+    public DateTime Now
+    {
+        get
+        {
+            return new DateTime(2025, 12, 15, 13, 15, 50);
+        }
+    }
+}
+
+class Greeter
+{
+    private ICurrentTime currentTime;
+
+    public Greeter(ICurrentTime currentTime) // Constuctor Injection
+    {
+        this.currentTime = currentTime;
+    }
+
+    public ICurrentTime CurrentTime // Property Injection
+    {
+        set
+        {
+            currentTime = value;
+        }
+    }
+
+    public void Greet() // ако в самия метод сложим ICurrentTime currentTime ще имаме Parameter Injection
+    {
+        DateTime timeNow = currentTime.Now;
+
+        if (timeNow.Hour < 12)
+        {
+            Console.WriteLine("Good morning!");
+        }
+        else if (timeNow.Hour >= 19)
+        {
+            Console.WriteLine("Good evening!");
+        }
+        else
+        {
+            Console.WriteLine("Good afternoon!");
+        }
     }
 }
