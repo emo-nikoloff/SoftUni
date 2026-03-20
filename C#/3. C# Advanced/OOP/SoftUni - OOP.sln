@@ -89,21 +89,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "4.2 Polymorphis
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 Exceptions and Error Handling - Lab", "5.1 Exceptions and Error Handling - Lab", "{DF92A200-A95A-D27B-CACA-04EDC85B0BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "5.1 Exceptions and Error Handling - Lab\01. Square Root\01. Square Root.csproj", "{6F45B8FD-E6B9-4895-ABB7-D346DBF53EAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "5.1 Exceptions and Error Handling - Lab\01. Square Root\SquareRoot.csproj", "{6F45B8FD-E6B9-4895-ABB7-D346DBF53EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter Numbers", "5.1 Exceptions and Error Handling - Lab\02. Enter Numbers\02. Enter Numbers.csproj", "{630E7A5C-C3FD-4B84-B106-76351979DC3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "5.1 Exceptions and Error Handling - Lab\02. Enter Numbers\EnterNumbers.csproj", "{630E7A5C-C3FD-4B84-B106-76351979DC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Cards", "5.1 Exceptions and Error Handling - Lab\03. Cards\03. Cards.csproj", "{B494C15E-864F-4B3F-AE8C-96A1246F007B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "5.1 Exceptions and Error Handling - Lab\03. Cards\Cards.csproj", "{B494C15E-864F-4B3F-AE8C-96A1246F007B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Integers", "5.1 Exceptions and Error Handling - Lab\04. Sum of Integers\04. Sum of Integers.csproj", "{2F0FF28C-2048-444D-8FD3-D6E9CBA488E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfIntegers", "5.1 Exceptions and Error Handling - Lab\04. Sum of Integers\SumOfIntegers.csproj", "{2F0FF28C-2048-444D-8FD3-D6E9CBA488E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Play Catch", "5.1 Exceptions and Error Handling - Lab\05. Play Catch\05. Play Catch.csproj", "{80333869-C94E-43A2-9A38-75C0588171A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayCatch", "5.1 Exceptions and Error Handling - Lab\05. Play Catch\PlayCatch.csproj", "{80333869-C94E-43A2-9A38-75C0588171A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Money Transactions", "5.1 Exceptions and Error Handling - Lab\06. Money Transactions\06. Money Transactions.csproj", "{0AB647E9-F974-48CC-B09B-C8BAC3D6A62E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTransactions", "5.1 Exceptions and Error Handling - Lab\06. Money Transactions\MoneyTransactions.csproj", "{0AB647E9-F974-48CC-B09B-C8BAC3D6A62E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.1 SOLID - Lab", "6.1 SOLID - Lab", "{0C913063-CC63-1669-3181-F569C6BD92A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Stream Progress Info", "6.1 SOLID - Lab\01. Stream Progress Info\01. Stream Progress Info.csproj", "{D3D5F273-7BA2-4980-8845-027DC5753393}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamProgress", "6.1 SOLID - Lab\01. Stream Progress Info\StreamProgress.csproj", "{D3D5F273-7BA2-4980-8845-027DC5753393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicEditor", "6.1 SOLID - Lab\02. Graphic Editor\GraphicEditor.csproj", "{6F1D5C05-7633-4218-B800-4EB9857ECC12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -595,6 +597,18 @@ Global
 		{D3D5F273-7BA2-4980-8845-027DC5753393}.Release|x64.Build.0 = Release|Any CPU
 		{D3D5F273-7BA2-4980-8845-027DC5753393}.Release|x86.ActiveCfg = Release|Any CPU
 		{D3D5F273-7BA2-4980-8845-027DC5753393}.Release|x86.Build.0 = Release|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Debug|x64.Build.0 = Debug|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Debug|x86.Build.0 = Debug|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Release|x64.ActiveCfg = Release|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Release|x64.Build.0 = Release|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Release|x86.ActiveCfg = Release|Any CPU
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -640,5 +654,6 @@ Global
 		{80333869-C94E-43A2-9A38-75C0588171A6} = {DF92A200-A95A-D27B-CACA-04EDC85B0BE9}
 		{0AB647E9-F974-48CC-B09B-C8BAC3D6A62E} = {DF92A200-A95A-D27B-CACA-04EDC85B0BE9}
 		{D3D5F273-7BA2-4980-8845-027DC5753393} = {0C913063-CC63-1669-3181-F569C6BD92A6}
+		{6F1D5C05-7633-4218-B800-4EB9857ECC12} = {0C913063-CC63-1669-3181-F569C6BD92A6}
 	EndGlobalSection
 EndGlobal

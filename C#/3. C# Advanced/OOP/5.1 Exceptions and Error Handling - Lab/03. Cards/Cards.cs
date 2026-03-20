@@ -1,4 +1,4 @@
-﻿namespace _03._Cards;
+﻿namespace Cards;
 
 class Program
 {

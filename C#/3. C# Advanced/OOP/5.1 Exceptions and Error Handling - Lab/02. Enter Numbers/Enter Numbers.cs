@@ -1,4 +1,4 @@
-﻿namespace _02._Enter_Numbers;
+﻿namespace EnterNumbers;
 
 class Program
 {

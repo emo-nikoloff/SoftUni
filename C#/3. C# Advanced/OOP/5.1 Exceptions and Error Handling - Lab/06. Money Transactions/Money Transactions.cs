@@ -1,4 +1,4 @@
-﻿namespace _06._Money_Transactions;
+﻿namespace MoneyTransactions;
 
 class Program
 {

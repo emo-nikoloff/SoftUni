@@ -1,4 +1,4 @@
-﻿namespace _01._Square_Root;
+﻿namespace SquareRoot;
 
 class Program
 {

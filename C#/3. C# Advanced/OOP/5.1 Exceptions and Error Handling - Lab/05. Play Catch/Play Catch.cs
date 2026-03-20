@@ -1,4 +1,4 @@
-﻿namespace _05._Play_Catch;
+﻿namespace PlayCatch;
 
 class Program
 {

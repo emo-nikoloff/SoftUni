@@ -1,4 +1,4 @@
-﻿namespace _04._Sum_of_Integers;
+﻿namespace SumOfIntegers;
 
 class Program
 {
