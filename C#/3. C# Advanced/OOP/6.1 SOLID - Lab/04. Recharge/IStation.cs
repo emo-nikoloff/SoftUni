@@ -1,11 +1,10 @@
-﻿namespace P04.Recharge
+﻿namespace Recharge;
+
+public interface IStation
 {
-    public interface IStation
-    {
-        public int Capacity { get; }
+    int Capacity { get; }
+    int Current { get; }
 
-        public int Current { get; }
-
-        public void Dismount();
-    }
+    void Dismount();
 }
+

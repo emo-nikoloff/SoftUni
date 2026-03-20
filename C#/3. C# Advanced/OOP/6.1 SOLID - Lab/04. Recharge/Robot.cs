@@ -1,47 +1,39 @@
-﻿using System;
+﻿namespace Recharge;
 
-namespace P04.Recharge
+public class Robot : Worker, IRechargeable
 {
-    public class Robot : Worker, IRechargeable
+    private int capacity;
+    private int currentPower;
+
+    public Robot(string id, int capacity) : base(id)
     {
-        private int capacity;
-        private int currentPower;
+        this.capacity = capacity;
+    }
 
-        public Robot(string id, int capacity) : base(id)
+    public int Capacity
+    {
+        get { return capacity; }
+    }
+
+    public int CurrentPower
+    {
+        get { return currentPower; }
+        set { currentPower = value; }
+    }
+
+    public override void Work(int hours)
+    {
+        if (hours > currentPower)
         {
-            this.capacity = capacity;
+            hours = currentPower;
         }
 
-        public int Capacity
-        {
-            get { return this.capacity; }
-        }
+        base.Work(hours);
+        currentPower -= hours;
+    }
 
-        public int CurrentPower
-        {
-            get { return this.currentPower; }
-            set { this.currentPower = value; }
-        }
-
-        public void Work(int hours)
-        {
-            if (hours > this.currentPower)
-            {
-                hours = currentPower;
-            }
-
-            base.Work(hours);
-            this.currentPower -= hours;
-        }
-
-        public override void Recharge()
-        {
-            this.currentPower = this.capacity;
-        }
-
-        public override void Sleep()
-        {
-            throw new InvalidOperationException("Robots cannot sleep");
-        }
+    public void Recharge()
+    {
+        currentPower = capacity;
     }
 }

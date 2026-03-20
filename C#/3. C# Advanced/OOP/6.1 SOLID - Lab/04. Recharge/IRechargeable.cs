@@ -1,7 +1,7 @@
-﻿namespace P04.Recharge
+﻿namespace Recharge;
+
+public interface IRechargeable
 {
-    public interface IRechargeable
-    {
-        void Recharge();
-    }
+    void Recharge();
 }
+

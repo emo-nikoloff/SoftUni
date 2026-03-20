@@ -1,7 +1,7 @@
-﻿namespace P04.Recharge
+﻿namespace Recharge;
+
+public interface ISleeper
 {
-    public interface ISleeper
-    {
-        void Sleep();
-    }
+    void Sleep();
 }
+
