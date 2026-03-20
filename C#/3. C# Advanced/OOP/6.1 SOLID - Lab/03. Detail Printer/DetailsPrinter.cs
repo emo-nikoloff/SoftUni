@@ -11,28 +11,10 @@ public class DetailsPrinter
 
     public void PrintDetails()
     {
-        foreach (Employee employee in this.employees)
+        foreach (Employee employee in employees)
         {
-            if (employee is Manager)
-            {
-                this.PrintManager((Manager)employee);
-            }
-            else
-            {
-                this.PrintEmployee(employee);
-            }
+            Console.WriteLine(employee.Info());
         }
-    }
-
-    private void PrintEmployee(Employee employee)
-    {
-        Console.WriteLine(employee.Name);
-    }
-
-    private void PrintManager(Manager manager)
-    {
-        Console.WriteLine(manager.Name);
-        Console.WriteLine(string.Join(Environment.NewLine, manager.Documents));
     }
 }
 
