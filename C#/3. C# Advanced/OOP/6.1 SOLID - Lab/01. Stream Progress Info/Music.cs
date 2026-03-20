@@ -1,6 +1,6 @@
 namespace StreamProgressInfo;
 
-public class Music
+public class Music : IStreamable
 {
     private string artist;
     private string album;
@@ -9,10 +9,10 @@ public class Music
     {
         this.artist = artist;
         this.album = album;
-        this.Length = length;
-        this.BytesSent = bytesSent;
+        Length = length;
+        BytesSent = bytesSent;
     }
 
-    public int Length { get; set; }
-    public int BytesSent { get; set; }
+    public int Length { get; }
+    public int BytesSent { get; }
 }
