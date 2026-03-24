@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿using System.Reflection;
 
 namespace Plan;
 
@@ -73,7 +73,7 @@ class Plan
             vehicle.Stop();
         }
 
-        Console.WriteLine("----------------");
+        Console.WriteLine("--------------------------------");
 
         List<Shape> shapes = new() { new Rectangle("Правоъгълник", 5, 4), new Circle("Кръг", 3) };
 
@@ -93,7 +93,7 @@ class Plan
         secondPayment.Pay(50);
         thirdPayment.Pay(75);
 
-        Console.WriteLine("----------------");
+        Console.WriteLine("--------------------------------");
 
         if (firstPayment is CreditCardPayment cardPayment) // ключовата дума is проверява дали даден обект е инстанция на специфичен клас
         {
@@ -108,7 +108,7 @@ class Plan
             }
         }
 
-        Console.WriteLine("\n----------------");
+        Console.WriteLine("\n--------------------------------");
 
         IEnumerable<int> numbers = Enumerable.Range(10, 40);
         Console.WriteLine($"Колекция: {string.Join(", ", numbers)}");
@@ -117,7 +117,7 @@ class Plan
                                                                                                                     // операции с нея
         Console.WriteLine($"Числата, които се делят на 7 с остатък [2..4]: {string.Join(", ", filtered)}");
 
-        Console.WriteLine("----------------");
+        Console.WriteLine("--------------------------------");
 
         PayPalPayment paypal = thirdPayment as PayPalPayment; // превърни ми(cast) променливата в PayPalPayment
 
@@ -130,10 +130,13 @@ class Plan
             Console.WriteLine("Обектът не е PayPalPayment.");
         }
 
-        Console.WriteLine("----------------");
+        Console.WriteLine("--------------------------------");
 
         int firstResult = Multiply(3, 4);
         double secondResult = Multiply(2.5, 3.5);
+
+        Console.WriteLine($"3 * 4 = {firstResult}");
+        Console.WriteLine($"2.5 * 3.5 = {secondResult}");
 
         Console.WriteLine("<--------SOLID принципи-------->");
         Console.WriteLine("------Single Responsibility------");
@@ -176,6 +179,114 @@ class Plan
         // + методът казва от какво има нужда
         // - твърде много параметри
         // - методът вместо да разчита на данни - разчита на депендънсита
+
+        Console.WriteLine("<--------Рефлексия и атрибути-------->"); // Мета програмиране - начин на кода да анализира себе си - програмна техника, с която програмите могат да разглеждат други
+        // програми или самите себе си като данни. Програмите могат да бъдат за четене, генериране, анализиране, трансформиране и модифициране на самата програма, докато работи
+
+        Console.WriteLine("------Рефлексия------"); // Рефлексия - възможността на език да разглежда себе си какво дава в самата програма; Кога да използваме - 1. когато искаме да имаме код,
+                                                    // който е гъвкав - готова програма и в нея подпъхваме други програми, и програмата може да ги достъпва, 2. да намалим кода, 3. да
+                                                    // инициализираме обекти динамично(без да им знаем типа), 4. да вадим информация за компилирания код, 5. да анализираме други програми; Кога да
+                                                    // НЕ използваме - когато е възможно да се направи нещо без рефлексия е препоръчително тя да не се използва; Недостатъци на рефлексия - бавна
+                                                    // като производителност, проблеми със сигурността, достъп до всеки един компонент на кода независимо дали е private, internal и т.н.,
+                                                    // алгоритмите са гъвкави и е възможно нещо да се счупи, защото не работят с конкретика
+        Type catType = typeof(Cat); // дава информация за класа по време на компилиране на кода
+        Console.WriteLine(catType.FullName);
+
+        catType = Type.GetType("Plan.Cat"); // дава информация за класа по време на изпълнение кода; за да се достъпи типът
+        Console.WriteLine(catType.FullName);
+
+        Console.WriteLine(cat.GetType());
+
+        Console.WriteLine(catType.BaseType);
+
+        Console.WriteLine("--------------------------------");
+
+        var newCat = Activator.CreateInstance(catType, "Yordan", "Mixed"); // създаваме инстанция без да използваме конструктора директно - създаваме инстанция "в движение" на типове данни,
+                                                                           // като не е задължително да знаем имената им; ако не направим cast се създава обект, но не се знае от какъв тип
+        Console.WriteLine(newCat);
+
+        Console.WriteLine("--------------------------------");
+
+        Type newCatType = newCat.GetType();
+        FieldInfo[] allFields = newCatType.GetFields(BindingFlags.Static |
+                                                    BindingFlags.Instance |
+                                                    BindingFlags.Public |
+                                                    BindingFlags.NonPublic); // ако методът няма зададени параметри, връща всички публични полета
+        Console.WriteLine($"Полетата на обекта {newCatType.Name}:");
+        foreach (FieldInfo field in allFields)
+        {
+            Console.WriteLine(field);
+
+            if (field.Name == "color")
+            {
+                field.SetValue(newCat, "Black");
+            }
+        }
+
+        PropertyInfo[] allProperties = newCatType.GetProperties();
+        Console.WriteLine($"\nПропъртитата на обекта {newCatType.Name}:");
+        foreach (PropertyInfo property in allProperties)
+        {
+            Console.WriteLine(property);
+
+            MethodInfo getter = property.GetGetMethod();
+            MethodInfo setter = property.GetSetMethod(true);
+
+            Console.WriteLine($"-> Protected getter - {getter.IsFamily}");
+
+            if (setter != null)
+            {
+                Console.WriteLine($"-> Protected setter - {setter.IsFamily}");
+            }
+            else
+            {
+                Console.WriteLine("-> Protected setter - No setter found");
+            }
+        }
+
+        Console.WriteLine("--------------------------------");
+
+        ConstructorInfo[] constructors = newCatType.GetConstructors();
+
+        Console.WriteLine($"Конструкторите на обекта {newCatType.Name}:");
+        foreach (ConstructorInfo constructor in constructors)
+        {
+            ParameterInfo[] parameters = constructor.GetParameters();
+
+            foreach (ParameterInfo parameter in parameters)
+            {
+                Console.WriteLine($"{parameter.Name} - {parameter.ParameterType}");
+            }
+        }
+
+        Console.WriteLine();
+
+        ConstructorInfo catConstructor = newCatType.GetConstructor(new Type[] { typeof(string), typeof(string) });
+        var catFromConstructor = (Cat)catConstructor.Invoke(new object[] { "Aladin", "Mixed" });
+        Console.WriteLine(catFromConstructor.Name);
+
+        Console.WriteLine("--------------------------------");
+
+        MethodInfo[] methods = newCatType.GetMethods();
+
+        Console.WriteLine($"Методите на обекта {newCatType.Name}:");
+        foreach (MethodInfo method in methods)
+        {
+            Console.WriteLine(method.Name);
+        }
+
+        Console.WriteLine("------Атрибути------"); // Не променят логиката на кода - изцяло създадени за рефлексия и логика, която работи с рефлексия; Допълнителна информация, която слагаме върху
+                                                   // кода без тя да прави нещо специфично - може да се слага на класове, методи, полета и др.; Маркираме даден елемент от класа, за да може друга
+                                                   // програма, която прави рефлексия да работи с него; Можем да създаваме собствени атрибути
+        Type[] types = Assembly.GetExecutingAssembly().GetTypes();
+        foreach (Type type in types)
+        {
+            AuthorAttribute authorAttribute = type.GetCustomAttribute<AuthorAttribute>();
+            if (authorAttribute != null)
+            {
+                Console.WriteLine($"{type.Name} - написан от {authorAttribute.Name}");
+            }
+        }
     }
 
     // Compile-time полиморфизъм - method overloading
@@ -252,6 +363,7 @@ class Student : Person
 }
 
 // Енкапсулация:
+[Author(Name = "Emiliyan")] // line 860
 class Animal
 {
     private string name; // поле - винаги private
@@ -267,7 +379,7 @@ class Animal
         {
             return name;
         }
-        private set
+        protected set
         {
             if (string.IsNullOrWhiteSpace(value))
             {
@@ -283,6 +395,7 @@ class Animal
     }
 }
 
+[Author(Name = "Emiliyan")] // line 860
 class Cat : Animal
 {
     private string[] validColors = { "Black", "White", "Gray", "Mixed" };
@@ -686,7 +799,7 @@ class CapuccinoBrewer : CoffeeBrewer
     }
 }
 
-// Dependency Inversion
+// -> Dependency Inversion
 interface ICurrentTime
 {
     DateTime Now { get; }
@@ -748,4 +861,13 @@ class Greeter
             Console.WriteLine("Good afternoon!");
         }
     }
+}
+
+// Рефлексия и атрибути
+// -> атрибути
+[AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = false)] // атрибута може да бъде използван само върху класове и методи и атрибутите НЕ могат да бъдат много на
+                                                                                          // брой
+class AuthorAttribute : Attribute
+{
+    public string Name { get; set; }
 }
