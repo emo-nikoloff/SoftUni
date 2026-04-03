@@ -8,14 +8,14 @@ public class WarriorTests
     [SetUp]
     public void SetUp()
     {
-        warrior = new("Rojda", 100, 100);
+        warrior = new("Rojda", 10, 100);
     }
 
     [Test]
-    public void WarriorConstructorShouldBeCreatedCorrectly()
+    public void WarriorConstructorShouldWorkCorrectly()
     {
         string expectedName = "Rojda";
-        int expectedDamage = 100;
+        int expectedDamage = 10;
         int expectedHP = 100;
 
         Assert.That(expectedName, Is.EqualTo(warrior.Name));
@@ -42,6 +42,76 @@ public class WarriorTests
         Assert.Throws<ArgumentException>(() =>
         {
             new Warrior("Rojda", damage, 100);
+        });
+    }
+
+    [Test]
+    public void HPShouldThrowExceptionIfValueIsNegative()
+    {
+        Assert.Throws<ArgumentException>(() =>
+        {
+            new Warrior("Rojda", 100, -1);
+        });
+    }
+
+    [Test]
+    public void WarriorAttackShouldDecreaseEnemyHP()
+    {
+        Warrior enemy = new("Emiliyan", 50, 200);
+
+        int expectedWarriorHP = 50;
+        int expectedEnemyHP = 190;
+
+        warrior.Attack(enemy);
+
+        Assert.That(expectedWarriorHP, Is.EqualTo(warrior.HP));
+        Assert.That(expectedEnemyHP, Is.EqualTo(enemy.HP));
+    }
+
+    [Test]
+    public void WarriorShouldKillEnemyIfDamageIsTooMuch()
+    {
+        Warrior strongWarrior = new("Emiliyan", 300, 200);
+
+        int expectedWarriorHP = 0;
+
+        strongWarrior.Attack(warrior);
+
+        Assert.That(expectedWarriorHP, Is.EqualTo(warrior.HP));
+    }
+
+    [TestCase(20)]
+    [TestCase(30)]
+    public void WarriorShouldNotAttackIfHPIsBelowThirty(int hp)
+    {
+        Warrior enemy = new("Jimmy", 100, hp);
+
+        Assert.Throws<InvalidOperationException>(() =>
+        {
+            enemy.Attack(warrior);
+        });
+    }
+
+    [TestCase(20)]
+    [TestCase(30)]
+    public void WarriorShouldNotAttackEnemyWithHPBelowThirty(int hp)
+    {
+        Warrior enemy = new("Jimmy", 100, hp);
+
+        Assert.Throws<InvalidOperationException>(() =>
+        {
+            warrior.Attack(enemy);
+        });
+    }
+
+    [Test]
+    public void WarriorShouldNotAttackStrongerEnemies()
+    {
+        Warrior enemy = new("Jimmy", 200, 100);
+
+        Assert.Throws<InvalidOperationException>(() =>
+        {
+            warrior.Attack(enemy);
         });
     }
 }

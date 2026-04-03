@@ -9,8 +9,7 @@ public class Arena
         warriors = new List<Warrior>();
     }
 
-    public IReadOnlyCollection<Warrior> Warriors =>
-        warriors;
+    public IReadOnlyCollection<Warrior> Warriors => warriors;
 
     public int Count => warriors.Count;
 
