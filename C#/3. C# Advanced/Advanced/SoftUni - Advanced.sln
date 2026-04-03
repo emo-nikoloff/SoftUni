@@ -231,15 +231,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.2 Iterators and Comparato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "8.2 Iterators and Comparators - Exercise\01. ListyIterator\ListyIterator.csproj", "{A274D23F-1793-4E4E-B674-7657EAA1B223}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{4AC5033F-25FF-5035-A1FC-D5DA515F4459}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam Preparation", "Exam Preparation", "{4AC5033F-25FF-5035-A1FC-D5DA515F4459}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online Exam", "Online Exam", "{4A1B755F-CFD8-F229-F110-533F22D1D58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Energy Drinks", "Exams\Online Exam\01. Energy Drinks\01. Energy Drinks.csproj", "{77F9FF7F-DAE2-4E65-9D62-D36A9216B4B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Energy Drinks", "Exam Preparation\Online Exam\01. Energy Drinks\01. Energy Drinks.csproj", "{77F9FF7F-DAE2-4E65-9D62-D36A9216B4B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rally Racing", "Exams\Online Exam\02. Rally Racing\02. Rally Racing.csproj", "{1DEC9697-D170-4ACF-92D5-782988AD6DBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rally Racing", "Exam Preparation\Online Exam\02. Rally Racing\02. Rally Racing.csproj", "{1DEC9697-D170-4ACF-92D5-782988AD6DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerArchitecture", "Exams\Online Exam\03. Computer Architecture\ComputerArchitecture.csproj", "{A4F26D30-9831-46A4-A6E0-49F1B75BB476}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerArchitecture", "Exam Preparation\Online Exam\03. Computer Architecture\ComputerArchitecture.csproj", "{A4F26D30-9831-46A4-A6E0-49F1B75BB476}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
