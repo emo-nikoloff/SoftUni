@@ -1,0 +1,67 @@
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+Value cannot be null. (Parameter 'type')
+Value cannot be null. (Parameter 'type')
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+Value cannot be null. (Parameter 'type')
+Value cannot be null. (Parameter 'type')
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+The winds whisper no knowledge of a {0}.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+The winds whisper no knowledge of a {0}.
+No hero bearing the RuneMark {0} walks this realm.
+No hero bearing the RuneMark {0} walks this realm.
+No guild known as {0} has been founded.
+No guild known as {0} has been founded.
+The clash cannot commence — one or more guilds are yet to be founded.
+The clash cannot commence — one or more guilds are yet to be founded.
+No guild known as {0} has been founded.
+No guild known as {0} has been founded.
+No guild known as {0} has been founded.
+No guild known as {0} has been founded.
+The clash cannot commence — one or more guilds are yet to be founded.
+
