@@ -20,19 +20,20 @@ public class Controller : IController
 
     public string AddHero(string heroTypeName, string heroName, string runeMark)
     {
-        string[] validTypes = { "Warrior", "Sorcerer", "Spellblade" };
-        if (!validTypes.Contains(heroTypeName))
+        string[] validHeroTypes = { "Warrior", "Sorcerer", "Spellblade" };
+
+        if (!validHeroTypes.Contains(heroTypeName))
         {
             return string.Format(OutputMessages.InvalidHeroType, heroTypeName);
         }
-        else if (heroes.GetAll().Any(h => h.RuneMark == runeMark))
+        else if (heroes.GetModel(runeMark) != null)
         {
             return string.Format(OutputMessages.HeroAlreadyExists, runeMark);
         }
 
         string fullName = $"LegendsOfValor_TheGuildTrials.Models.Heroes.{heroTypeName}";
         Type heroType = Type.GetType(fullName);
-        Hero hero = Activator.CreateInstance(heroType, heroName, runeMark) as Hero;
+        IHero hero = Activator.CreateInstance(heroType, heroName, runeMark) as IHero;
 
         heroes.AddModel(hero);
 
@@ -41,13 +42,13 @@ public class Controller : IController
 
     public string CreateGuild(string guildName)
     {
-        if (guilds.GetAll().Any(g => g.Name == guildName))
+        if (guilds.GetModel(guildName) != null)
         {
             return string.Format(OutputMessages.GuildAlreadyExists, guildName);
         }
 
-        Type guildType = Type.GetType("Guild");
-        Guild guild = Activator.CreateInstance(guildType, guildName) as Guild;
+        Type guildType = typeof(Guild);
+        IGuild guild = Activator.CreateInstance(guildType, guildName) as IGuild;
 
         guilds.AddModel(guild);
 
@@ -56,19 +57,38 @@ public class Controller : IController
 
     public string RecruitHero(string runeMark, string guildName)
     {
-        if (!heroes.GetAll().Any(h => h.RuneMark == runeMark))
+        if (heroes.GetModel(runeMark) == null)
         {
-            return OutputMessages.HeroNotFound;
+            return string.Format(OutputMessages.HeroNotFound, runeMark);
         }
-        else if (!guilds.GetAll().Any(g => g.Name == guildName))
+        else if (guilds.GetModel(guildName) == null)
         {
             return string.Format(OutputMessages.GuildNotFound, guildName);
         }
 
-        Hero hero = heroes.GetAll().FirstOrDefault(h => h.RuneMark == runeMark);
-        Guild guild = guilds.GetAll().FirstOrDefault(g => g.Name == guildName);
+        IHero hero = heroes.GetModel(runeMark);
+        IGuild guild = guilds.GetModel(guildName);
 
-        if (hero.GuildName == guildName)
+        Dictionary<string, List<string>> heroesAllowedGuilds = new()
+        {
+            { "Warrior", new()
+                {
+                    "WarriorGuild", "ShadowGuild"
+                }
+            },
+            { "Sorcerer", new()
+                {
+                    "SorcererGuild", "ShadowGuild"
+                }
+            },
+            { "Spellblade", new()
+                {
+                    "WarriorGuild", "SorcererGuild"
+                }
+            }
+        };
+
+        if (hero.GuildName != null)
         {
             return string.Format(OutputMessages.HeroAlreadyInGuild, hero.Name);
         }
@@ -78,11 +98,11 @@ public class Controller : IController
         }
         else if (guild.Wealth < 500)
         {
-            return string.Format(OutputMessages.GuildCannotAffordRecruitment, guild.Wealth);
+            return string.Format(OutputMessages.GuildCannotAffordRecruitment, guild.Name);
         }
-        else if (!hero.AllowedGuilds.Any(guild => guild == guildName))
+        else if (!heroesAllowedGuilds[hero.GetType().Name].Any(g => g == guild.Name))
         {
-            return string.Format(OutputMessages.HeroTypeNotCompatible, hero.Name, guild.Name);
+            return string.Format(OutputMessages.HeroTypeNotCompatible, hero.GetType().Name, guild.Name);
         }
 
         hero.JoinGuild(guild);
@@ -93,13 +113,13 @@ public class Controller : IController
 
     public string StartWar(string attackerGuildName, string defenderGuildName)
     {
-        if (!guilds.GetAll().Any(g => g.Name == attackerGuildName) || !guilds.GetAll().Any(g => g.Name == defenderGuildName))
+        if (guilds.GetModel(attackerGuildName) == null || guilds.GetModel(defenderGuildName) == null)
         {
             return string.Format(OutputMessages.OneOfTheGuildsDoesNotExist);
         }
 
-        Guild attacker = guilds.GetAll().First(g => g.Name == attackerGuildName);
-        Guild defender = guilds.GetAll().First(g => g.Name == defenderGuildName);
+        IGuild attacker = guilds.GetModel(attackerGuildName);
+        IGuild defender = guilds.GetModel(defenderGuildName);
 
         if (attacker.IsFallen == true || defender.IsFallen == true)
         {
@@ -107,9 +127,9 @@ public class Controller : IController
         }
 
         int attackerStrength = 0;
-        foreach (string heroRuneMark in attacker.Legion)
+        foreach (string runeMark in attacker.Legion)
         {
-            Hero hero = heroes.GetAll().First(h => h.RuneMark == heroRuneMark);
+            IHero hero = heroes.GetModel(runeMark);
 
             attackerStrength += hero.Power;
             attackerStrength += hero.Mana;
@@ -117,9 +137,9 @@ public class Controller : IController
         }
 
         int defenderStrength = 0;
-        foreach (string heroRuneMark in defender.Legion)
+        foreach (string runeMark in defender.Legion)
         {
-            Hero hero = heroes.GetAll().First(h => h.RuneMark == heroRuneMark);
+            IHero hero = heroes.GetModel(runeMark);
 
             defenderStrength += hero.Power;
             defenderStrength += hero.Mana;
@@ -144,12 +164,12 @@ public class Controller : IController
 
     public string TrainingDay(string guildName)
     {
-        if (!guilds.GetAll().Any(g => g.Name == guildName))
+        if (guilds.GetModel(guildName) == null)
         {
             return string.Format(OutputMessages.GuildNotFound, guildName);
         }
 
-        Guild guild = guilds.GetAll().FirstOrDefault(g => g.Name == guildName);
+        IGuild guild = guilds.GetModel(guildName);
 
         if (guild.IsFallen == true)
         {
@@ -163,7 +183,7 @@ public class Controller : IController
             return string.Format(OutputMessages.TrainingDayFailed, guildName);
         }
 
-        List<IHero> heroesToTrain = guild.Legion.Select(rune => (IHero)heroes.GetModel(rune)).ToList();
+        List<IHero> heroesToTrain = guild.Legion.Select(rune => heroes.GetModel(rune)).ToList();
 
         guild.TrainLegion(heroesToTrain);
 
@@ -174,17 +194,19 @@ public class Controller : IController
     {
         StringBuilder report = new();
 
-        foreach (Guild guild in guilds.GetAll().OrderByDescending(g => g.Wealth))
+        report.AppendLine("Valor State:");
+
+        foreach (IGuild guild in guilds.GetAll().OrderByDescending(g => g.Wealth))
         {
             report.AppendLine($"{guild.Name} (Wealth: {guild.Wealth})");
 
-            foreach (Hero hero in heroes.GetAll().Where(h => h.GuildName == guild.Name).OrderBy(h => h.Name))
+            foreach (IHero hero in heroes.GetAll().Where(h => h.GuildName == guild.Name).OrderBy(h => h.Name))
             {
-                report.AppendLine(hero.ToString());
+                report.AppendLine($"-{hero.ToString()}");
                 report.AppendLine($"--{hero.Essence()}");
             }
         }
 
-        return report.ToString().Trim();
+        return report.ToString().TrimEnd();
     }
 }

@@ -23,7 +23,8 @@ public class Guild : IGuild
         get => name;
         private set
         {
-            if (value != "WarriorGuild" || value != "SorcererGuild" || value != "ShadowGuild")
+            string[] validGuildNames = { "WarriorGuild", "SorcererGuild", "ShadowGuild" };
+            if (!validGuildNames.Contains(value))
             {
                 throw new ArgumentException(ErrorMessages.InvalidGuildName);
             }

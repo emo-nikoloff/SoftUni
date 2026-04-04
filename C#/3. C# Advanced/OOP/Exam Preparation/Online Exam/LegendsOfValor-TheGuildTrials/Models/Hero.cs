@@ -19,7 +19,6 @@ public abstract class Hero : IHero
         Power = power;
         Mana = mana;
         Stamina = stamina;
-        AllowedGuilds = new();
     }
 
     public string Name
@@ -72,8 +71,6 @@ public abstract class Hero : IHero
         get => stamina;
         protected set => stamina = value;
     }
-
-    public List<string> AllowedGuilds { get; protected set; }
 
     public string Essence() => $"Essence Revealed - Power [{Power}] Mana [{Mana}] Stamina [{Stamina}]";
     public void JoinGuild(IGuild guild) => GuildName = guild.Name;

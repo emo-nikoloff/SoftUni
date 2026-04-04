@@ -4,8 +4,6 @@ public class Warrior : Hero
 {
     public Warrior(string name, string runeMark) : base(name, runeMark, 60, 0, 100)
     {
-        AllowedGuilds.Add("WarriorGuild");
-        AllowedGuilds.Add("ShadowGuild");
     }
 
     public override void Train()
