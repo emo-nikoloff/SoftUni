@@ -1,4 +1,5 @@
 # Overview
+
 This folder contains all the lessons and exercises I have completed as part of my C# programming journey.
 
 ---
@@ -6,6 +7,7 @@ This folder contains all the lessons and exercises I have completed as part of m
 ## 📂 Folder Structure
 
 ### 🟢 Programming Basics
+
 ***Focus: Building fundamental programming logic and problem-solving skills:***
 
 1. First Steps in Programming
@@ -16,12 +18,14 @@ This folder contains all the lessons and exercises I have completed as part of m
 6. Nested Loops
 
 #### 🔗 Task Conditions & Judge System
-- https://alpha.judge.softuni.org/contests/by-category/csharp-introduction/245
-- https://alpha.judge.softuni.org/contests/by-category/pb-more-exercises/193
+
+* https://alpha.judge.softuni.org/contests/by-category/csharp-introduction/245
+* https://alpha.judge.softuni.org/contests/by-category/pb-more-exercises/193
 
 ---
 
 ### 🔵 Programming Fundamentals
+
 ***Focus: Core C# language features and practical programming techniques:***
 
 1. Basic Syntax, Conditional Statements and Loops
@@ -35,14 +39,17 @@ This folder contains all the lessons and exercises I have completed as part of m
 9. Regular Expressions
 
 #### 🔗 Task Conditions & Judge System
-- https://alpha.judge.softuni.org/contests/by-category/csharp-fundamentals/149
+
+* https://alpha.judge.softuni.org/contests/by-category/csharp-fundamentals/149
 
 ---
 
 ### 🟣 C# Advanced
+
 ***Focus: Advanced data structures, memory management, functional programming, and performance-oriented coding:***
 
 #### C# Advanced
+
 1. Stack and Queues
 2. Multidimensional Arrays
 3. Sets and Dictionaries Advanced
@@ -54,11 +61,13 @@ This folder contains all the lessons and exercises I have completed as part of m
 9. Algorithms Introduction
 
 #### 🔗 Task Conditions & Judge System (C# Advanced)
-- https://alpha.judge.softuni.org/contests/by-category/csharp-advanced-exercises/182?page=1
+
+* https://alpha.judge.softuni.org/contests/by-category/csharp-advanced-exercises/182?page=1
 
 ---
 
 ### 🟠 C# OOP
+
 ***Focus: Object-Oriented Programming principles and design patterns:***
 
 1. Inheritance
@@ -74,15 +83,47 @@ This folder contains all the lessons and exercises I have completed as part of m
 11. Design Patterns
 
 #### 🔗 Task Conditions & Judge System (C# OOP)
-- https://alpha.judge.softuni.org/contests/by-category/csharp-oop-exercises/184
+
+* https://alpha.judge.softuni.org/contests/by-category/csharp-oop-exercises/184
 
 ---
 
 ### 🟡 C# DB
+
 ***Focus: Working with databases using C# and ORM technologies:***
 
 #### MS SQL
+
 > ⏳ Coming soon
 
 #### Entity Framework Core
+
+> ⏳ Coming soon
+
+---
+
+### 🔴 C# Web
+
+***Focus: Building modern web applications with ASP.NET:***
+
+#### ASP.NET Fundamentals
+
+> ⏳ Coming soon
+
+#### ASP.NET Advanced
+
+> ⏳ Coming soon
+
+---
+
+### 🟤 JS Front-End
+
+***Focus: Creating interactive user interfaces and client-side applications:***
+
+#### HTML & CSS
+
+> ⏳ Coming soon
+
+#### JS Front-End
+
 > ⏳ Coming soon
