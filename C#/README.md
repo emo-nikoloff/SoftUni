@@ -56,10 +56,33 @@ This folder contains all the lessons and exercises I have completed as part of m
 #### 🔗 Task Conditions & Judge System (C# Advanced)
 - https://alpha.judge.softuni.org/contests/by-category/csharp-advanced-exercises/182?page=1
 
-#### C# OOP
+---
+
+### 🟠 C# OOP
 ***Focus: Object-Oriented Programming principles and design patterns:***
 
-> ⏳ Coming soon
+1. Inheritance
+2. Encapsulation
+3. Interfaces and Abstraction
+4. Polymorphism
+5. Exception Handling
+6. Debugging Techniques
+7. SOLID
+8. Reflection and Attributes
+9. Unit Testing
+10. Mocking and Test-Driven Development
+11. Design Patterns
 
 #### 🔗 Task Conditions & Judge System (C# OOP)
 - https://alpha.judge.softuni.org/contests/by-category/csharp-oop-exercises/184
+
+---
+
+### 🟡 C# DB
+***Focus: Working with databases using C# and ORM technologies:***
+
+#### MS SQL
+> ⏳ Coming soon
+
+#### Entity Framework Core
+> ⏳ Coming soon

@@ -19,7 +19,13 @@ The repository is organized into folders by programming language:
 - ✅ Understanding of text processing and regular expressions  
 - ✅ Experience with advanced data structures and memory management concepts  
 - ✅ Knowledge of functional programming concepts in C#  
-- ✅ Basic understanding of algorithms and performance-oriented coding 
+- ✅ Basic understanding of algorithms and performance-oriented coding
+- ✅ Strong understanding of Object-Oriented Programming principles (Inheritance, Encapsulation, Polymorphism, Abstraction)  
+- ✅ Experience applying SOLID principles and clean code practices  
+- ✅ Skills in debugging and exception handling  
+- ✅ Experience with unit testing, mocking, and Test-Driven Development (TDD)  
+- ✅ Understanding of design patterns and software architecture concepts  
+- 🔜 Upcoming: Working with databases using MS SQL and Entity Framework Core
 
 ---
 
