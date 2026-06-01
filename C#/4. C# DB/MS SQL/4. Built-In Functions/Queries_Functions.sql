@@ -193,4 +193,5 @@ SELECT [Name],
     DATEDIFF(MONTH, [Birthdate], CURRENT_TIMESTAMP) AS [Age in Months],
     DATEDIFF(DAY, [Birthdate], CURRENT_TIMESTAMP) AS [Age in Days],
     DATEDIFF(MINUTE, [Birthdate], CURRENT_TIMESTAMP) AS [Age in Minutes]
-FROM [People]
+FROM [People];
+GO
