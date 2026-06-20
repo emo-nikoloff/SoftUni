@@ -29,7 +29,7 @@ The repository is organized into folders by programming language:
 - ✅ Solid understanding of SQL querying (CRUD, Joins, Subqueries, Aggregation)
 - ✅ Knowledge of database programmability (Stored Procedures, Functions, Triggers, and Transactions)
 - 🔜 Upcoming: Working with ORM using Entity Framework Core
-- 🔜 Upcoming: Building web applications with ASP.NET
+- 🔜 Upcoming: Building modern web applications with ASP.NET
 - 🔜 Upcoming: Creating interactive user interfaces with HTML, CSS, and JavaScript
 
 ---
