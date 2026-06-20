@@ -94,7 +94,18 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 #### MS SQL
 
-> ⏳ Coming soon
+1. Databases Introduction
+2. CRUD
+3. Table Relations
+4. Built-in Functions
+5. Subqueries and Joins
+6. Indices and Data Aggregation
+7. Functions and Stored Procedures
+8. Triggers and Transactions
+
+#### 🔗 Task Conditions & Judge System (MS SQL)
+
+* https://alpha.judge.softuni.org/contests/by-category/csharp-databases-basics-exercises/62
 
 #### Entity Framework Core
 
