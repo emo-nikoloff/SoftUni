@@ -10,8 +10,7 @@ public class SoftUniContext : DbContext
     }
 
     public SoftUniContext(DbContextOptions<SoftUniContext> options) /* използва се от Judge (SoftUni) и Dependency Injection Container (разглежда се в C# Web), за да се създаде DbContext с
-                                                                       предефинирани опции (включително connection string)
-                                                                    */
+                                                                       предефинирани опции (включително connection string) */
         : base(options)
     {
     }
@@ -31,8 +30,7 @@ public class SoftUniContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) // извиква се по време на конструиране на DbContext - когато EF Core конфигурира връзката с базата данни
     {
         base.OnConfiguring(optionsBuilder); /* забравя се, а е хубаво да го има, защото това ще извика базовия .OnConfiguring, подавайки му обекта с настройки (optionsBuilder), за да може
-                                               Entity Framework да приложи своите конфигурации по подразбиране
-                                            */
+                                               Entity Framework да приложи своите конфигурации по подразбиране */
 
         if (!optionsBuilder.IsConfigured)
         {

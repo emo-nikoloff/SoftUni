@@ -14,6 +14,5 @@ public class Address
     public virtual Town? Town { get; set; }
 
     public virtual ICollection<Employee> Employees { get; set; } = new List<Employee>(); /* препоръчва се да се използва inline инициализация за виртуални навигационни колекции,
-                                                                                            вместо чрез конструктор, за да се избегнат проблеми в бъдеще
-                                                                                         */
+                                                                                            вместо чрез конструктор, за да се избегнат проблеми в бъдеще */
 }
