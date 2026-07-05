@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using Microsoft.EntityFrameworkCore;
 using SoftUni.Data;
 using SoftUni.Models;
 
@@ -9,7 +10,7 @@ public class StartUp
     public static void Main(string[] args)
     {
         SoftUniContext dbContext = new(); // нямаме опции, затова използваме стандартния зададен connection string (.OnConfiguring())
-        /*
+
         // Задача 3
         string employeesFullInformation = GetEmployeesFullInformation(dbContext);
         Console.WriteLine(employeesFullInformation);
@@ -29,11 +30,11 @@ public class StartUp
         // Задача 7
         string employeesInPeriod = GetEmployeesInPeriod(dbContext);
         Console.WriteLine(employeesInPeriod);
-        
+
         // Задача 8
         string addressesByTown = GetAddressesByTown(dbContext);
         Console.WriteLine(addressesByTown);
-        
+
         // Задача 9
         string employee147 = GetEmployee147(dbContext);
         Console.WriteLine(employee147);
@@ -53,11 +54,14 @@ public class StartUp
         // Задача 13
         string employeesFirstNameStartingWithSa = GetEmployeesByFirstNameStartingWithSa(dbContext);
         Console.WriteLine(employeesFirstNameStartingWithSa);
-*/
-        // Задача 14
 
+        // Задача 14
+        string projectsInfoWithoutProject2 = DeleteProjectById(dbContext);
+        Console.WriteLine(projectsInfoWithoutProject2);
 
         // Задача 15
+        string townToDelete = RemoveTown(dbContext);
+        Console.WriteLine(townToDelete);
     }
 
     // Задача 3
@@ -76,7 +80,7 @@ public class StartUp
         var employees = dbContext.Employees
             .OrderBy(e => e.EmployeeId)
             .Select(e => new /* селекцията се извършва с анонимен тип, защото данните са временни - създаваме временен обект със съответните колони - ChangeTracker не
-                                                  проследява  анонимните обекти*/
+                                                  проследява  анонимните обекти */
             {
                 e.FirstName,
                 e.LastName,
@@ -177,7 +181,7 @@ public class StartUp
             TownId = 4
         };
 
-        // Всички промени се запазват в ChangeTracker - in-memory. Накрая тези промени трябва да се запазят!
+        // Всички промени се запазват в ChangeTracker - in-memory. Накрая тези промени трябва да се запазят в базата!
         dbContext.SaveChanges();
 
         IEnumerable<string?> employeesAddresses = dbContext.Employees
@@ -426,7 +430,74 @@ public class StartUp
     }
 
     // Задача 14
+    public static string DeleteProjectById(SoftUniContext dbContext)
+    {
+        /*
+          EF Core поддържа каскадно, нулиращо и ограничаващо изтриване:
+          - Cascading - всички обвързани обекти ще бъдат изтрити
+          - Nullify - на всички обвързани обекти Foreign Key ще бъде зададен на NULL
+          - Restrict - всички обвързани обекти няма да бъдат променени, но операцията ще бъде отменена, ако има обвързани обекти
+        */
+        Project? projectToDelete = dbContext.Projects
+            .Find(2);
 
+        if (projectToDelete != null) // Подсигуряваме, че проекта съществува
+        {
+            // ChangeTracker може да работи и с нематериализирани заявки. Това позволява да се направи оптимизация - обектите не се съхраняват in-memory
+            IQueryable<EmployeeProject> employeeProjectsToDelete = dbContext.EmployeesProjects
+                .Where(ep => ep.ProjectId == 2);
+
+            // Първо се изтриват всички обвързани обекти
+            dbContext.RemoveRange(employeeProjectsToDelete);
+
+            // Премахваме обекта от DbSet, което маркира обекта като премахнат в ChangeTracker in-memory
+            // Все още няма реално изтриване от базата
+            dbContext.Projects.Remove(projectToDelete);
+
+            // Запазваме промените в базата - реално изтриване от базата
+            dbContext.SaveChanges();
+        }
+
+        IEnumerable<string> top10Projects = dbContext.Projects
+            .Select(p => p.Name)
+            .Take(10)
+            .ToArray();
+
+        return string.Join(Environment.NewLine, top10Projects);
+    }
 
     // Задача 15
+    public static string RemoveTown(SoftUniContext dbContext)
+    {
+        Town? townToDelete = dbContext.Towns
+            .FirstOrDefault(t => t.Name == "Seattle");
+
+        if (townToDelete == null)
+        {
+            return "0 addresses in Seattle were deleted";
+        }
+
+        List<Address> addressesRelatedToTown = dbContext.Addresses
+            .Where(a => a.TownId == townToDelete.TownId)
+            .ToList();
+
+        List<Employee> employeesToUpdate = dbContext.Employees
+            .Where(e => e.Address != null && e.Address.TownId == townToDelete.TownId)
+            .ToList();
+
+        foreach (Employee employee in employeesToUpdate)
+        {
+            employee.AddressId = null;
+        }
+
+        int removedAddressesCount = addressesRelatedToTown.Count;
+
+        dbContext.Addresses.RemoveRange(addressesRelatedToTown);
+
+        dbContext.Towns.Remove(townToDelete);
+
+        dbContext.SaveChanges();
+
+        return $"{removedAddressesCount} addresses in Seattle were deleted";
+    }
 }

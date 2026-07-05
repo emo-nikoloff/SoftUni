@@ -29,7 +29,7 @@ public class SoftUniContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) // извиква се по време на конструиране на DbContext - когато EF Core конфигурира връзката с базата данни
     {
-        base.OnConfiguring(optionsBuilder); /* забравя се, а е хубаво да го има, защото това ще извика базовия .OnConfiguring, подавайки му обекта с настройки (optionsBuilder), за да може
+        base.OnConfiguring(optionsBuilder); /* забравя се, а е хубаво да го има, защото това ще извика базовия .OnConfiguring(), подавайки му обекта с настройки (optionsBuilder), за да може
                                                Entity Framework да приложи своите конфигурации по подразбиране */
 
         if (!optionsBuilder.IsConfigured)
