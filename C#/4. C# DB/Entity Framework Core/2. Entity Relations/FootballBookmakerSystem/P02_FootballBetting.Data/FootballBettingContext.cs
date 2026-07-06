@@ -16,7 +16,7 @@ public class FootballBettingContext : DbContext
 
     }
 
-    public virtual DbSet<Team> Teams { get; set; } = null!;
+    public virtual DbSet<Team> Teams { get; set; } // правим DbSet virtual, заради Unit Testing - в бъдеще, ако се налага кода да бъде тестван, да се презаписва фалшива колекция
 
     public virtual DbSet<Color> Colors { get; set; } = null!;
 

@@ -30,7 +30,14 @@ public class Team
                                                   3. Fluent API */
     public int PrimaryKitColorId { get; set; }
 
-    public virtual Color PrimaryKitColor { get; set; } = null!; // използваме навигационно пропърти, защото 1 отбор има 1 главен екип/1 второстепенен екип
+    public virtual Color PrimaryKitColor { get; set; } = null!; /* използваме навигационно пропърти, защото 1 отбор има 1 главен екип/1 второстепенен екип; правим навигационното пропърти virtual,
+                                                                   заради Lazy Loading - по време на изпълнение EF Core създава невидим клас (Dynamic Proxy), който наследява съответния клас
+                                                                   (в случая Team). Този клас презаписва навигационното пропърти, като вмъква допълнителна логика и прави следното:
+                                                                   "Ако цветът на отбора не е зареден предварително, при първото му поискване в програмата, EF Core динамично изпълнява нова заявка
+                                                                   към базата данни, за да го изтегли 'в движение', преди да продължи изпълнението.". Така не се налага да се пише постоянно
+                                                                   .Include(t => t.PrimaryKitColor) - данните се изтеглят автоматично точно в момента, в който бъдат поискани. Lazy Loading е
+                                                                   изключен по подразбиране. За да бъде активиран трябва да се използва .UseLazyLoadingProxies() от пакета
+                                                                   Microsoft.EntityFrameworkCore.Proxies в .OnConfiguring(). Накратко прави скрити заявки към базата */
 
     [ForeignKey(nameof(SecondaryKitColor))]
     public int SecondaryKitColorId { get; set; }
