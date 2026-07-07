@@ -22,7 +22,8 @@ class Program
                                                               */
         string connectionString =
             @"Server=localhost\SQLEXPRESS;Database=SoftUni;Trusted_Connection=True;Encrypt=False;"; /* специален string за свързване към база данни; има специален формат за всеки
-                                                                                                       Data Provider/DB Server - https://www.connectionstrings.com/ */
+                                                                                                       Data Provider/DB Server - https://www.connectionstrings.com/; слагаме Encrypt=False;, защото
+                                                                                                       EF Core по подразбиране се опитва да осъществи криптирана връзка през SSL */
 
         using SqlConnection sqlConnection = new(connectionString);
         sqlConnection.Open();
@@ -93,5 +94,10 @@ class Program
                                                                   най-висок приоритет е Fluent API-то. Най-важните и най-често използваните атрибути: 
                                                                   https://www.learnentityframeworkcore.com/configuration/data-annotation-attributes
                                                                */
+
+        Console.WriteLine("--------------------------------");
+
+        Console.WriteLine("<--------LINQ-------->");
+        Console.WriteLine("---> Филтриране:");
     }
 }
