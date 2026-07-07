@@ -320,7 +320,7 @@ public class StartUp
                 d.Name,
                 ManagerFirstName = d.Manager.FirstName,
                 ManagerLastName = d.Manager.LastName,
-                Employees = d.Employees
+                Employees = d.Employees // пропъртитата на анонимните типове, които са entity типове, се следят от ChangeTracker, ако не се превърнат и те в анонимен тип
                     .Select(e => new
                     {
                         e.FirstName,
