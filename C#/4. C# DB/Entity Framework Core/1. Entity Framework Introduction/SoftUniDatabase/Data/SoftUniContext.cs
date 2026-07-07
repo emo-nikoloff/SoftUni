@@ -34,7 +34,7 @@ public class SoftUniContext : DbContext
 
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=SoftUni;Trusted_Connection=True;Encrypt=False;");
+            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=SoftUni;Trusted_Connection=True;Encrypt=False;");
         }
     }
 
