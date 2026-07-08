@@ -40,7 +40,7 @@ public class StartUp
             .AsNoTracking() /* ако искаме само да четем данни, без да се следят от ChangeTracker - казва на EF Core, че нямаме нужда да следим промени и да извършваме Identity Resolution -
                                повишава производителността, защото ChangeTracker не присъства */
             .AsSplitQuery() // за оптимизация - разделя голямата заявка на няколко по-малки заявки и резултатите от тези заявки ще бъдат свързани client-side
-            .Include(a => a.Songs) // зареждаме цялата колекция, а не само каквото е нужно на заявката (Songs = a.Songs.Select(...))
+            .Include(a => a.Songs) // зареждаме цялата колекция еднократно, а не само каквото е нужно на заявката (Songs = a.Songs.Select(...))
             .Where(a => a.ProducerId == producerId)
             .Select(a => new
             {
