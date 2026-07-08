@@ -41,7 +41,7 @@ class Program
 
         Console.Write("Enter salary limit to filter employees above the limit: ");
         // правилен начин за задаване на параметър от потребителя
-        string salaryThreshold = Console.ReadLine();
+        string salaryThreshold = Console.ReadLine()!;
         SqlParameter salaryParameter = new("@salaryThreshold", SqlDbType.Decimal);
         salaryParameter.Value = decimal.Parse(salaryThreshold);
 
