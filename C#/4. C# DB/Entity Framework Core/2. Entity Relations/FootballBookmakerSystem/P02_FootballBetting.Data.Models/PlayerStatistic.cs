@@ -2,11 +2,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace P02_FootballBetting.Data.Models;
 
-// >= EF Core 7 -> [PrimaryKey(nameof(GameId), nameof(PlayerId))]
+// EF Core 7.0+ -> [PrimaryKey(nameof(GameId), nameof(PlayerId))]
 public class PlayerStatistic
 {
     // За целта на упражнението ще се придържаме към по-старите версии на EF Core и ще създадем композитен Primay Key във Fluent API конфигурацията
-    // навигационните пропъртита стоят в mapping entity, когато използваме такова (в този случай)
+    // Навигационните пропъртита стоят в mapping entity, когато използваме такова (в този случай)
 
     [ForeignKey(nameof(Game))]
     public int GameId { get; set; }

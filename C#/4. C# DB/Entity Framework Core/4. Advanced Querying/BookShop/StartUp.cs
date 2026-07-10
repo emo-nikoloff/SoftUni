@@ -1,8 +1,8 @@
-﻿using System.Diagnostics;
-using System.Globalization;
+﻿using System.Globalization;
 using System.Text;
 
 using BookShop.Data;
+using BookShop.Initializer;
 using BookShop.Models;
 using BookShop.Models.Enums;
 using Microsoft.EntityFrameworkCore;
@@ -14,7 +14,7 @@ public class StartUp
     public static void Main()
     {
         using var dbContext = new BookShopContext();
-        //DbInitializer.ResetDatabase(dbContext);
+        DbInitializer.ResetDatabase(dbContext);
         /*
         // Задача 2
         string ageCheck = Console.ReadLine()!;
@@ -330,7 +330,7 @@ public class StartUp
             {
                 c.Name,
                 TotalProfit = c.CategoryBooks
-                    .Select(cb => cb.Book) // пропускане на навигационно пропърти
+                    .Select(cb => cb.Book) // Skip Navigation Property
                     .Sum(b => b.Copies * b.Price)
             })
             .OrderByDescending(c => c.TotalProfit)

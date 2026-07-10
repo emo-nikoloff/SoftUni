@@ -19,7 +19,7 @@ public class DbInitializer
         Console.WriteLine("MusicHub database created successfully.");
 
         Seed(context); /* процедура, при която в новосъздадена база се вмъкват стандартни тестови данни, с които се работи по време на разработката на приложението, като по този начин се
-                              осигурява, че всички работите с еднакви тестови данни */
+                          осигурява, че всички работите с еднакви тестови данни */
     }
 
     private static void Seed(MusicHubDbContext context)

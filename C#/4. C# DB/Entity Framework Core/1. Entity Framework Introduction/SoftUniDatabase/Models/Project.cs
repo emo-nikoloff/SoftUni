@@ -12,9 +12,9 @@ public class Project
 
     public DateTime? EndDate { get; set; }
 
-    /* понеже Judge изисква mapping таблица EmployeesProjects, тази навигационна колекция е ненужна
-    public virtual ICollection<Employee> Employees { get; set; } = new List<Employee>(); // пропускане на навигационно пропърти - пропуска mapping entity (свързващата таблица EmployeesProjects),
-                                                                                            създавайки директна Many-to-Many връзка
+    /* Понеже Judge изисква mapping таблица EmployeesProjects, тази навигационна колекция е ненужна
+    public virtual ICollection<Employee> Employees { get; set; } = new List<Employee>(); // пропускане на навигационно пропърти (Skip Navigation Property) - пропуска mapping entity
+                                                                                            (свързващата таблица EmployeesProjects), създавайки директна Many-to-Many връзка
     */
 
     public virtual ICollection<EmployeeProject> EmployeesProjects { get; set; } = new List<EmployeeProject>();

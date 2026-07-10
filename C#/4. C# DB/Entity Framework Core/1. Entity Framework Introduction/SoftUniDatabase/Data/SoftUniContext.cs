@@ -103,7 +103,7 @@ public class SoftUniContext : DbContext
                 .HasForeignKey(d => d.ManagerId)
                 .HasConstraintName("FK_Employees_Employees");
 
-            /* при работа с навигационни пропъртита
+            /* Many-to-Many връзка при работа със Skip Navigation Property
             entity.HasMany(d => d.Projects).WithMany(p => p.Employees)
                 .UsingEntity<Dictionary<string, object>>(
                     "EmployeesProject",

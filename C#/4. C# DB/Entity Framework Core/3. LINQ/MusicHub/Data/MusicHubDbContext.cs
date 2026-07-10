@@ -34,7 +34,8 @@ public class MusicHubDbContext : DbContext
 
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder.UseSqlServer(Configuration.ConnectionString); // архитектурна практика - connection string е в отделен клас Configuration, за да не се лийкне в source code
+            optionsBuilder.UseSqlServer(Configuration.ConnectionString); /* архитектурна практика - connection string е в отделен клас Configuration, за да не се лийкне в
+                                                                                              source code*/
         }
     }
 
@@ -53,7 +54,7 @@ public class MusicHubDbContext : DbContext
 
         // Конвенция: ако всички конфигурации се намират в едно и също асембли, това ще се изпълни без проблеми
         // Конвенция: всички конфигурации се намират в едно и също асембли
-        // подаваме асемблито на случайна конфигурация 
+        // Подаваме асемблито на случайна конфигурация 
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(SongConfiguration).Assembly); /* взимаме типа на случайна конфигирации, след това извикваме асемблито и го подаваме на 
                                                                                                        функцията */
     }

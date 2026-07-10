@@ -32,9 +32,9 @@ public partial class Employee
 
     public virtual Employee? Manager { get; set; }
 
-    /* понеже Judge изисква mapping таблица EmployeesProjects, тази навигационна колекция е ненужна
-    public virtual ICollection<Project> Projects { get; set; } = new List<Project>(); // пропускане на навигационно пропърти - пропуска mapping entity (свързващата таблица EmployeesProjects),
-                                                                                         създавайки директна Many-to-Many връзка
+    /* Понеже Judge изисква mapping таблица EmployeesProjects, тази навигационна колекция е ненужна
+    public virtual ICollection<Project> Projects { get; set; } = new List<Project>(); // пропускане на навигационно пропърти (Skip Navigation Property) - пропуска mapping entity
+                                                                                         (свързващата таблица EmployeesProjects), създавайки директна Many-to-Many връзка
     */
 
     public virtual ICollection<EmployeeProject> EmployeesProjects { get; set; } = new List<EmployeeProject>();

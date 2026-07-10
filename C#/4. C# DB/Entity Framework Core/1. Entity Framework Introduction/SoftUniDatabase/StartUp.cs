@@ -10,7 +10,7 @@ public class StartUp
     public static void Main(string[] args)
     {
         SoftUniContext dbContext = new(); // нямаме опции, затова използваме стандартния зададен connection string (.OnConfiguring())
-
+        /*
         // Задача 3
         string employeesFullInformation = GetEmployeesFullInformation(dbContext);
         Console.WriteLine(employeesFullInformation);
@@ -62,6 +62,7 @@ public class StartUp
         // Задача 15
         string townToDelete = RemoveTown(dbContext);
         Console.WriteLine(townToDelete);
+        */
     }
 
     // Задача 3
@@ -70,7 +71,7 @@ public class StartUp
         StringBuilder result = new();
 
         // .ToArray()/.ToList() - използват се за материализация на заявката
-        // материализация - генерира SQL заявка базирана на LINQ Expression Tree и тази заявка се изпраща към SQL Server и се чака отговор. Всичко след материализацията се случва client-side
+        // Материализация - генерира SQL заявка базирана на LINQ Expression Tree и тази заявка се изпраща към SQL Server и се чака отговор. Всичко след материализацията се случва client-side
         // Съвет: материализацията по принцип е бавна операция! Винаги използвайте .Take(), за да ограничите записите в row set!
         // .Select() се използва да се направи проекция (селектират се определени колони + computed (calculated) колони)
         // LINQ проекцията позволява .Select() да бъде използван с класове и анонимни типове (най-често срещани)
@@ -80,7 +81,7 @@ public class StartUp
         var employees = dbContext.Employees
             .OrderBy(e => e.EmployeeId)
             .Select(e => new /* селекцията се извършва с анонимен тип, защото данните са временни - създаваме временен обект със съответните колони - ChangeTracker не
-                                                  проследява  анонимните обекти */
+                                                  проследява анонимните обекти */
             {
                 e.FirstName,
                 e.LastName,
@@ -214,7 +215,7 @@ public class StartUp
                 ManagerLastName = e.Manager != null ?
                     e.Manager.LastName : null,
                 Projects = e.EmployeesProjects
-                    .Select(ep => ep.Project) // Това се пропуска чрез "пропускане на навигационно пропърти"
+                    .Select(ep => ep.Project) // това се пропуска чрез Skip Navigation Property
                     .Where(p => p.StartDate.Year >= 2001 && p.StartDate.Year <= 2003)
                     .Select(p => new
                     {
@@ -441,7 +442,7 @@ public class StartUp
         Project? projectToDelete = dbContext.Projects
             .Find(2);
 
-        if (projectToDelete != null) // Подсигуряваме, че проекта съществува
+        if (projectToDelete != null) // подсигуряваме, че проекта съществува
         {
             // ChangeTracker може да работи и с нематериализирани заявки. Това позволява да се направи оптимизация - обектите не се съхраняват in-memory
             IQueryable<EmployeeProject> employeeProjectsToDelete = dbContext.EmployeesProjects

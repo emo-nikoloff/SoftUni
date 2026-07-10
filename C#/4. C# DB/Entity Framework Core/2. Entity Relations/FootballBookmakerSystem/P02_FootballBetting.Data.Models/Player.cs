@@ -22,8 +22,6 @@ public class Player
 
     public virtual Position Position { get; set; } = null!;
 
-    // Играч може да бъде свободен агент (няма отбор)
-    // Foreign Key колоната ще е nullable
     [ForeignKey(nameof(Team))]
     public int TeamId { get; set; }
 
