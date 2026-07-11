@@ -416,7 +416,7 @@ public class StartUp
         */
 
         // III. Bulk подход с EF Core 7.0+
-        // NOTE: С този подход отново няма да минат Judge тестовете, понеже той работи с InMemoryDatabase!!!
+        // NOTE: С този подход отново няма да минат Judge тестовете, понеже Judge работи с InMemoryDatabase!!!
         dbContext.Books
             .Where(b => b.ReleaseDate.HasValue && b.ReleaseDate.Value.Year < 2010)
             .ExecuteUpdate(bk => bk.SetProperty(b => b.Price, b => b.Price + 5)); // операцията се изпълнява директно в базата
