@@ -1,17 +1,10 @@
-﻿using System.Collections.Generic;
-
-namespace ProductShop.Models;
+﻿namespace ProductShop.Models;
 
 public class Category
 {
-    public Category()
-    {
-        CategoriesProducts = new List<CategoryProduct>();
-    }
-
     public int Id { get; set; }
 
     public string Name { get; set; } = null!;
 
-    public ICollection<CategoryProduct> CategoriesProducts { get; set; }
+    public virtual ICollection<CategoryProduct> CategoriesProducts { get; set; } = new List<CategoryProduct>();
 }

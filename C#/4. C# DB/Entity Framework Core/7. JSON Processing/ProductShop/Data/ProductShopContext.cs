@@ -15,21 +15,20 @@ public class ProductShopContext : DbContext
     {
     }
 
-    public DbSet<Category> Categories { get; set; }
+    public virtual DbSet<Category> Categories { get; set; } = null!;
 
-    public DbSet<Product> Products { get; set; }
+    public virtual DbSet<Product> Products { get; set; } = null!;
 
-    public DbSet<User> Users { get; set; }
+    public virtual DbSet<User> Users { get; set; } = null!;
 
-    public DbSet<CategoryProduct> CategoriesProducts { get; set; }
+    public virtual DbSet<CategoryProduct> CategoriesProducts { get; set; } = null!;
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder
-                .UseSqlServer(Configuration.ConnectionString);
+            optionsBuilder.UseSqlServer(Configuration.ConnectionString);
         }
     }
 
