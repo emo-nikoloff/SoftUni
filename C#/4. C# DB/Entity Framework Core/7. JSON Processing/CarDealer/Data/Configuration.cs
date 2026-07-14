@@ -2,5 +2,5 @@
 
 public static class Configuration
 {
-    public const string ConnectionString = @"Server=localhost\SQLEXPRESS;Database=CarDealer;Integrated Security=True;Encrypt=False";
+    public const string ConnectionString = @"Server=localhost\SQLEXPRESS;Database=CarDealerJson;Integrated Security=True;Encrypt=False";
 }
