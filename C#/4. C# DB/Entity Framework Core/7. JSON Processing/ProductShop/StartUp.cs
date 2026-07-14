@@ -4,6 +4,7 @@ using System.Text;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
+
 using ProductShop.Data;
 using ProductShop.DTOs.Export;
 using ProductShop.DTOs.Import;
@@ -18,20 +19,23 @@ namespace ProductShop
             using ProductShopContext dbContext = new();
 
             /* Part I. ProductShop
-             * Part I.I. Import - разкоментирайте първия jsonFilePath, първия result и първия jsonFileContent и сменяйте само jsonFileName и името на метода Import...()
+             * Part I.I. Import - разкоментирайте първия jsonFilePath, първия jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
                 Задача 1 - Users, 2 - Products, 3 - Categories, 4 - CategoryProducts
-             * Part I.II. Export - разкоментирайте втория jsonFilePath, втория result и втория jsonFileContent и сменяйте само jsonFileName и името на метода Get...()
+             * Part I.II. Export - разкоментирайте втория jsonFilePath, втория jsonFileContent и втория result + File.WriteAllText(...) и сменяйте само jsonFileName и името на метода Get...()
                 Задача 5 - ProductsInRange, Задача 6 - SoldProducts, Задача 7 - CategoriesByProducts, Задача 8 - UsersWithProducts
             */
             string jsonFileName = "users-sold-products.json";
+
             //string jsonFilePath = GetJsonFilePath(jsonFileName);
             string jsonFilePath = GetJsonResultFilePath(jsonFileName);
+
             //string jsonFileContent = File.ReadAllText(jsonFilePath);
 
             //string result = ImportCategoryProducts(dbContext, jsonFileContent);
             string result = GetSoldProducts(dbContext);
 
             File.WriteAllText(jsonFilePath, result, Encoding.UTF8);
+
             Console.WriteLine(result);
         }
 
