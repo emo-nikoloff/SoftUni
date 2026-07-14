@@ -35,7 +35,6 @@ namespace ProductShop
             Console.WriteLine(result);
         }
 
-        // Part I. ProductShop
         // Part I.I. Import
         // Задача 1
         public static string ImportUsers(ProductShopContext dbContext, string inputJson)
@@ -198,7 +197,6 @@ namespace ProductShop
         }
 
         // Part I.II. Export
-
         // Задача 5
         public static string GetProductsInRange(ProductShopContext dbContext)
         {
