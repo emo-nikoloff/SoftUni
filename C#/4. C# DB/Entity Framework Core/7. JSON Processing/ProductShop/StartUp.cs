@@ -346,7 +346,7 @@ namespace ProductShop
             return Path.GetFullPath(jsonResultFilePath);
         }
 
-        private static bool IsValid(object obj)
+        private static bool IsValid(object obj) // извиква object validator, който минава през валидационните атрибути върху обекта, и проверява дали тези атрибути са валидни или не
         {
             // Boilerplate code - ако не го разбирате, не е проблем - може да се запомни наизуст
 
