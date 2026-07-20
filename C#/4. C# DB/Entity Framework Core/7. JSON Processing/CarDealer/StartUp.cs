@@ -17,10 +17,10 @@ public class StartUp
     {
         using CarDealerContext dbContext = new();
 
-        /* Part I. ProductShop
-         * Part I.I. Import - разкоментирайте първия jsonFilePath, първия jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
+        /* 
+         * Part I. Import - разкоментирайте първия jsonFilePath, първия jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
             Задача 1 - Suppliers, 2 - Parts, 3 - Cars, 4 - Customers, 5 - Sales
-         * Part I.II. Export - разкоментирайте втория jsonFilePath, втория jsonFileContent и втория result + File.WriteAllText(...) и сменяйте само jsonFileName и името на метода Get...()
+         * Part II. Export - разкоментирайте втория jsonFilePath, втория jsonFileContent и втория result + File.WriteAllText(...) и сменяйте само jsonFileName и името на метода Get...()
             Задача 6 - OrderedCustomers, 7 - CarsFromMakeToyota, 8 - LocalSuppliers, 9 - CarsWithTheirListOfParts, 10 - TotalSalesByCustomer, 11 - SalesWithAppliedDiscount
         */
         string jsonFileName = "sales-discounts.json";
@@ -38,7 +38,7 @@ public class StartUp
         Console.WriteLine(result);
     }
 
-    // Part I.I. Import
+    // Part I. Import
     // Задача 1
     public static string ImportSuppliers(CarDealerContext dbContext, string inputJson)
     {
@@ -243,7 +243,7 @@ public class StartUp
         return $"Successfully imported {salesToPersist.Count}.";
     }
 
-    // Part I.II. Export
+    // Part II. Export
     // Задача 6
     public static string GetOrderedCustomers(CarDealerContext dbContext)
     {
