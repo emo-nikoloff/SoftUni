@@ -247,11 +247,11 @@ public class StartUp
     // Задача 6
     public static string GetOrderedCustomers(CarDealerContext dbContext)
     {
-        IEnumerable<ExportOrderedCustomersDto> orderCustomers = dbContext.Customers
+        IEnumerable<ExportOrderedCustomerDto> orderCustomers = dbContext.Customers
             .AsNoTracking()
             .OrderBy(c => c.BirthDate)
             .ThenBy(c => c.IsYoungDriver)
-            .Select(c => new ExportOrderedCustomersDto()
+            .Select(c => new ExportOrderedCustomerDto()
             {
                 Name = c.Name,
                 BirthDate = c.BirthDate.ToString("dd/MM/yyyy"),
@@ -267,10 +267,10 @@ public class StartUp
     // Задача 7
     public static string GetCarsFromMakeToyota(CarDealerContext dbContext)
     {
-        IEnumerable<ExportCarsFromMakeToyotaDto> carsFromToyota = dbContext.Cars
+        IEnumerable<ExportCarFromMakeToyotaDto> carsFromToyota = dbContext.Cars
             .AsNoTracking()
             .Where(c => c.Make == "Toyota")
-            .Select(c => new ExportCarsFromMakeToyotaDto()
+            .Select(c => new ExportCarFromMakeToyotaDto()
             {
                 Id = c.Id,
                 Make = c.Make,
@@ -289,10 +289,10 @@ public class StartUp
     // Задача 8
     public static string GetLocalSuppliers(CarDealerContext dbContext)
     {
-        IEnumerable<ExportLocalSuppliersDto> localSuppliers = dbContext.Suppliers
+        IEnumerable<ExportLocalSupplierDto> localSuppliers = dbContext.Suppliers
             .AsNoTracking()
             .Where(s => s.IsImporter == false)
-            .Select(s => new ExportLocalSuppliersDto()
+            .Select(s => new ExportLocalSupplierDto()
             {
                 Id = s.Id,
                 Name = s.Name,
@@ -308,9 +308,9 @@ public class StartUp
     // Задача 9
     public static string GetCarsWithTheirListOfParts(CarDealerContext dbContext)
     {
-        IEnumerable<ExportCarsWithTheirListOfPartsDto> carsWithTheirListOfParts = dbContext.Cars
+        IEnumerable<ExportCarWithTheirListOfPartsDto> carsWithTheirListOfParts = dbContext.Cars
             .AsNoTracking()
-            .Select(c => new ExportCarsWithTheirListOfPartsDto()
+            .Select(c => new ExportCarWithTheirListOfPartsDto()
             {
                 Car = new ExportCarInfoDto()
                 {
@@ -359,9 +359,9 @@ public class StartUp
     // Задача 11
     public static string GetSalesWithAppliedDiscount(CarDealerContext dbContext)
     {
-        IEnumerable<ExportSalesWithAppliedDiscountDto> salesWithAppliedDiscount = dbContext.Sales
+        IEnumerable<ExportSaleWithAppliedDiscountDto> salesWithAppliedDiscount = dbContext.Sales
             .AsNoTracking()
-            .Select(s => new ExportSalesWithAppliedDiscountDto()
+            .Select(s => new ExportSaleWithAppliedDiscountDto()
             {
                 Car = new ExportCarInfoDto()
                 {

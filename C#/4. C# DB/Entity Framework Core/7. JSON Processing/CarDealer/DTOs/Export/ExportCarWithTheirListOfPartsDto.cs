@@ -2,7 +2,7 @@ using Newtonsoft.Json;
 
 namespace CarDealer.DTOs.Export;
 
-public class ExportCarsWithTheirListOfPartsDto
+public class ExportCarWithTheirListOfPartsDto
 {
     [JsonProperty("car")]
     public ExportCarInfoDto Car { get; set; } = null!;

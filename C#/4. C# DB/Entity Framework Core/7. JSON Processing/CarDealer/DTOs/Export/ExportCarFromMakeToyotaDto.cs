@@ -2,7 +2,7 @@ using Newtonsoft.Json;
 
 namespace CarDealer.DTOs.Export;
 
-public class ExportCarsFromMakeToyotaDto
+public class ExportCarFromMakeToyotaDto
 {
     [JsonProperty("Id")]
     public int Id { get; set; }
