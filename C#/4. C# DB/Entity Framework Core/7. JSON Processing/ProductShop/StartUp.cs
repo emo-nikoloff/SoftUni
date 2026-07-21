@@ -19,9 +19,9 @@ namespace ProductShop
             using ProductShopContext dbContext = new();
 
             /*
-             * Part I. Import - разкоментирайте първия jsonFilePath, първия jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
+             * Part I. Import - разкоментирайте първия jsonFilePath, jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
                 Задача 1 - Users, 2 - Products, 3 - Categories, 4 - CategoryProducts
-             * Part II. Export - разкоментирайте втория jsonFilePath, втория jsonFileContent и втория result + File.WriteAllText(...) и сменяйте само jsonFileName и името на метода Get...()
+             * Part II. Export - разкоментирайте втория jsonFilePath, втория result и File.WriteAllText() и сменяйте само jsonFileName и името на метода Get...()
                 Задача 5 - ProductsInRange, Задача 6 - SoldProducts, Задача 7 - CategoriesByProducts, Задача 8 - UsersWithProducts
             */
             string jsonFileName = "users-sold-products.json";

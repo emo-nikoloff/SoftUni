@@ -18,9 +18,9 @@ public class StartUp
         using CarDealerContext dbContext = new();
 
         /* 
-         * Part I. Import - разкоментирайте първия jsonFilePath, първия jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
+         * Part I. Import - разкоментирайте първия jsonFilePath, jsonFileContent и първия result и сменяйте само jsonFileName и името на метода Import...()
             Задача 1 - Suppliers, 2 - Parts, 3 - Cars, 4 - Customers, 5 - Sales
-         * Part II. Export - разкоментирайте втория jsonFilePath, втория jsonFileContent и втория result + File.WriteAllText(...) и сменяйте само jsonFileName и името на метода Get...()
+         * Part II. Export - разкоментирайте втория jsonFilePath, втория result и File.WriteAllText() и сменяйте само jsonFileName и името на метода Get...()
             Задача 6 - OrderedCustomers, 7 - CarsFromMakeToyota, 8 - LocalSuppliers, 9 - CarsWithTheirListOfParts, 10 - TotalSalesByCustomer, 11 - SalesWithAppliedDiscount
         */
         string jsonFileName = "sales-discounts.json";
