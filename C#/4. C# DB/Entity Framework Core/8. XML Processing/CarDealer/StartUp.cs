@@ -3,7 +3,6 @@ using System.Text;
 using System.Xml.Serialization;
 
 using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
 
 using CarDealer.Data;
 using CarDealer.DTOs.Import;
