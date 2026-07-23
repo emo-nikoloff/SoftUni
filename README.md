@@ -7,7 +7,6 @@ This repository contains my solutions to the programming exercises given by **So
 The repository is organized into folders by programming language:
 
 - `C#/` - Еxercises written in **C#**
-- `Python/` - Еxercises written in **Python**
 
 ---
 
@@ -31,11 +30,6 @@ The repository is organized into folders by programming language:
 - 🔜 Upcoming: Working with ORM using Entity Framework Core
 - 🔜 Upcoming: Building modern web applications with ASP.NET
 - 🔜 Upcoming: Creating interactive user interfaces with HTML, CSS, and JavaScript
-
----
-
-### 📌 Notes
-- The `Python/` folder is no longer maintained!
 
 ---
 
