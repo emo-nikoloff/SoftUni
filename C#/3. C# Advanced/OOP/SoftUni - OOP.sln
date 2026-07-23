@@ -165,15 +165,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingArena", "8.2 Unit T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingArena.Tests", "8.2 Unit Testing - Exercise\04. Fighting Arena\FightingArena.Tests\FightingArena.Tests.csproj", "{8C859C21-3890-4F77-B399-465067CBA3C3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam Preparation", "Exam Preparation", "{966F151A-7C88-508D-2ECC-8E0C43D5512D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exams", "Exams", "{966F151A-7C88-508D-2ECC-8E0C43D5512D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online Exam", "Online Exam", "{43577777-CE5E-9552-642A-6AA2DF138C13}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regular Exam", "Regular Exam", "{43577777-CE5E-9552-642A-6AA2DF138C13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendsOfValor-TheGuildTrials", "Exam Preparation\Online Exam\LegendsOfValor-TheGuildTrials\LegendsOfValor-TheGuildTrials.csproj", "{42B6FBF2-0471-4C93-A148-854FB71996F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendsOfValor-TheGuildTrials", "Exams\Regular Exam\LegendsOfValor-TheGuildTrials\LegendsOfValor-TheGuildTrials.csproj", "{42B6FBF2-0471-4C93-A148-854FB71996F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MythicLegion", "Exam Preparation\Online Exam\MythicLegion\MythicLegion.csproj", "{F67011C2-82DB-4CA8-88CA-FC18BD73108C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MythicLegion", "Exams\Regular Exam\MythicLegion\MythicLegion.csproj", "{F67011C2-82DB-4CA8-88CA-FC18BD73108C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MythicLegion.Tests", "Exam Preparation\Online Exam\MythicLegion.Tests\MythicLegion.Tests.csproj", "{014CB1F5-0D43-45D7-94D5-7D4FD8E85DAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MythicLegion.Tests", "Exams\Regular Exam\MythicLegion.Tests\MythicLegion.Tests.csproj", "{014CB1F5-0D43-45D7-94D5-7D4FD8E85DAD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependency Injection", "Dependency Injection", "{17296520-BAE0-4AA1-D395-EAE28487DFE2}"
 EndProject
