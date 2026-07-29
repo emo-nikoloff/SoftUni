@@ -31,7 +31,7 @@ public abstract class User : IUser
         }
     }
 
-    public virtual bool HasDataAccess
+    public bool HasDataAccess
     {
         get => hasDataAccess;
         private set => hasDataAccess = value;

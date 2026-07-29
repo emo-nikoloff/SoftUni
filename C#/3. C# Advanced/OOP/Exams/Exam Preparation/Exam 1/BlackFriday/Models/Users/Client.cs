@@ -9,8 +9,6 @@ public class Client : User
         purchases = new();
     }
 
-    public override bool HasDataAccess => false;
-
     public IReadOnlyDictionary<string, bool> Purchases => purchases;
 
     public void PurchaseProduct(string productName, bool blackFridayFlag) => purchases[productName] = blackFridayFlag;
