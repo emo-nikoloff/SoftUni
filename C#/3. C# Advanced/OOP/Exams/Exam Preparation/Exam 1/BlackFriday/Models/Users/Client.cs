@@ -4,7 +4,7 @@ public class Client : User
 {
     private Dictionary<string, bool> purchases;
 
-    public Client(string userName, string email) : base(userName, false, email)
+    public Client(string userName, string email) : base(userName, hasDataAccess: false, email)
     {
         purchases = new();
     }
