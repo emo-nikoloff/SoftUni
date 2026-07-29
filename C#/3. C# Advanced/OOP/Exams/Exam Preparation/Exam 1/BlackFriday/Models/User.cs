@@ -39,21 +39,21 @@ public abstract class User : IUser
 
     public string Email
     {
-        get => email;
+        get
+        {
+            if (HasDataAccess)
+            {
+                return "hidden";
+            }
+            return email;
+        }
         private set
         {
-            if (!HasDataAccess)
+            if (!HasDataAccess && string.IsNullOrWhiteSpace(value))
             {
-                if (string.IsNullOrWhiteSpace(value))
-                {
-                    throw new ArgumentException(EmailRequired);
-                }
-                email = value;
+                throw new ArgumentException(EmailRequired);
             }
-            else
-            {
-                email = "hidden";
-            }
+            email = value;
         }
     }
 

@@ -6,13 +6,17 @@ namespace BlackFriday.Models;
 
 public class Application : IApplication
 {
+    private IRepository<IProduct> products;
+
+    private IRepository<IUser> users;
+
     public Application()
     {
-        Products = new ProductRepository();
-        Users = new UserRepository();
+        products = new ProductRepository();
+        users = new UserRepository();
     }
 
-    public IRepository<IProduct> Products { get; }
+    public IRepository<IProduct> Products => products;
 
-    public IRepository<IUser> Users { get; }
+    public IRepository<IUser> Users => users;
 }

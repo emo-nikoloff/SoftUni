@@ -44,7 +44,7 @@ public abstract class Product : IProduct
         }
     }
 
-    public virtual double BlackFridayPrice => BasePrice;
+    public abstract double BlackFridayPrice { get; }
 
     public bool IsSold
     {
