@@ -2,8 +2,6 @@
 using System.Text;
 using CarDealer.Utilities;
 using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
 
 using ProductShop.Data;
 using ProductShop.DTOs.Export;
