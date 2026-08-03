@@ -6,9 +6,9 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 ## 📂 Folder Structure
 
-### 🟢 Programming Basics
+### 🌱 Programming Basics
 
-***Focus: Building fundamental programming logic and problem-solving skills:***
+***Focus: Building fundamental programming logic and problem-solving skills***
 
 1. First Steps in Programming
 2. Conditional Statements
@@ -19,14 +19,14 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 #### 🔗 Task Conditions & Judge System
 
-* https://alpha.judge.softuni.org/contests/by-category/csharp-introduction/245
-* https://alpha.judge.softuni.org/contests/by-category/pb-more-exercises/193
+- https://alpha.judge.softuni.org/contests/by-category/csharp-introduction/245
+- https://alpha.judge.softuni.org/contests/by-category/pb-more-exercises/193
 
 ---
 
-### 🔵 Programming Fundamentals
+### 🌿 Programming Fundamentals
 
-***Focus: Core C# language features and practical programming techniques:***
+***Focus: Core C# language features and practical programming techniques***
 
 1. Basic Syntax, Conditional Statements and Loops
 2. Data Types and Variables
@@ -40,15 +40,15 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 #### 🔗 Task Conditions & Judge System
 
-* https://alpha.judge.softuni.org/contests/by-category/csharp-fundamentals/149
+- https://alpha.judge.softuni.org/contests/by-category/csharp-fundamentals/149
 
 ---
 
-### 🟣 C# Advanced
+### 🌳 C# Advanced
 
-***Focus: Advanced data structures, memory management, functional programming, and performance-oriented coding:***
+***Focus: Advanced data structures, functional programming, performance-oriented coding, and object-oriented software development***
 
-#### C# Advanced
+#### 🧩 C# Advanced
 
 1. Stack and Queues
 2. Multidimensional Arrays
@@ -62,13 +62,9 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 #### 🔗 Task Conditions & Judge System (C# Advanced)
 
-* https://alpha.judge.softuni.org/contests/by-category/csharp-advanced-exercises/182?page=1
+- https://alpha.judge.softuni.org/contests/by-category/csharp-advanced-exercises/182?page=1
 
----
-
-### 🟠 C# OOP
-
-***Focus: Object-Oriented Programming principles and design patterns:***
+#### 🏗️ C# OOP
 
 1. Inheritance
 2. Encapsulation
@@ -84,15 +80,15 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 #### 🔗 Task Conditions & Judge System (C# OOP)
 
-* https://alpha.judge.softuni.org/contests/by-category/csharp-oop-exercises/184
+- https://alpha.judge.softuni.org/contests/by-category/csharp-oop-exercises/184
 
 ---
 
-### 🟡 C# DB
+### 🚀 C# DB
 
-***Focus: Working with databases using C# and ORM technologies:***
+***Focus: Database design, SQL querying, and ORM-based data access***
 
-#### MS SQL
+#### 🗄️ MS SQL
 
 1. Databases Introduction
 2. CRUD
@@ -105,36 +101,50 @@ This folder contains all the lessons and exercises I have completed as part of m
 
 #### 🔗 Task Conditions & Judge System (MS SQL)
 
-* https://alpha.judge.softuni.org/contests/by-category/csharp-databases-basics-exercises/62
+- https://alpha.judge.softuni.org/contests/by-category/csharp-databases-basics-exercises/62
 
-#### Entity Framework Core
+#### 🔌 Entity Framework Core
+
+1. ORM Fundamentals
+2. Entity Framework Introduction
+3. Entity Relations
+4. LINQ
+5. Advanced Querying
+6. Migrations in Entity Framework Core
+7. JSON Processing
+8. XML Processing
+9. Entity Framework Core Essentials for ASP.NET
+10. Best Practices And Architecture
+11. NoSQL
+
+#### 🔗 Task Conditions & Judge System (Entity Framework Core)
+
+- https://alpha.judge.softuni.org/contests/by-category/csharp-databases-advanced-exercises/68
+
+---
+
+### 🌕 C# Web
+
+***Focus: Building modern web applications with ASP.NET***
+
+#### 🌐 ASP.NET Fundamentals
+
+> ⏳ Coming soon
+
+#### 🛠️ ASP.NET Advanced
 
 > ⏳ Coming soon
 
 ---
 
-### 🔴 C# Web
+### ✨ JS Front-End
 
-***Focus: Building modern web applications with ASP.NET:***
+***Focus: Creating interactive user interfaces and client-side applications***
 
-#### ASP.NET Fundamentals
-
-> ⏳ Coming soon
-
-#### ASP.NET Advanced
+#### 🎨 HTML & CSS
 
 > ⏳ Coming soon
 
----
-
-### 🟤 JS Front-End
-
-***Focus: Creating interactive user interfaces and client-side applications:***
-
-#### HTML & CSS
-
-> ⏳ Coming soon
-
-#### JS Front-End
+#### 🪄 JS Front-End
 
 > ⏳ Coming soon
