@@ -10,26 +10,22 @@ The repository is organized into folders by programming language:
 
 ---
 
-## 🧠 For Now, You’ll Find Here
-- ✅ Strong understanding of fundamental programming logic and problem-solving  
-- ✅ Solid knowledge of core C# syntax, data types, and control structures  
-- ✅ Experience working with arrays, lists, dictionaries, and collections  
-- ✅ Ability to create and use methods, classes, and object-oriented structures  
-- ✅ Understanding of text processing and regular expressions  
-- ✅ Experience with advanced data structures and memory management concepts  
-- ✅ Knowledge of functional programming concepts in C#  
-- ✅ Basic understanding of algorithms and performance-oriented coding
-- ✅ Strong understanding of Object-Oriented Programming principles (Inheritance, Encapsulation, Polymorphism, Abstraction)  
-- ✅ Experience applying SOLID principles and clean code practices  
-- ✅ Skills in debugging and exception handling  
-- ✅ Experience with unit testing, mocking, and Test-Driven Development (TDD)  
-- ✅ Understanding of design patterns and software architecture concepts  
-- ✅ Experience in designing and managing relational databases using MS SQL
-- ✅ Solid understanding of SQL querying (CRUD, Joins, Subqueries, Aggregation)
-- ✅ Knowledge of database programmability (Stored Procedures, Functions, Triggers, and Transactions)
-- 🔜 Upcoming: Working with ORM using Entity Framework Core
-- 🔜 Upcoming: Building modern web applications with ASP.NET
-- 🔜 Upcoming: Creating interactive user interfaces with HTML, CSS, and JavaScript
+## 🧠 You’ll Find Here
+
+## 💻 C# Development
+- ✅ **Core Programming:** Strong grasp of C# fundamentals, advanced collections and generics, functional programming, and basic algorithms.
+- ✅ **OOP & Architecture:** Strong understanding of Object-Oriented Programming, SOLID principles, Design Patterns, Reflection, and clean code practices.
+- ✅ **Quality Assurance:** Experience with exception handling, debugging, Unit Testing, Mocking, and Test-Driven Development (TDD).
+- ✅ **Data Processing:** Proficiency in text processing, working with streams, files, directories, and Regular Expressions.
+
+## 🗄️ Databases
+- ✅ **MS SQL:** Relational database design, advanced T-SQL querying (Joins, Subqueries, Aggregation), and database programmability (Stored Procedures, Functions, Triggers, and Transactions).
+- ✅ **Entity Framework Core:** Data access and ORM integration, Entity Relations, LINQ, database migrations, JSON/XML processing, and EF Core best practices.
+- ✅ **NoSQL:** Basic understanding of NoSQL databases and their use cases.
+
+## 🚀 Roadmap
+- 🔜 Building modern web applications with ASP.NET
+- 🔜 Creating interactive user interfaces with HTML, CSS, and JavaScript
 
 ---
 
