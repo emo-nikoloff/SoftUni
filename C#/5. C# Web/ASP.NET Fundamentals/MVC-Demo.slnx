@@ -2,5 +2,8 @@
   <Folder Name="/ASP.NET Core Basics - Exercise/">
     <Project Path="ASP.NET Core Basics - Exercise/MVC-Tutorial/MVC-Tutorial.csproj" />
   </Folder>
+  <Folder Name="/Controllers and Routing - Exercise/">
+    <Project Path="Controllers and Routing - Exercise/GarageApp/GarageApp.csproj" />
+  </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
