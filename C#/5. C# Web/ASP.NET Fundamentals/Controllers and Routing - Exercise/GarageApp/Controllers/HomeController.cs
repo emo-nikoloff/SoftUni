@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using GarageApp.Models;
+using GarageApp.ViewModels;
 
 namespace GarageApp.Controllers;
 
