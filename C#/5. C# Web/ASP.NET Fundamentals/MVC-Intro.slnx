@@ -5,5 +5,8 @@
   <Folder Name="/2. Controllers and Routing - Exercise/">
     <Project Path="2. Controllers and Routing - Exercise/GarageApp/GarageApp.csproj" />
   </Folder>
+  <Folder Name="/3. Razor Views and Layouts - Exercise/">
+    <Project Path="3. Razor Views and Layouts - Exercise/BookShelf/BookShelf.csproj" />
+  </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
