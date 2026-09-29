@@ -1,9 +1,9 @@
 <Solution>
-  <Folder Name="/ASP.NET Core Basics - Exercise/">
-    <Project Path="ASP.NET Core Basics - Exercise/MVC-Tutorial/MVC-Tutorial.csproj" />
+  <Folder Name="/1. ASP.NET Core Basics - Exercise/">
+    <Project Path="1. ASP.NET Core Basics - Exercise/MVC-Tutorial/MVC-Tutorial.csproj" />
   </Folder>
-  <Folder Name="/Controllers and Routing - Exercise/">
-    <Project Path="Controllers and Routing - Exercise/GarageApp/GarageApp.csproj" />
+  <Folder Name="/2. Controllers and Routing - Exercise/">
+    <Project Path="2. Controllers and Routing - Exercise/GarageApp/GarageApp.csproj" />
   </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
