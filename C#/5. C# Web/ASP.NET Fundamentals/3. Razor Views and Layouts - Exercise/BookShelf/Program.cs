@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+
+using BookShelf.Data;
+
 namespace BookShelf;
 
 public class Program
@@ -5,9 +9,15 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+        string connectionString = builder.Configuration.GetConnectionString("SqlServer")
+            ?? throw new InvalidOperationException("Connection string could not be found!");
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+        builder.Services.AddDbContext<BookShelfDbContext>(options =>
+        {
+            options.UseSqlServer(connectionString);
+        });
 
         var app = builder.Build();
 

@@ -1,0 +1,17 @@
+﻿@model Book
+
+<div class="card mb-2">
+    <div class="row g-0 align-items-center">
+        <div class="col-auto">
+            <img src="~/images/default-book.png" class="img-fluid rounded-start" alt="Default book cover" style="width: 100px; height: 120px; object-fit: cover;" />
+        </div>
+        <div class="col">
+            <div class="card-body">
+                <h5 class="card-title mb-1">@Model.Title</h5>
+                <div class="text-muted">
+                    Year: @Model.Year.ToString() • Author: @(Model.Author.Name ?? "Unknown")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
