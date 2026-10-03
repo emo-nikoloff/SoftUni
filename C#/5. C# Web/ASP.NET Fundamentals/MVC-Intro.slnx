@@ -8,5 +8,8 @@
   <Folder Name="/3. Razor Views and Layouts - Exercise/">
     <Project Path="3. Razor Views and Layouts - Exercise/BookShelf/BookShelf.csproj" />
   </Folder>
+  <Folder Name="/4. Model Binding and Validation - Exercise/">
+    <Project Path="4. Model Binding and Validation - Exercise/EventManager/EventManager.csproj" />
+  </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
