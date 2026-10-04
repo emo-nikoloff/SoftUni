@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using EventManager.Models;
+using EventManager.ViewModels;
 
 namespace EventManager.Controllers;
 

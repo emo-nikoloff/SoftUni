@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+
+using EventManager.Data;
+
 namespace EventManager;
 
 public class Program
@@ -5,9 +9,16 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+        string connectionString = builder.Configuration.GetConnectionString("SqlServerDev")
+            ?? throw new InvalidOperationException("Connection string could not be found!");
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+
+        builder.Services.AddDbContext<EventManagerDbContext>(options =>
+        {
+            options.UseSqlServer(connectionString);
+        });
 
         var app = builder.Build();
 
