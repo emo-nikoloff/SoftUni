@@ -11,5 +11,8 @@
   <Folder Name="/4. Model Binding and Validation - Exercise/">
     <Project Path="4. Model Binding and Validation - Exercise/EventManager/EventManager.csproj" />
   </Folder>
+  <Folder Name="/5. URLs and Views - Exercise/">
+    <Project Path="5. URLs and Views - Exercise/GameZone/GameZone.csproj" />
+  </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
