@@ -1,6 +1,7 @@
-﻿using GameZone.Common;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+
+using static GameZone.Common.ValidationConstants.Game;
 
 namespace GameZone.Data.Models
 {
@@ -10,23 +11,27 @@ namespace GameZone.Data.Models
         public int Id { get; set; }
 
         [Required]
-        public string Title { get; set; } = string.Empty;
+        [MaxLength(TitleMaxLength)]
+        public string Title { get; set; } = null!;
 
         [Required]
-        public string Description { get; set; } = string.Empty;
+        [MaxLength(DescriptionMaxLength)]
+        public string Description { get; set; } = null!;
 
+        [MaxLength(ImageUrlMaxLength)]
         public string? ImageUrl { get; set; }
 
         [Required]
-        public string PublisherName { get; set; } = string.Empty;
+        [MaxLength(PublisherMaxLength)]
+        public string PublisherName { get; set; } = null!;
 
         [Required]
+        [Column(TypeName = "DATETIME2")]
         public DateTime ReleasedOn { get; set; }
 
         [Required]
         public int GenreId { get; set; }
 
-        [ForeignKey(nameof(GenreId))]
-        public Genre Genre { get; set; } = null!;
+        public virtual Genre Genre { get; set; } = null!;
     }
 }

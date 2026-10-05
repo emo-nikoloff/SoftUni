@@ -1,6 +1,7 @@
-﻿using GameZone.ViewModels;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+
+using GameZone.ViewModels;
 
 namespace GameZone.Controllers
 {

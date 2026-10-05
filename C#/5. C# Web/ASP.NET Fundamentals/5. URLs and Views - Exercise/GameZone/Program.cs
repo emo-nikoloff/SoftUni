@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 using GameZone.Data;
 
 namespace GameZone
@@ -8,11 +10,15 @@ namespace GameZone
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+            var connectionString = builder.Configuration.GetConnectionString("SqlServerDev")
                 ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
+            builder.Services.AddDbContext<GameZoneDbContext>(options =>
+            {
+                options.UseSqlServer(connectionString);
+            });
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -20,6 +26,7 @@ namespace GameZone
             if (app.Environment.IsDevelopment())
             {
                 app.UseMigrationsEndPoint();
+                app.UseDeveloperExceptionPage();
             }
             else
             {
