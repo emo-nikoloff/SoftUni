@@ -14,5 +14,8 @@
   <Folder Name="/5. URLs and Views - Exercise/">
     <Project Path="5. URLs and Views - Exercise/GameZone/GameZone.csproj" />
   </Folder>
+  <Folder Name="/Workshop/">
+    <Project Path="Workshop/Homies/Homies.csproj" />
+  </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
