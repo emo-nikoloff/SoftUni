@@ -17,5 +17,8 @@
   <Folder Name="/Workshop/">
     <Project Path="Workshop/Homies/Homies.csproj" />
   </Folder>
+  <Folder Name="/6. Layers, Services, DI and Asynchronous Processing - Exercise/">
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies/Homies.csproj" />
+  </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
