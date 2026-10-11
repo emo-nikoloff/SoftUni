@@ -18,7 +18,12 @@
     <Project Path="Workshop/Homies/Homies.csproj" />
   </Folder>
   <Folder Name="/6. Layers, Services, DI and Asynchronous Processing - Exercise/">
-    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies/Homies.csproj" />
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies.Data.Models/Homies.Data.Models.csproj" />
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies.Data/Homies.Data.csproj" />
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies.DataTransferObjects/Homies.DataTransferObjects.csproj" />
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies.GCommon/Homies.GCommon.csproj" />
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies.Services.Core/Homies.Services.Core.csproj" />
+    <Project Path="6. Layers, Services, DI and Asynchronous Processing - Exercise/Homies.Web/Homies.Web.csproj" />
   </Folder>
   <Project Path="MVC-Demo/MVC-Demo.csproj" />
 </Solution>
