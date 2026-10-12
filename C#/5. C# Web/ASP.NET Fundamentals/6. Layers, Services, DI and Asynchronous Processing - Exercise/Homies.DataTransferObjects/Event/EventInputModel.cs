@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
-using Homies.Web.ViewModels.Type;
-using static Homies.Web.Common.EntityValidation.Event;
+using Homies.DataTransferObjects.Type;
+using static Homies.GCommon.Constants.EntityValidation.Event;
 
-namespace Homies.Web.ViewModels.Event;
+namespace Homies.DataTransferObjects.Event;
 
 public class EventInputModel
 {
@@ -23,5 +23,5 @@ public class EventInputModel
     public int TypeId { get; set; }
 
     // ViewModel вграден в InputModel
-    public IEnumerable<TypeDropdownViewModel> Types { get; set; } = new List<TypeDropdownViewModel>();
+    public IEnumerable<TypeViewModel> Types { get; set; } = new List<TypeViewModel>();
 }

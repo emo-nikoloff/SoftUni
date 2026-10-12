@@ -1,6 +1,6 @@
-namespace Homies.Web.ViewModels.Type;
+namespace Homies.DataTransferObjects.Type;
 
-public class TypeDropdownViewModel
+public class TypeViewModel
 {
     public int Id { get; set; }
 

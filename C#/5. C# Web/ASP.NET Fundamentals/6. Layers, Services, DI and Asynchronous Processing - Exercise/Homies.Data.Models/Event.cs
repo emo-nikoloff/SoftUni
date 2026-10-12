@@ -2,9 +2,9 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity;
 
-using static Homies.Web.Common.EntityValidation.Event;
+using static Homies.GCommon.Constants.EntityValidation.Event;
 
-namespace Homies.Web.Data.Models;
+namespace Homies.Data.Models;
 
 public class Event
 {

@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-using Homies.Web.Data.Models;
-using Type = Homies.Web.Data.Models.Type;
+using Homies.Data.Models;
+using Type = Homies.Data.Models.Type;
 
-namespace Homies.Web.Data
+namespace Homies.Data
 {
     public class HomiesDbContext : IdentityDbContext
     {

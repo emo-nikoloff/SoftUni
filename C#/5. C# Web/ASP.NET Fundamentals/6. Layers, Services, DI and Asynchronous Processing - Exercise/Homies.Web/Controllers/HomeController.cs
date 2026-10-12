@@ -1,4 +1,4 @@
-using Homies.Web.ViewModels;
+using Homies.DataTransferObjects;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

@@ -2,121 +2,78 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 
-using Homies.Web.Data;
-using Homies.Web.Data.Models;
-using Homies.Web.ViewModels.Event;
-using static Homies.Web.Common.ApplicationConstants;
-using Homies.Web.ViewModels.Type;
+using Homies.DataTransferObjects.Event;
+using Homies.Services.Core.Contracts;
 
 namespace Homies.Web.Controllers
 {
     public class EventController : Controller
     {
-        private readonly HomiesDbContext _dbContext;
+        private readonly IEventService _eventService;
+        private readonly ITypeService _typeService;
 
-        public EventController(HomiesDbContext dbContext)
+        public EventController(IEventService eventService, ITypeService typeService)
         {
-            _dbContext = dbContext;
+            _eventService = eventService;
+            _typeService = typeService;
         }
 
         [Authorize]
         [HttpGet]
-        public IActionResult All()
+        public async Task<IActionResult> All()
         {
-            IEnumerable<EventAllViewModel> allEventsViewModel = _dbContext.Events
-                .OrderBy(e => e.Name)
-                .ThenByDescending(e => e.Start)
-                .Select(e => new EventAllViewModel
-                {
-                    Id = e.Id,
-                    Name = e.Name,
-                    Start = e.Start.ToString(DateTimeFormat),
-                    TypeName = e.Type.Name,
-                    OrganiserUsername = e.Organiser.UserName ?? string.Empty,
-                })
-                .Take(EntitiesPerPage)
-                .ToArray();
+            IEnumerable<EventAllViewModel> allEventsViewModel = await _eventService.GetAllEventsAsync();
 
             return View(allEventsViewModel);
         }
 
         [Authorize]
         [HttpGet]
-        public IActionResult Add()
+        public async Task<IActionResult> Add()
         {
-            EventInputModel inputModel = new()
-            {
-                Types = LoadTypeDropdownEntries(),
-            };
+            EventInputModel eventInputModel = await _eventService.GetEventInputModelAsync();
 
-            return View(inputModel);
+            return View(eventInputModel);
         }
 
         [Authorize]
         [HttpPost]
-        public IActionResult Add(EventInputModel inputModel)
+        public async Task<IActionResult> Add(EventInputModel eventInputModel)
         {
             if (!ModelState.IsValid)
             {
                 ModelState.AddModelError(string.Empty, "Invalid event data was detected! Please try again!");
-                inputModel.Types = LoadTypeDropdownEntries();
+                eventInputModel.Types = await _typeService.GetTypesAsync();
 
-                return View(inputModel);
+                return View(eventInputModel);
             }
 
-            bool typeIdExists = _dbContext.Types
-                .Any(t => t.Id == inputModel.TypeId);
+            bool typeIdExists = (await _typeService.GetTypesAsync())
+                .Any(t => t.Id == eventInputModel.TypeId);
             if (!typeIdExists)
             {
-                ModelState.AddModelError(nameof(EventInputModel.TypeId), "Please select a valid type!");
-                inputModel.Types = LoadTypeDropdownEntries();
+                ModelState.AddModelError(nameof(eventInputModel.TypeId), "Please select a valid type!");
+                eventInputModel.Types = await _typeService.GetTypesAsync();
 
-                return View(inputModel);
+                return View(eventInputModel);
             }
 
             string userId = ValidateAuthorizedUserId(GetUserId());
-
-            Event newEvent = new()
-            {
-                Name = inputModel.Name,
-                Description = inputModel.Description,
-                OrganiserId = userId,
-                CreatedOn = DateTime.Now,
-                Start = inputModel.Start,
-                End = inputModel.End,
-                TypeId = inputModel.TypeId,
-            };
-
-            _dbContext.Events.Add(newEvent);
-            _dbContext.SaveChanges();
+            await _eventService.AddEventAsync(eventInputModel, userId);
 
             return RedirectToAction(nameof(All));
         }
 
         [Authorize]
         [HttpGet]
-        public IActionResult Details([FromRoute] int? id)
+        public async Task<IActionResult> Details([FromRoute] int? id)
         {
             if (!id.HasValue || id <= 0)
             {
                 return BadRequest("There was an issue with your request!");
             }
 
-            EventDetailsViewModel? eventDetailsViewModel = _dbContext.Events
-                .Where(e => e.Id == id.Value)
-                .Select(e => new EventDetailsViewModel
-                {
-                    Id = e.Id,
-                    Name = e.Name,
-                    Description = e.Description,
-                    Start = e.Start.ToString(DateTimeFormat),
-                    End = e.End.ToString(DateTimeFormat),
-                    Organiser = e.Organiser.UserName ?? string.Empty,
-                    CreatedOn = e.CreatedOn.ToString(DateTimeFormat),
-                    Type = e.Type.Name,
-                })
-                .FirstOrDefault();
-
+            EventDetailsViewModel? eventDetailsViewModel = await _eventService.GetEventDetailsAsync(id.Value);
             if (eventDetailsViewModel == null)
             {
                 return NotFound();
@@ -127,157 +84,98 @@ namespace Homies.Web.Controllers
 
         [Authorize]
         [HttpGet]
-        public IActionResult Edit([FromRoute] int? id)
+        public async Task<IActionResult> Edit([FromRoute] int? id)
         {
             if (!id.HasValue || id <= 0)
             {
                 return BadRequest("There was an issue with your request!");
             }
 
-            Event? requestedEvent = _dbContext.Events.Find(id);
-            if (requestedEvent == null)
+            try
             {
-                return NotFound();
+                string userId = ValidateAuthorizedUserId(GetUserId());
+
+                EventInputModel? requestedEvent = await _eventService.GetEventForEditAsync(id.Value, userId);
+                if (requestedEvent == null)
+                {
+                    return NotFound();
+                }
+
+                return View(requestedEvent);
             }
-
-            string userId = ValidateAuthorizedUserId(GetUserId());
-
-            bool isUserOrganiserOfEvent = requestedEvent.OrganiserId == userId;
-            if (!isUserOrganiserOfEvent)
+            catch (UnauthorizedAccessException)
             {
-                TempData["Error"] = "You can edit only the events, that you are organising!";
-
-                return RedirectToAction(nameof(All));
+                return Unauthorized();
             }
-
-            IEnumerable<TypeDropdownViewModel> typeDropdownEntries = LoadTypeDropdownEntries();
-            EventInputModel eventInputModel = new()
-            {
-                Name = requestedEvent.Name,
-                Description = requestedEvent.Description,
-                Start = requestedEvent.Start,
-                End = requestedEvent.End,
-                TypeId = requestedEvent.TypeId,
-                Types = typeDropdownEntries,
-            };
-
-            return View(eventInputModel);
         }
 
         [Authorize]
         [HttpPost]
-        public IActionResult Edit([FromRoute] int? id, EventInputModel inputModel)
+        public async Task<IActionResult> Edit([FromRoute] int? id, EventInputModel eventInputModel)
         {
             if (!id.HasValue || id <= 0)
             {
                 return BadRequest("There was an issue with your request!");
             }
 
-            Event? requestedEvent = _dbContext.Events.Find(id);
-            if (requestedEvent == null)
-            {
-                return NotFound();
-            }
-
             if (!ModelState.IsValid)
             {
-                inputModel.Types = LoadTypeDropdownEntries();
+                eventInputModel.Types = await _typeService.GetTypesAsync();
 
-                return View(inputModel);
+                return View(eventInputModel);
             }
 
-            bool typeIdExists = _dbContext.Types
-                .Any(t => t.Id == inputModel.TypeId);
-            if (!typeIdExists)
+            try
             {
-                ModelState.AddModelError(nameof(EventInputModel.TypeId), "Please select a valid type!");
-                inputModel.Types = LoadTypeDropdownEntries();
+                string userId = ValidateAuthorizedUserId(GetUserId());
 
-                return View(inputModel);
-            }
-
-            string userId = ValidateAuthorizedUserId(GetUserId());
-
-            bool isUserOrganiserOfEvent = requestedEvent.OrganiserId == userId;
-            if (!isUserOrganiserOfEvent)
-            {
-                TempData["Error"] = "You can edit only the events, that you are organising!";
+                bool request = await _eventService.EditEventAsync(id.Value, eventInputModel, userId);
+                if (!request)
+                {
+                    return NotFound();
+                }
 
                 return RedirectToAction(nameof(All));
             }
+            catch (UnauthorizedAccessException)
+            {
+                return Unauthorized();
+            }
+            catch (ArgumentException ex)
+            {
+                ModelState.AddModelError(nameof(eventInputModel.TypeId), ex.Message);
+                eventInputModel.Types = await _typeService.GetTypesAsync();
 
-            requestedEvent.Name = inputModel.Name;
-            requestedEvent.Description = inputModel.Description;
-            requestedEvent.Start = inputModel.Start;
-            requestedEvent.End = inputModel.End;
-            requestedEvent.TypeId = inputModel.TypeId;
-
-            _dbContext.SaveChanges();
-
-            return RedirectToAction(nameof(All));
+                return View(eventInputModel);
+            }
         }
 
         [Authorize]
         [HttpGet]
-        public IActionResult Joined()
+        public async Task<IActionResult> Joined()
         {
             string userId = ValidateAuthorizedUserId(GetUserId());
 
-            IEnumerable<EventAllViewModel> joinedEventsViewModel = _dbContext.Events
-                .Where(e => e.Participants.Any(ep => ep.HelperId == userId))
-                .OrderBy(e => e.Name)
-                .ThenByDescending(e => e.Start)
-                .Select(e => new EventAllViewModel
-                {
-                    Id = e.Id,
-                    Name = e.Name,
-                    Start = e.Start.ToString(DateTimeFormat),
-                    TypeName = e.Type.Name,
-                    OrganiserUsername = e.Organiser.UserName ?? string.Empty,
-                })
-                .Take(EntitiesPerPage)
-                .ToArray();
+            IEnumerable<EventAllViewModel> joinedEventsViewModel = await _eventService.GetJoinedEventsAsync(userId);
 
             return View(joinedEventsViewModel);
         }
 
         [Authorize]
         [HttpPost]
-        public IActionResult Join([FromRoute] int? id)
+        public async Task<IActionResult> Join([FromRoute] int? id)
         {
             if (!id.HasValue || id <= 0)
             {
                 return BadRequest("There was an issue with your request!");
             }
 
-            Event? requestedEvent = _dbContext.Events.Find(id);
-            if (requestedEvent == null)
-            {
-                return NotFound();
-            }
-
             string userId = ValidateAuthorizedUserId(GetUserId());
 
-            bool isUserOrganiserOfEvent = requestedEvent.OrganiserId == userId;
-            if (isUserOrganiserOfEvent)
+            bool requestedEvent = await _eventService.JoinAsync(id.Value, userId);
+            if (!requestedEvent)
             {
-                TempData["Error"] = "You can't join events, organised by you!";
-
-                return RedirectToAction(nameof(All));
-            }
-
-            bool userAlreadyJoined = requestedEvent.Participants
-                .Any(ep => ep.HelperId == userId);
-            if (!userAlreadyJoined)
-            {
-                EventParticipant newEventParticipant = new()
-                {
-                    EventId = id.Value,
-                    HelperId = userId,
-                };
-
-                _dbContext.EventsParticipants.Add(newEventParticipant);
-                _dbContext.SaveChanges();
+                return NotFound();
             }
 
             return RedirectToAction(nameof(Joined));
@@ -285,45 +183,22 @@ namespace Homies.Web.Controllers
 
         [Authorize]
         [HttpPost]
-        public IActionResult Leave([FromRoute] int? id)
+        public async Task<IActionResult> Leave([FromRoute] int? id)
         {
             if (!id.HasValue || id <= 0)
             {
                 return BadRequest("There was an issue with your request!");
             }
 
-            Event? requestedEvent = _dbContext.Events.Find(id);
-            if (requestedEvent == null)
+            string userId = ValidateAuthorizedUserId(GetUserId());
+
+            bool requestedEvent = await _eventService.LeaveAsync(id.Value, userId);
+            if (!requestedEvent)
             {
                 return NotFound();
             }
 
-            string userId = ValidateAuthorizedUserId(GetUserId());
-
-            EventParticipant? eventParticipant = _dbContext.EventsParticipants
-                .FirstOrDefault(ep => ep.EventId == id.Value && ep.HelperId == userId);
-
-            if (eventParticipant != null)
-            {
-                _dbContext.EventsParticipants.Remove(eventParticipant);
-                _dbContext.SaveChanges();
-            }
-
             return RedirectToAction(nameof(All));
-        }
-
-        private IEnumerable<TypeDropdownViewModel> LoadTypeDropdownEntries()
-        {
-            IEnumerable<TypeDropdownViewModel> typeDropdownEntries = _dbContext.Types
-                .OrderBy(t => t.Name)
-                .Select(t => new TypeDropdownViewModel
-                {
-                    Id = t.Id,
-                    Name = t.Name,
-                })
-                .ToArray();
-
-            return typeDropdownEntries;
         }
 
         private string? GetUserId()

@@ -1,4 +1,4 @@
-namespace Homies.Web.ViewModels.Event;
+namespace Homies.DataTransferObjects.Event;
 
 public class EventDetailsViewModel
 {

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace Homies.Web.Data.Models;
+namespace Homies.Data.Models;
 
 [PrimaryKey(nameof(HelperId), nameof(EventId))]
 public class EventParticipant

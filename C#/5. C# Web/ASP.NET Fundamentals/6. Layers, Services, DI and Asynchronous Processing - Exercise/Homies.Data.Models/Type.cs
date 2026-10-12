@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-using static Homies.Web.Common.EntityValidation.Type;
+using static Homies.GCommon.Constants.EntityValidation.Type;
 
-namespace Homies.Web.Data.Models;
+namespace Homies.Data.Models;
 
 public class Type
 {

@@ -1,4 +1,4 @@
-namespace Homies.Web.ViewModels
+namespace Homies.DataTransferObjects
 {
     public class ErrorViewModel
     {

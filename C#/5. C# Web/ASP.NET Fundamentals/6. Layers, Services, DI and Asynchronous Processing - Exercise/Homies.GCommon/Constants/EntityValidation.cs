@@ -1,4 +1,4 @@
-namespace Homies.Web.Common;
+namespace Homies.GCommon.Constants;
 
 public static class EntityValidation
 {
