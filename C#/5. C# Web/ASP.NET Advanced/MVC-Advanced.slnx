@@ -1,4 +1,3 @@
-
 <Solution>
     <Folder Name="/Workshop/">
         <Project Path="Workshop/CinemaApp.Data/CinemaApp.Data.csproj" />

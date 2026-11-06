@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using CinemaApp.Data;
 namespace CinemaApp.Web
 {
     using CinemaApp.Data;
@@ -8,15 +11,21 @@ namespace CinemaApp.Web
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var connectionString = builder.Configuration.GetConnectionString("SqlServerConnection")
+                ?? throw new InvalidOperationException("Connection string 'SqlServerConnection' not found.");
 
             // Add services to the container.
-            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-            builder.Services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(connectionString));
+            builder.Services.AddDbContext<CinemaDbContext>(options =>
+            {
+                options.UseSqlServer(connectionString);
+            });
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+            {
+                ConfigureIdentityOptions(builder.Configuration, options);
+            })
+                .AddEntityFrameworkStores<CinemaDbContext>();
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -24,6 +33,7 @@ namespace CinemaApp.Web
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
+                app.UseDeveloperExceptionPage();
                 app.UseMigrationsEndPoint();
             }
             else
@@ -38,6 +48,7 @@ namespace CinemaApp.Web
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
@@ -46,6 +57,28 @@ namespace CinemaApp.Web
             app.MapRazorPages();
 
             app.Run();
+        }
+
+        private static void ConfigureIdentityOptions(ConfigurationManager configuration, IdentityOptions options)
+        {
+            options.SignIn.RequireConfirmedAccount = configuration
+                .GetValue<bool>("IdentitySettings:SignIn:RequireConfirmedAccount");
+
+            options.Password.RequireDigit = configuration
+                .GetValue<bool>("IdentitySettings:Password:RequireDigit");
+            options.Password.RequireLowercase = configuration
+                .GetValue<bool>("IdentitySettings:Password:RequireLowercase");
+            options.Password.RequireUppercase = configuration
+                .GetValue<bool>("IdentitySettings:Password:RequireUppercase");
+            options.Password.RequireNonAlphanumeric = configuration
+                .GetValue<bool>("IdentitySettings:Password:RequireNonAlphanumeric");
+            options.Password.RequiredLength = configuration
+                .GetValue<int>("IdentitySettings:Password:RequiredLength");
+            options.Password.RequiredUniqueChars = configuration
+                .GetValue<int>("IdentitySettings:Password:RequiredUniqueChars");
+
+            options.User.RequireUniqueEmail = configuration
+                .GetValue<bool>("IdentitySettings:User:RequireUniqueEmail");
         }
     }
 }
