@@ -1,0 +1,18 @@
+
+<Solution>
+    <Folder Name="/Workshop/">
+        <Project Path="Workshop/CinemaApp.Data/CinemaApp.Data.csproj" />
+        <Project Path="Workshop/CinemaApp.Data.Common/CinemaApp.Data.Common.csproj" />
+        <Project Path="Workshop/CinemaApp.Data.Models/CinemaApp.Data.Models.csproj" />
+        <Project Path="Workshop/CinemaApp.GCommon/CinemaApp.GCommon.csproj" />
+        <Project Path="Workshop/CinemaApp.IntegrationTests/CinemaApp.IntegrationTests.csproj" />
+        <Project Path="Workshop/CinemaApp.Services.AutoMapping/CinemaApp.Services.AutoMapping.csproj" />
+        <Project Path="Workshop/CinemaApp.Services.Common/CinemaApp.Services.Common.csproj" />
+        <Project Path="Workshop/CinemaApp.Services.Core/CinemaApp.Services.Core.csproj" />
+        <Project Path="Workshop/CinemaApp.Services.Tests/CinemaApp.Services.Tests.csproj" />
+        <Project Path="Workshop/CinemaApp.Web/CinemaApp.Web.csproj" />
+        <Project Path="Workshop/CinemaApp.Web.Infrastructure/CinemaApp.Web.Infrastructure.csproj" />
+        <Project Path="Workshop/CinemaApp.Web.Tests/CinemaApp.Web.Tests.csproj" />
+        <Project Path="Workshop/CinemaApp.Web.ViewModels/CinemaApp.Web.ViewModels.csproj" />
+    </Folder>
+</Solution>
