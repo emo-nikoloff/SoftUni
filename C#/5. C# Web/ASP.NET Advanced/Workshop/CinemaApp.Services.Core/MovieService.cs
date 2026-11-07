@@ -6,6 +6,7 @@ using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Movie.Request;
 using CinemaApp.Services.Core.Data.Movie.Response;
 using CinemaApp.Data.Models;
+using CinemaApp.Services.Core.Data.Enums;
 
 namespace CinemaApp.Services.Core;
 
@@ -25,7 +26,7 @@ public class MovieService : IMovieService
     {
         // TODO: Implement Mapperly for auto generation of mapping code
 
-        IEnumerable<GetAllMoviesResponseModel> moviesResponseDate = await _dbContext.Movies
+        IEnumerable<GetAllMoviesResponseModel> moviesResponseData = await _dbContext.Movies
             .OrderBy(m => m.Title)
             .ThenBy(m => m.Genre)
             .Select(m => new GetAllMoviesResponseModel()
@@ -39,7 +40,7 @@ public class MovieService : IMovieService
             })
             .ToArrayAsync();
 
-        return moviesResponseDate;
+        return moviesResponseData;
     }
 
     public async Task<MovieServiceStatusResponseModel> CreateMovieAsync(CreateMovieRequestData requestData)
@@ -49,7 +50,7 @@ public class MovieService : IMovieService
         bool isInputDataValid = _modelValidator.IsValid(requestData);
         if (!isInputDataValid)
         {
-            response.Status = false;
+            response.Status = MovieServiceResponseStatus.InvalidRequest;
             response.ErrorMessages = _modelValidator.ValidationResults
                 .Select(vr => vr.ErrorMessage);
         }
@@ -71,18 +72,94 @@ public class MovieService : IMovieService
                 await _dbContext.Movies.AddAsync(movie);
                 await _dbContext.SaveChangesAsync();
 
-                response.Status = true;
+                response.Status = MovieServiceResponseStatus.Success;
             }
             catch (DbUpdateException ex)
             {
                 // TODO: Log the exception details for further analysis and debugging
 
-                response.Status = false;
+                response.Status = MovieServiceResponseStatus.GeneralError;
                 response.ErrorMessages = new List<string?>()
                 {
                     ex.Message,
                 };
             }
+        }
+
+        return response;
+    }
+
+    public async Task<MovieExtendedDataResponseModel?> GetMovieExtendedDataByIdAsync(Guid id)
+    {
+        MovieExtendedDataResponseModel? responseData = null;
+
+        Movie? dbMovie =
+            await _dbContext.Movies.FindAsync(id);
+        if (dbMovie != null)
+        {
+            responseData = new()
+            {
+                Id = dbMovie.Id,
+                Title = dbMovie.Title,
+                Genre = dbMovie.Genre,
+                ReleaseDate = dbMovie.ReleaseDate,
+                Director = dbMovie.Director,
+                Duration = dbMovie.Duration,
+                Description = dbMovie.Description,
+                ImageUrl = dbMovie.ImageUrl,
+            };
+        }
+
+        return responseData;
+    }
+
+    public async Task<MovieServiceStatusResponseModel> EditMovieAsync(EditMovieRequestData requestData)
+    {
+        MovieServiceStatusResponseModel response = new()
+        {
+            Status = MovieServiceResponseStatus.GeneralError,
+            ErrorMessages = new List<string?>(),
+        };
+
+        Movie? dbMovie =
+            await _dbContext.Movies.FindAsync(requestData.Id);
+        if (dbMovie == null)
+        {
+            response.Status = MovieServiceResponseStatus.NotFound;
+        }
+
+        bool isRequestDataValid = _modelValidator.IsValid(requestData);
+        if (!isRequestDataValid)
+        {
+            response.Status = MovieServiceResponseStatus.InvalidRequest;
+            response.ErrorMessages = _modelValidator.ValidationResults
+                .Select(vr => vr.ErrorMessage);
+        }
+
+        try
+        {
+            if (dbMovie != null)
+            {
+                dbMovie.Title = requestData.Title;
+                dbMovie.Genre = requestData.Genre;
+                dbMovie.ReleaseDate = requestData.ReleaseDate;
+                dbMovie.Director = requestData.Director;
+                dbMovie.Duration = requestData.Duration;
+                dbMovie.Description = requestData.Description;
+                dbMovie.ImageUrl = requestData.ImageUrl;
+
+                await _dbContext.SaveChangesAsync();
+
+                response.Status = MovieServiceResponseStatus.Success;
+            }
+        }
+        catch (DbUpdateException ex)
+        {
+            response.Status = MovieServiceResponseStatus.GeneralError;
+            response.ErrorMessages = new List<string?>()
+            {
+                ex.Message,
+            };
         }
 
         return response;

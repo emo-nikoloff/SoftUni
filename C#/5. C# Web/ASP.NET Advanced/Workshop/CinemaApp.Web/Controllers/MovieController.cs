@@ -5,11 +5,11 @@ using Microsoft.AspNetCore.Mvc;
 using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Movie.Response;
 using CinemaApp.Web.ViewModels.Movie;
+using CinemaApp.Services.Core.Data.Movie.Request;
 using static CinemaApp.GCommon.ApplicationConstants;
 using static CinemaApp.GCommon.ErrorMessages;
 using static CinemaApp.GCommon.ErrorMessages.Movie;
-using CinemaApp.Services.Core.Data.Movie.Request;
-using Humanizer;
+using CinemaApp.Services.Core.Data.Enums;
 
 namespace CinemaApp.Web.Controllers
 {
@@ -26,10 +26,10 @@ namespace CinemaApp.Web.Controllers
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            IEnumerable<GetAllMoviesResponseModel> allMoviesResponseDate =
+            IEnumerable<GetAllMoviesResponseModel> allMoviesResponseData =
                 await _movieService.GetAllMoviesAsync();
 
-            IEnumerable<AllMoviesIndexViewModel> allMoviesViewModelDate = allMoviesResponseDate
+            IEnumerable<AllMoviesIndexViewModel> allMoviesViewModelData = allMoviesResponseData
                 .Select(m => new AllMoviesIndexViewModel()
                 {
                     Id = m.Id.ToString(),
@@ -40,7 +40,7 @@ namespace CinemaApp.Web.Controllers
                     ImageUrl = m.ImageUrl ?? DefaultImageUrl,
                 });
 
-            return View(allMoviesViewModelDate);
+            return View(allMoviesViewModelData);
         }
 
         [HttpGet]
@@ -83,7 +83,7 @@ namespace CinemaApp.Web.Controllers
 
             MovieServiceStatusResponseModel statusResponse =
                 await _movieService.CreateMovieAsync(createMovieRequest);
-            if (!statusResponse.Status)
+            if (statusResponse.Status == MovieServiceResponseStatus.GeneralError)
             {
                 ModelState.AddModelError(string.Empty, GeneralErrorMessage);
 
@@ -91,6 +91,124 @@ namespace CinemaApp.Web.Controllers
             }
 
             return RedirectToAction(nameof(Index));
+        }
+
+        [AllowAnonymous]
+        [HttpGet]
+        public async Task<IActionResult> Details([FromRoute] Guid? id)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            MovieExtendedDataResponseModel? movieExtendedData =
+                await _movieService.GetMovieExtendedDataByIdAsync(id.Value);
+            if (movieExtendedData == null)
+            {
+                return NotFound();
+            }
+
+            MovieDetailsViewModel movieDetailsViewModel = new()
+            {
+                Id = movieExtendedData.Id.ToString(),
+                Title = movieExtendedData.Title,
+                Genre = movieExtendedData.Genre,
+                ReleaseDate = movieExtendedData.ReleaseDate.ToString(DateFormat),
+                Director = movieExtendedData.Director,
+                Duration = movieExtendedData.Duration,
+                Description = movieExtendedData.Description,
+                ImageUrl = movieExtendedData.ImageUrl ?? DefaultImageUrl,
+            };
+
+            return View(movieDetailsViewModel);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit([FromRoute] Guid? id)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            MovieExtendedDataResponseModel? movieExtendedData =
+                await _movieService.GetMovieExtendedDataByIdAsync(id.Value);
+            if (movieExtendedData == null)
+            {
+                return NotFound();
+            }
+
+            MovieFormInputModel movieFormModel = new()
+            {
+                Title = movieExtendedData.Title,
+                Genre = movieExtendedData.Genre,
+                ReleaseDate = movieExtendedData.ReleaseDate.ToString(DateFormat),
+                Director = movieExtendedData.Director,
+                Duration = movieExtendedData.Duration,
+                Description = movieExtendedData.Description,
+                ImageUrl = movieExtendedData.ImageUrl,
+            };
+
+            return View(movieFormModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit([FromRoute] Guid? id, MovieFormInputModel inputModel)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            if (!ModelState.IsValid)
+            {
+                return View(inputModel);
+            }
+
+            bool isReleaseDateValid = DateTime.TryParseExact(
+                inputModel.ReleaseDate,
+                DateFormat,
+                CultureInfo.InvariantCulture,
+                DateTimeStyles.None,
+                out DateTime releaseDate);
+            if (!isReleaseDateValid)
+            {
+                ModelState.AddModelError(nameof(MovieFormInputModel.ReleaseDate), ReleaseDateFormatMessage);
+
+                return View(inputModel);
+            }
+
+            EditMovieRequestData editMovieRequestData = new()
+            {
+                Id = id.Value,
+                Title = inputModel.Title,
+                Genre = inputModel.Genre,
+                ReleaseDate = releaseDate,
+                Duration = inputModel.Duration,
+                Director = inputModel.Director,
+                Description = inputModel.Description,
+                ImageUrl = inputModel.ImageUrl,
+            };
+
+            MovieServiceStatusResponseModel responseData =
+                await _movieService.EditMovieAsync(editMovieRequestData);
+            if (responseData.Status == MovieServiceResponseStatus.InvalidRequest)
+            {
+                return BadRequest();
+            }
+            else if (responseData.Status == MovieServiceResponseStatus.NotFound)
+            {
+                return NotFound();
+            }
+            else if (responseData.Status == MovieServiceResponseStatus.GeneralError)
+            {
+                ModelState.AddModelError(string.Empty, GeneralErrorMessage);
+
+                return View(editMovieRequestData);
+            }
+
+            return RedirectToAction(nameof(Details), new { id = id.Value.ToString() });
         }
     }
 }
