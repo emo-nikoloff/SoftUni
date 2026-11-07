@@ -12,6 +12,8 @@
 
         public virtual DbSet<Movie> Movies { get; set; }
 
+        public virtual DbSet<UserMovie> UsersMovies { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
