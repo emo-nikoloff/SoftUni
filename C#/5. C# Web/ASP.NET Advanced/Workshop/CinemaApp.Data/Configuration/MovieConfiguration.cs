@@ -211,6 +211,8 @@ public class MovieConfiguration : IEntityTypeConfiguration<Movie>
 
     public void Configure(EntityTypeBuilder<Movie> builder)
     {
+        builder.HasQueryFilter(m => m.IsDeleted == false);
+
         builder.HasData(MovieSeedData);
     }
 }
