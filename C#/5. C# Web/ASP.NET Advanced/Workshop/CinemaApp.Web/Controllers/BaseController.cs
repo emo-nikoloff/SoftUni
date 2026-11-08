@@ -13,7 +13,7 @@ namespace CinemaApp.Web.Controllers
         protected string? GetUserEmail()
             => User.FindFirstValue(ClaimTypes.Email);
 
-        protected bool IsUserAuthenticated()
+        protected bool IsUserAuthenticated
             => User.Identity?.IsAuthenticated ?? false;
     }
 }

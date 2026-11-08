@@ -9,7 +9,7 @@ using CinemaApp.Services.Core.Data.Movie.Request;
 using static CinemaApp.GCommon.ApplicationConstants;
 using static CinemaApp.GCommon.ErrorMessages;
 using static CinemaApp.GCommon.ErrorMessages.Movie;
-using CinemaApp.Services.Core.Data.Enums;
+using CinemaApp.Services.Core.Data.Movie.Enums;
 
 namespace CinemaApp.Web.Controllers
 {
@@ -17,9 +17,12 @@ namespace CinemaApp.Web.Controllers
     {
         private readonly IMovieService _movieService;
 
-        public MovieController(IMovieService movieService)
+        private readonly IWatchlistService _watchlistService;
+
+        public MovieController(IMovieService movieService, IWatchlistService watchlistService)
         {
             _movieService = movieService;
+            _watchlistService = watchlistService;
         }
 
         [AllowAnonymous]
@@ -38,7 +41,17 @@ namespace CinemaApp.Web.Controllers
                     ReleaseDate = m.ReleaseDate.ToString(DefaultImageUrl, CultureInfo.InvariantCulture),
                     Director = m.Director,
                     ImageUrl = m.ImageUrl ?? DefaultImageUrl,
-                });
+                })
+                .ToArray();
+
+            if (IsUserAuthenticated)
+            {
+                foreach (AllMoviesIndexViewModel movie in allMoviesViewModelData)
+                {
+                    movie.IsInUserWatchlist =
+                        await _watchlistService.IsMovieInUserWatchlistAsync(GetUserId()!, Guid.Parse(movie.Id));
+                }
+            }
 
             return View(allMoviesViewModelData);
         }

@@ -7,7 +7,7 @@ using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Movie.Request;
 using CinemaApp.Services.Core.Data.Movie.Response;
 using CinemaApp.Data.Models;
-using CinemaApp.Services.Core.Data.Enums;
+using CinemaApp.Services.Core.Data.Movie.Enums;
 
 namespace CinemaApp.Services.Core;
 

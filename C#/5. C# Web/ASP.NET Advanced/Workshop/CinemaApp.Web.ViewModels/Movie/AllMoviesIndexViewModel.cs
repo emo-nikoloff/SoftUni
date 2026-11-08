@@ -13,4 +13,6 @@ public class AllMoviesIndexViewModel
     public string Director { get; set; } = null!;
 
     public string ImageUrl { get; set; } = null!;
+
+    public bool IsInUserWatchlist { get; set; }
 }

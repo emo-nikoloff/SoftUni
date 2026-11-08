@@ -1,4 +1,4 @@
-using CinemaApp.Services.Core.Data.Enums;
+using CinemaApp.Services.Core.Data.Movie.Enums;
 
 namespace CinemaApp.Services.Core.Data.Movie.Response;
 
