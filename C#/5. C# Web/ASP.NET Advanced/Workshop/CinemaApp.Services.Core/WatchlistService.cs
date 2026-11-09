@@ -71,6 +71,12 @@ public class WatchlistService : IWatchlistService
         if (!movieExists)
         {
             responseData.Status = WatchlistResponseStatus.InvalidReference;
+            responseData.ErrorMessages.Add("Referenced movie does not exist!");
+        }
+
+        if (user == null)
+        {
+            responseData.Status = WatchlistResponseStatus.InvalidReference;
             responseData.ErrorMessages.Add("Referenced user does not exist!");
         }
 
@@ -92,6 +98,60 @@ public class WatchlistService : IWatchlistService
                 };
 
                 await _dbContext.UsersMovies.AddAsync(userMovie);
+                await _dbContext.SaveChangesAsync();
+
+                responseData.Status = WatchlistResponseStatus.Success;
+            }
+            catch (DbUpdateException ex)
+            {
+                responseData.Status = WatchlistResponseStatus.GeneralError;
+                responseData.ErrorMessages = new List<string?>()
+                {
+                    ex.Message,
+                };
+            }
+        }
+
+        return responseData;
+    }
+
+    public async Task<WatchlistServiceStatusResponseModel> RemoveMovieFromWatchlistAsync(string userId, Guid movieId)
+    {
+        WatchlistServiceStatusResponseModel responseData = new()
+        {
+            Status = WatchlistResponseStatus.GeneralError,
+            ErrorMessages = new List<string?>(),
+        };
+
+        IdentityUser? dbUser =
+            await _userManager.FindByIdAsync(userId);
+
+        bool movieExists =
+            await _dbContext.Movies.AnyAsync(m => m.Id == movieId);
+        if (!movieExists)
+        {
+            responseData.Status = WatchlistResponseStatus.InvalidReference;
+            responseData.ErrorMessages.Add("Referenced movie does not exist!");
+        }
+
+        if (dbUser == null)
+        {
+            responseData.Status = WatchlistResponseStatus.InvalidReference;
+            responseData.ErrorMessages.Add("Referenced user does not exist!");
+        }
+
+        UserMovie? dbWatchlistEntry = await _dbContext.UsersMovies
+            .SingleOrDefaultAsync(um => um.UserId.ToLower() == userId.ToLower() &&
+                                            um.MovieId == movieId);
+        if (dbWatchlistEntry == null)
+        {
+            responseData.Status = WatchlistResponseStatus.EntityNotFound;
+        }
+        else
+        {
+            try
+            {
+                _dbContext.UsersMovies.Remove(dbWatchlistEntry);
                 await _dbContext.SaveChangesAsync();
 
                 responseData.Status = WatchlistResponseStatus.Success;

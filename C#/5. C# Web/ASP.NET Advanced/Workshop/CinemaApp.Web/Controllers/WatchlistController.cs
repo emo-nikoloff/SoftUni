@@ -60,5 +60,34 @@ namespace CinemaApp.Web.Controllers
 
             return RedirectToAction(nameof(Index), "Movie");
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Remove([FromForm] Guid? id, [FromQuery] string? returnUrl)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            string userId = GetUserId()!;
+            WatchlistServiceStatusResponseModel responseData =
+                await _watchlistService.RemoveMovieFromWatchlistAsync(userId, id.Value);
+            if (responseData.Status == WatchlistResponseStatus.InvalidReference)
+            {
+                return NotFound();
+            }
+
+            if (responseData.Status == WatchlistResponseStatus.GeneralError)
+            {
+                // TODO: Add JS notification about the error
+            }
+
+            if (returnUrl != null)
+            {
+                return LocalRedirect(returnUrl);
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
