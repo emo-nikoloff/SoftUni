@@ -38,7 +38,7 @@ namespace CinemaApp.Web.Controllers
                     Id = m.Id.ToString(),
                     Title = m.Title,
                     Genre = m.Genre,
-                    ReleaseDate = m.ReleaseDate.ToString(DefaultImageUrl, CultureInfo.InvariantCulture),
+                    ReleaseDate = m.ReleaseDate.ToString(DateFormat, CultureInfo.InvariantCulture),
                     Director = m.Director,
                     ImageUrl = m.ImageUrl ?? DefaultImageUrl,
                 })
