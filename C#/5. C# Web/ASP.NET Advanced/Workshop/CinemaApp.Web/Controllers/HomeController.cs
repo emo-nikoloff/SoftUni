@@ -1,9 +1,11 @@
 namespace CinemaApp.Web.Controllers
 {
     using System.Diagnostics;
-    using CinemaApp.Web.ViewModels;
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;
+
+    using CinemaApp.Web.Infrastructure.Filters;
+    using CinemaApp.Web.ViewModels;
 
     [AllowAnonymous]
     public class HomeController : BaseController
@@ -22,6 +24,7 @@ namespace CinemaApp.Web.Controllers
         }
 
         [HttpGet]
+        [ServiceFilter(typeof(PhoneRequiredActionFilter))]
         public IActionResult Privacy()
         {
             return View();
@@ -46,6 +49,13 @@ namespace CinemaApp.Web.Controllers
                     Title = "Page not found",
                     Message = "The scene you are looking for is not in this cinema. It may have moved or gone off the schedule.",
                     Icon = "bi-film"
+                },
+                403 => new ErrorViewModel
+                {
+                    StatusCode = 403,
+                    Title = "Access forbidden",
+                    Message = "You do not have permission to access this scene.",
+                    Icon = "bi-shield-lock"
                 },
                 _ => new ErrorViewModel
                 {
