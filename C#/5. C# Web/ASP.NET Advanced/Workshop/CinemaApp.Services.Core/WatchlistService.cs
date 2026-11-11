@@ -1,29 +1,34 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 using CinemaApp.Data;
 using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Watchlist.Response;
 using CinemaApp.Services.Core.Data.Watchlist.Response.Enums;
-using Microsoft.AspNetCore.Identity;
 using CinemaApp.Data.Models;
+using CinemaApp.Data.Repository.Contracts;
 
 namespace CinemaApp.Services.Core;
 
 public class WatchlistService : IWatchlistService
 {
-    private readonly CinemaDbContext _dbContext;
+    private readonly IMovieRepository _movieRepository;
+
+    private readonly IUserMovieRepository _userMovieRepository;
 
     private readonly UserManager<IdentityUser> _userManager;
 
-    public WatchlistService(CinemaDbContext dbContext, UserManager<IdentityUser> userManager)
+    public WatchlistService(IUserMovieRepository userMovieRepository, UserManager<IdentityUser> userManager, IMovieRepository movieRepository)
     {
-        _dbContext = dbContext;
+        _movieRepository = movieRepository;
+        _userMovieRepository = userMovieRepository;
         _userManager = userManager;
     }
 
     public async Task<UserFullWatchlistResponseData> GetUserFullWatchlistDataAsync(string userId)
     {
-        IEnumerable<WatchlistMovieDataModel> userWatchlistMoviesData = await _dbContext.UsersMovies
+        IEnumerable<WatchlistMovieDataModel> userWatchlistMoviesData = await _userMovieRepository
+            .AllAsNoTracking()
             .Where(um => um.UserId.ToLower() == userId.ToLower())
             .Select(um => um.Movie)
             .OrderBy(m => m.Title)
@@ -49,8 +54,10 @@ public class WatchlistService : IWatchlistService
     public async Task<bool> IsMovieInUserWatchlistAsync(string userId, Guid movieId)
     {
         bool isMovieInWatchlist =
-            await _dbContext.UsersMovies.AnyAsync(um => um.UserId.ToLower() == userId.ToLower() &&
-                                                                            um.MovieId == movieId);
+            await _userMovieRepository
+                .AllAsNoTracking()
+                .AnyAsync(um => um.UserId.ToLower() == userId.ToLower() &&
+                                                    um.MovieId == movieId);
 
         return isMovieInWatchlist;
     }
@@ -67,7 +74,9 @@ public class WatchlistService : IWatchlistService
             await _userManager.FindByIdAsync(userId);
 
         bool movieExists =
-            await _dbContext.Movies.AnyAsync(m => m.Id == movieId);
+            await _movieRepository
+                .AllAsNoTracking()
+                .AnyAsync(m => m.Id == movieId);
         if (!movieExists)
         {
             responseData.Status = WatchlistResponseStatus.InvalidReference;
@@ -81,8 +90,10 @@ public class WatchlistService : IWatchlistService
         }
 
         bool watchlistEntryExists =
-            await _dbContext.UsersMovies.AnyAsync(um => um.UserId.ToLower() == userId.ToLower() &&
-                                                                            um.MovieId == movieId);
+            await _userMovieRepository
+                .AllAsNoTracking()
+                .AnyAsync(um => um.UserId.ToLower() == userId.ToLower() &&
+                                                    um.MovieId == movieId);
         if (watchlistEntryExists)
         {
             responseData.Status = WatchlistResponseStatus.DuplicatedEntry;
@@ -97,8 +108,8 @@ public class WatchlistService : IWatchlistService
                     MovieId = movieId,
                 };
 
-                await _dbContext.UsersMovies.AddAsync(userMovie);
-                await _dbContext.SaveChangesAsync();
+                await _userMovieRepository.AddAsync(userMovie);
+                await _userMovieRepository.SaveChangesAsync();
 
                 responseData.Status = WatchlistResponseStatus.Success;
             }
@@ -127,7 +138,9 @@ public class WatchlistService : IWatchlistService
             await _userManager.FindByIdAsync(userId);
 
         bool movieExists =
-            await _dbContext.Movies.AnyAsync(m => m.Id == movieId);
+            await _movieRepository
+                .AllAsNoTracking()
+                .AnyAsync(m => m.Id == movieId);
         if (!movieExists)
         {
             responseData.Status = WatchlistResponseStatus.InvalidReference;
@@ -140,9 +153,11 @@ public class WatchlistService : IWatchlistService
             responseData.ErrorMessages.Add("Referenced user does not exist!");
         }
 
-        UserMovie? dbWatchlistEntry = await _dbContext.UsersMovies
-            .SingleOrDefaultAsync(um => um.UserId.ToLower() == userId.ToLower() &&
-                                            um.MovieId == movieId);
+        UserMovie? dbWatchlistEntry =
+            await _userMovieRepository
+                .All()
+                .SingleOrDefaultAsync(um => um.UserId.ToLower() == userId.ToLower() &&
+                                                                um.MovieId == movieId);
         if (dbWatchlistEntry == null)
         {
             responseData.Status = WatchlistResponseStatus.EntityNotFound;
@@ -151,8 +166,8 @@ public class WatchlistService : IWatchlistService
         {
             try
             {
-                _dbContext.UsersMovies.Remove(dbWatchlistEntry);
-                await _dbContext.SaveChangesAsync();
+                _userMovieRepository.Remove(dbWatchlistEntry);
+                await _userMovieRepository.SaveChangesAsync();
 
                 responseData.Status = WatchlistResponseStatus.Success;
             }

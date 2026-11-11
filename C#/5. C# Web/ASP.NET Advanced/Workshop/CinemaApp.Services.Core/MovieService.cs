@@ -1,27 +1,27 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
-using CinemaApp.Data;
 using CinemaApp.Services.Common.Utilities;
 using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Movie.Request;
 using CinemaApp.Services.Core.Data.Movie.Response;
 using CinemaApp.Data.Models;
 using CinemaApp.Services.Core.Data.Movie.Enums;
+using CinemaApp.Data.Repository.Contracts;
 
 namespace CinemaApp.Services.Core;
 
 public class MovieService : IMovieService
 {
-    private readonly CinemaDbContext _dbContext;
+    private readonly IMovieRepository _movieRepository;
 
     private readonly BasicModelValidator _modelValidator;
 
     private readonly ILogger<MovieService> _logger;
 
-    public MovieService(CinemaDbContext dbContext, ILogger<MovieService> logger)
+    public MovieService(IMovieRepository movieRepository, ILogger<MovieService> logger)
     {
-        _dbContext = dbContext;
+        _movieRepository = movieRepository;
         _modelValidator = new();
         _logger = logger;
     }
@@ -30,7 +30,8 @@ public class MovieService : IMovieService
     {
         // TODO: Implement Mapperly for auto generation of mapping code
 
-        IEnumerable<GetAllMoviesResponseModel> moviesResponseData = await _dbContext.Movies
+        IEnumerable<GetAllMoviesResponseModel> moviesResponseData = await _movieRepository
+            .AllAsNoTracking()
             .OrderBy(m => m.Title)
             .ThenBy(m => m.Genre)
             .Select(m => new GetAllMoviesResponseModel()
@@ -73,8 +74,8 @@ public class MovieService : IMovieService
 
             try
             {
-                await _dbContext.Movies.AddAsync(movie);
-                await _dbContext.SaveChangesAsync();
+                await _movieRepository.AddAsync(movie);
+                await _movieRepository.SaveChangesAsync();
 
                 response.Status = MovieServiceResponseStatus.Success;
             }
@@ -98,7 +99,7 @@ public class MovieService : IMovieService
         MovieBasicDataResponseModel? responseData = null;
 
         Movie? dbMovie =
-            await _dbContext.Movies.FindAsync(id);
+            await _movieRepository.FindByIdAsync(id);
         if (dbMovie != null)
         {
             responseData = new()
@@ -118,7 +119,7 @@ public class MovieService : IMovieService
         MovieExtendedDataResponseModel? responseData = null;
 
         Movie? dbMovie =
-            await _dbContext.Movies.FindAsync(id);
+            await _movieRepository.FindByIdAsync(id);
         if (dbMovie != null)
         {
             responseData = new()
@@ -146,7 +147,7 @@ public class MovieService : IMovieService
         };
 
         Movie? dbMovie =
-            await _dbContext.Movies.FindAsync(requestData.Id);
+            await _movieRepository.FindByIdAsync(requestData.Id);
         if (dbMovie == null)
         {
             response.Status = MovieServiceResponseStatus.NotFound;
@@ -172,7 +173,7 @@ public class MovieService : IMovieService
                 dbMovie.Description = requestData.Description;
                 dbMovie.ImageUrl = requestData.ImageUrl;
 
-                await _dbContext.SaveChangesAsync();
+                await _movieRepository.SaveChangesAsync();
 
                 response.Status = MovieServiceResponseStatus.Success;
             }
@@ -198,7 +199,7 @@ public class MovieService : IMovieService
         };
 
         Movie? dbMovie =
-            await _dbContext.Movies.FindAsync(id);
+            await _movieRepository.FindByIdAsync(id);
         if (dbMovie == null)
         {
             response.Status = MovieServiceResponseStatus.NotFound;
@@ -213,8 +214,8 @@ public class MovieService : IMovieService
 
         try
         {
-            dbMovie.IsDeleted = true;
-            await _dbContext.SaveChangesAsync();
+            _movieRepository.SoftDelete(dbMovie);
+            await _movieRepository.SaveChangesAsync();
 
             response.Status = MovieServiceResponseStatus.Success;
         }
@@ -239,7 +240,7 @@ public class MovieService : IMovieService
         };
 
         Movie? dbMovie =
-            await _dbContext.Movies.FindAsync(id);
+            await _movieRepository.FindByIdAsync(id);
         if (dbMovie == null)
         {
             response.Status = MovieServiceResponseStatus.NotFound;
@@ -256,8 +257,8 @@ public class MovieService : IMovieService
         {
             try
             {
-                _dbContext.Movies.Remove(dbMovie);
-                await _dbContext.SaveChangesAsync();
+                _movieRepository.Remove(dbMovie);
+                await _movieRepository.SaveChangesAsync();
 
                 response.Status = MovieServiceResponseStatus.Success;
             }
