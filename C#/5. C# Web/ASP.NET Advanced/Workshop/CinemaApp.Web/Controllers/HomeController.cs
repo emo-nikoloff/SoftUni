@@ -29,9 +29,37 @@ namespace CinemaApp.Web.Controllers
 
         [HttpGet]
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult Error(int? statusCode)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            ErrorViewModel error = statusCode switch
+            {
+                400 => new ErrorViewModel
+                {
+                    StatusCode = 400,
+                    Title = "Bad request",
+                    Message = "The request could not be understood. Please check the information and try again.",
+                    Icon = "bi-exclamation-triangle"
+                },
+                404 => new ErrorViewModel
+                {
+                    StatusCode = 404,
+                    Title = "Page not found",
+                    Message = "The scene you are looking for is not in this cinema. It may have moved or gone off the schedule.",
+                    Icon = "bi-film"
+                },
+                _ => new ErrorViewModel
+                {
+                    StatusCode = 500,
+                    Title = "Something went wrong",
+                    Message = "The projector hit a snag. Please try again in a moment.",
+                    Icon = "bi-tools"
+                }
+            };
+
+            error.RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
+            HttpContext.Response.StatusCode = error.StatusCode;
+
+            return View(error);
         }
     }
 }
