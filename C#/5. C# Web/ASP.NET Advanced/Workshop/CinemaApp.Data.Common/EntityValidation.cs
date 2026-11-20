@@ -12,4 +12,15 @@ public static class EntityValidation
 
         public const string ReleaseDateColumnType = "smalldatetime";
     }
+
+    public static class Cinema
+    {
+        public const int NameMaxLength = 80;
+        public const int LocationNameMaxLength = 50;
+    }
+
+    public static class CinemaMovie
+    {
+        public const string ShowtimeColumnType = "smalldatetime";
+    }
 }
