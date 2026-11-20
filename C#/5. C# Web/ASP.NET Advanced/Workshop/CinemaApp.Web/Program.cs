@@ -32,6 +32,18 @@ namespace CinemaApp.Web
             builder.Services.AddScoped<ICinemaService, CinemaService>();
             builder.Services.AddScoped<ITicketService, TicketService>();
 
+            // Setup of example CORS policy
+            // .AllowAnyOrigin() should be used only for CDN Api Endpoints
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSoftUniDomain", config =>
+                {
+                    config.WithOrigins("https://softuni.bg/")
+                        .WithMethods("GET", "POST")
+                        .AllowAnyHeader();
+                });
+            });
+
             builder.Services.AddScoped<PhoneRequiredActionFilter>();
 
             builder.Services.AddDefaultIdentity<IdentityUser>(options =>
@@ -72,6 +84,8 @@ namespace CinemaApp.Web
 
             app.UseAuthentication();
             app.UseAuthorization();
+
+            app.UseCors("AllowSoftUniDomain");
 
             app.MapControllerRoute(
                 name: "default",
