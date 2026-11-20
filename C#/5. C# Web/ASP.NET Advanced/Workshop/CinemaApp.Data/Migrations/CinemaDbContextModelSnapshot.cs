@@ -44,6 +44,29 @@ namespace CinemaApp.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Cinemas");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("d2c5e0a1-9c9b-4a80-8d76-5c0e0a4a2f11"),
+                            IsDeleted = false,
+                            Location = "Sofia",
+                            Name = "Arena Cinema"
+                        },
+                        new
+                        {
+                            Id = new Guid("a7f3b2c8-6e14-4d55-9f2a-1b8c7e6d3a90"),
+                            IsDeleted = false,
+                            Location = "Plovdiv",
+                            Name = "Cine Grand"
+                        },
+                        new
+                        {
+                            Id = new Guid("4e8d1c6b-2f75-4a39-b0e6-9c3d5f7a8214"),
+                            IsDeleted = false,
+                            Location = "Varna",
+                            Name = "Movie Park"
+                        });
                 });
 
             modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
@@ -75,6 +98,35 @@ namespace CinemaApp.Data.Migrations
                         .IsUnique();
 
                     b.ToTable("Projections");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("b1f4a8d2-3c67-4e90-8a15-6d2f7c9b0e41"),
+                            AvailableTickets = 120,
+                            CinemaId = new Guid("d2c5e0a1-9c9b-4a80-8d76-5c0e0a4a2f11"),
+                            IsDeleted = false,
+                            MovieId = new Guid("4571bf2f-dbb3-446c-a92a-07cb77f47ed0"),
+                            Showtime = new DateTime(2026, 12, 1, 18, 30, 0, 0, DateTimeKind.Unspecified)
+                        },
+                        new
+                        {
+                            Id = new Guid("e6c2b9f7-1a54-4d83-b028-9f7e3c6a5d12"),
+                            AvailableTickets = 100,
+                            CinemaId = new Guid("a7f3b2c8-6e14-4d55-9f2a-1b8c7e6d3a90"),
+                            IsDeleted = false,
+                            MovieId = new Guid("e673a37c-8ffc-46bf-a66d-18b8078d7c94"),
+                            Showtime = new DateTime(2026, 12, 2, 20, 0, 0, 0, DateTimeKind.Unspecified)
+                        },
+                        new
+                        {
+                            Id = new Guid("8d3f6b1a-5e92-47c0-a684-2b9f7d4e1c53"),
+                            AvailableTickets = 150,
+                            CinemaId = new Guid("4e8d1c6b-2f75-4a39-b0e6-9c3d5f7a8214"),
+                            IsDeleted = false,
+                            MovieId = new Guid("2f22c0dd-f7b9-46c3-a753-0d076dafb489"),
+                            Showtime = new DateTime(2026, 12, 3, 19, 15, 0, 0, DateTimeKind.Unspecified)
+                        });
                 });
 
             modelBuilder.Entity("CinemaApp.Data.Models.Movie", b =>
