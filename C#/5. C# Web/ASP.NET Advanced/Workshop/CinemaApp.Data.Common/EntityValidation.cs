@@ -23,4 +23,9 @@ public static class EntityValidation
     {
         public const string ShowtimeColumnType = "smalldatetime";
     }
+
+    public static class Ticket
+    {
+        public const string PriceColumnType = "decimal(9, 4)";
+    }
 }

@@ -1,14 +1,16 @@
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
 
 using CinemaApp.Data.Common.Models;
 using static CinemaApp.Data.Common.EntityValidation.CinemaMovie;
 
 namespace CinemaApp.Data.Models;
 
-[PrimaryKey(nameof(CinemaId), nameof(MovieId))]
 public class CinemaMovie : ISoftDeletableEntity
 {
+    [Key]
+    public Guid Id { get; set; }
+
     [ForeignKey(nameof(Cinema))]
     public Guid CinemaId { get; set; }
 
@@ -25,4 +27,6 @@ public class CinemaMovie : ISoftDeletableEntity
 
     [Column(TypeName = ShowtimeColumnType)]
     public DateTime Showtime { get; set; }
+
+    public virtual ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
 }

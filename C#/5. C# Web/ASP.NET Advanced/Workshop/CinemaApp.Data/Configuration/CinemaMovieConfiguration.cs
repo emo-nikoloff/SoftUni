@@ -12,5 +12,12 @@ public class CinemaMovieConfiguration : IEntityTypeConfiguration<CinemaMovie>
         builder.HasQueryFilter(cm => cm.IsDeleted == false &&
             cm.Cinema.IsDeleted == false &&
             cm.Movie.IsDeleted == false);
+
+        builder.HasIndex(cm => new
+        {
+            cm.CinemaId,
+            cm.MovieId,
+        })
+        .IsUnique();
     }
 }
