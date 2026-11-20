@@ -137,6 +137,37 @@ namespace CinemaApp.Web.Controllers
             return View(movieDetailsViewModel);
         }
 
+        [AllowAnonymous]
+        [HttpGet]
+        public async Task<IActionResult> DetailsPartial([FromRoute] Guid? id)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            MovieExtendedDataResponseModel? movieExtendedData =
+                await _movieService.GetMovieExtendedDataByIdAsync(id.Value);
+            if (movieExtendedData == null)
+            {
+                return NotFound();
+            }
+
+            MovieDetailsViewModel movieDetailsViewModel = new()
+            {
+                Id = movieExtendedData.Id.ToString(),
+                Title = movieExtendedData.Title,
+                Genre = movieExtendedData.Genre,
+                ReleaseDate = movieExtendedData.ReleaseDate.ToString(DateFormat),
+                Director = movieExtendedData.Director,
+                Duration = movieExtendedData.Duration,
+                Description = movieExtendedData.Description,
+                ImageUrl = movieExtendedData.ImageUrl ?? DefaultImageUrl,
+            };
+
+            return PartialView("_MovieDetailsPartial", movieDetailsViewModel);
+        }
+
         [HttpGet]
         public async Task<IActionResult> Edit([FromRoute] Guid? id)
         {

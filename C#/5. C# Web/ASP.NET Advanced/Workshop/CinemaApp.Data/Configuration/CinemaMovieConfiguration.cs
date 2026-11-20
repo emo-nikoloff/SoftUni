@@ -45,6 +45,7 @@ public class CinemaMovieConfiguration : IEntityTypeConfiguration<CinemaMovie>
         {
             cm.CinemaId,
             cm.MovieId,
+            cm.Showtime,
         })
         .IsUnique();
 

@@ -39,6 +39,11 @@
 				<div class="navbar-collapse collapse d-lg-inline-flex justify-content-between">
 					<ul class="navbar-nav flex-grow-1">
 						<li class="nav-item">
+							<a class="nav-link text-light" asp-area="" asp-controller="Cinema" asp-action="Index">
+								<i class="bi bi-film"></i> Cinemas
+							</a>
+						</li>
+						<li class="nav-item">
 							<a class="nav-link text-light" asp-area="" asp-controller="Movie" asp-action="Index">
 								<i class="bi bi-camera-reels"></i> Movies
 							</a>
@@ -53,8 +58,8 @@
 							</li>
 
 							<li class="nav-item">
-								<a class="nav-link text-light" asp-area="" asp-controller="Movie" asp-action="Add">
-									<i class="bi bi-ticket-perforated"></i> Add Movie
+								<a class="nav-link text-light" asp-area="" asp-controller="Ticket" asp-action="Index">
+									<i class="bi bi-ticket-perforated"></i> Tickets
 								</a>
 							</li>
 						}
@@ -79,6 +84,7 @@
 	<script src="~/lib/jquery/dist/jquery.min.js"></script>
 	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 	<script src="~/js/site.js" asp-append-version="true"></script>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 	@await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

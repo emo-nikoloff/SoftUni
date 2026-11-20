@@ -30,6 +30,7 @@ namespace CinemaApp.Web
             builder.Services.AddScoped<IMovieService, MovieService>();
             builder.Services.AddScoped<IWatchlistService, WatchlistService>();
             builder.Services.AddScoped<ICinemaService, CinemaService>();
+            builder.Services.AddScoped<ITicketService, TicketService>();
 
             builder.Services.AddScoped<PhoneRequiredActionFilter>();
 
@@ -38,6 +39,10 @@ namespace CinemaApp.Web
                 ConfigureIdentityOptions(builder.Configuration, options);
             })
                 .AddEntityFrameworkStores<CinemaDbContext>();
+
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
@@ -47,6 +52,9 @@ namespace CinemaApp.Web
             {
                 app.UseDeveloperExceptionPage();
                 app.UseMigrationsEndPoint();
+
+                app.UseSwagger();
+                app.UseSwaggerUI();
             }
             else
             {

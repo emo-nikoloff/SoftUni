@@ -5,4 +5,6 @@ namespace CinemaApp.Services.Core.Contracts;
 public interface ICinemaService
 {
     Task<IEnumerable<GetAllCinemasResponseModel>> GetAllCinemasAsync();
+
+    Task<CinemaProgramResponseModel?> GetCinemaProgramByIdAsync(Guid cinemaId);
 }

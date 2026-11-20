@@ -1,8 +1,11 @@
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
 using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Cinema.Response;
 using CinemaApp.Web.ViewModels.Cinema;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+using CinemaApp.Web.ViewModels.CinemaMovie;
+using static CinemaApp.GCommon.ApplicationConstants;
 
 namespace CinemaApp.Web.Controllers
 {
@@ -34,5 +37,33 @@ namespace CinemaApp.Web.Controllers
             return View(indexViewModel);
         }
 
+        [AllowAnonymous]
+        [HttpGet]
+        public async Task<IActionResult> Program([FromRoute] Guid? id)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            CinemaProgramResponseModel? responseData =
+                await _cinemaService.GetCinemaProgramByIdAsync(id.Value);
+            if (responseData == null)
+            {
+                return NotFound();
+            }
+
+            IEnumerable<CinemaProgramViewModel> programViewModel = responseData.Movies
+                .Select(m => new CinemaProgramViewModel
+                {
+                    Id = m.Id,
+                    Title = m.Title,
+                    Director = m.Director,
+                    ImageUrl = m.ImageUrl ?? DefaultImageUrl,
+                })
+                .ToArray();
+
+            return View(programViewModel);
+        }
     }
 }

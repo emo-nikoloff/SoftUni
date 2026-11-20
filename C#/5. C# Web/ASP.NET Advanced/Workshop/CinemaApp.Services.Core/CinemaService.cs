@@ -1,3 +1,4 @@
+using CinemaApp.Data.Models;
 using CinemaApp.Data.Repository.Contracts;
 using CinemaApp.Services.Core.Contracts;
 using CinemaApp.Services.Core.Data.Cinema.Response;
@@ -17,7 +18,8 @@ public class CinemaService : ICinemaService
     public async Task<IEnumerable<GetAllCinemasResponseModel>> GetAllCinemasAsync()
     {
         IEnumerable<GetAllCinemasResponseModel> responseData =
-            await _cinemaRepository.AllAsNoTracking()
+            await _cinemaRepository
+                .AllAsNoTracking()
                 .OrderBy(c => c.Name)
                 .ThenBy(c => c.Location)
                 .Select(c => new GetAllCinemasResponseModel
@@ -27,6 +29,39 @@ public class CinemaService : ICinemaService
                     Location = c.Location,
                 })
                 .ToArrayAsync();
+
+        return responseData;
+    }
+
+    public async Task<CinemaProgramResponseModel?> GetCinemaProgramByIdAsync(Guid cinemaId)
+    {
+        CinemaProgramResponseModel? responseData = null;
+
+        Cinema? dbCinema = await _cinemaRepository
+            .AllAsNoTracking()
+            .Include(c => c.CinemaProjections)
+            .ThenInclude(p => p.Movie)
+            .SingleOrDefaultAsync(c => c.Id == cinemaId);
+        if (dbCinema != null)
+        {
+            IEnumerable<CinemaMovieResponseData> movies = dbCinema.CinemaProjections
+                .Select(p => p.Movie)
+                .OrderBy(m => m.Title)
+                .ThenBy(m => m.Id)
+                .Select(m => new CinemaMovieResponseData
+                {
+                    Id = m.Id,
+                    Title = m.Title,
+                    Director = m.Director,
+                    ImageUrl = m.ImageUrl,
+                })
+                .ToArray();
+
+            responseData = new()
+            {
+                Movies = movies
+            };
+        }
 
         return responseData;
     }
