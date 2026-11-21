@@ -1,3 +1,4 @@
+using CinemaApp.Services.Core.Data.Ticket.Request;
 using CinemaApp.Services.Core.Data.Ticket.Response;
 
 namespace CinemaApp.Services.Core.Contracts;
@@ -5,4 +6,8 @@ namespace CinemaApp.Services.Core.Contracts;
 public interface ITicketService
 {
     Task<IEnumerable<GetUserAllTicketsResponseModel>> GetUserAllTicketsByUserIdAsync(string userId);
+
+    Task<bool> BuyTicketsByUserIdAndProjectionIdAsync(BuyTicketsRequestModel requestData);
+
+    Task<int> GetBoughtTicketsPerProjectionAsync(Guid projectionId);
 }

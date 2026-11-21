@@ -407,6 +407,26 @@ namespace CinemaApp.Data.Migrations
                     b.HasIndex("ProjectionId");
 
                     b.ToTable("Tickets");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("f1a2b3c4-d5e6-4789-a012-3456789abcde"),
+                            Price = 12.50m,
+                            ProjectionId = new Guid("b1f4a8d2-3c67-4e90-8a15-6d2f7c9b0e41")
+                        },
+                        new
+                        {
+                            Id = new Guid("a2b3c4d5-e6f7-4890-ab12-3456789abcde"),
+                            Price = 12.50m,
+                            ProjectionId = new Guid("e6c2b9f7-1a54-4d83-b028-9f7e3c6a5d12")
+                        },
+                        new
+                        {
+                            Id = new Guid("b3c4d5e6-f7a8-4901-bc23-456789abcdef"),
+                            Price = 12.50m,
+                            ProjectionId = new Guid("8d3f6b1a-5e92-47c0-a684-2b9f7d4e1c53")
+                        });
                 });
 
             modelBuilder.Entity("CinemaApp.Data.Models.UserMovie", b =>

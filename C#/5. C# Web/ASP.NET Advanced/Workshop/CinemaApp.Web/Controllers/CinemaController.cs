@@ -53,8 +53,8 @@ namespace CinemaApp.Web.Controllers
                 return NotFound();
             }
 
-            IEnumerable<CinemaProgramViewModel> programViewModel = responseData.Movies
-                .Select(m => new CinemaProgramViewModel
+            IEnumerable<CinemaMovieViewModel> cinemaMovies = responseData.Movies
+                .Select(m => new CinemaMovieViewModel
                 {
                     Id = m.Id,
                     Title = m.Title,
@@ -62,6 +62,15 @@ namespace CinemaApp.Web.Controllers
                     ImageUrl = m.ImageUrl ?? DefaultImageUrl,
                 })
                 .ToArray();
+
+            string cinemaName =
+                (await _cinemaService.GetCinemaNameByIdAsync(id.Value))!;
+            CinemaProgramViewModel programViewModel = new()
+            {
+                CinemaId = id.Value,
+                CinemaName = cinemaName,
+                Movies = cinemaMovies,
+            };
 
             return View(programViewModel);
         }
