@@ -47,16 +47,22 @@ namespace CinemaApp.Web
 
             builder.Services.AddScoped<PhoneRequiredActionFilter>();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
             {
                 ConfigureIdentityOptions(builder.Configuration, options);
             })
+                .AddRoles<IdentityRole>()
+                .AddUserManager<UserManager<IdentityUser>>()
+                .AddSignInManager<SignInManager<IdentityUser>>()
+                .AddDefaultUI()
+                .AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<CinemaDbContext>();
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddControllersWithViews();
+            builder.Services.AddRazorPages();
 
             var app = builder.Build();
 
@@ -89,9 +95,14 @@ namespace CinemaApp.Web
             app.UseCors("AllowSoftUniDomain");
 
             app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+            app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapRazorPages();
+
+            app.UseDefaultRoles();
 
             app.Run();
         }
