@@ -102,7 +102,7 @@ namespace CinemaApp.Web
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapRazorPages();
 
-            app.UseDefaultRoles();
+            app.UseDefaultRoles(app.Configuration);
 
             app.Run();
         }
